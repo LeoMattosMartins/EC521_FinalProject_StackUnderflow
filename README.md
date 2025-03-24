@@ -1,1 +1,14 @@
 # EC521_Scrapper
+
+The goal of this project is to create methods for detecting errors and some vulnerabilities within code.
+We take mutliple approaches to this problem, and will compare the different approaches based on their efficiency and accuracy.
+
+# Transformer:
+The first approach we took was to create a transformer that would be specialized in detecting vulnerable code and errors within code. The benefit of this method is that its efficient design that specializes in certain tasks is able to be trained faster, while not losing efficiency over an LLM, while being a much better and more powerful alternative to traditional ML and DL models. The transformer we used for this project was a fine-tuned CodeBERT, which is a transformer that has about 125 million parameters, which allows it to intake a large amount of data, and process it. The benefit of using a transforer over other methods of Deep Learning is that it is able to read a file all at once, and form relationships between certain lines of code or keywords rathar than the way most other methods do it, which is reading everything word by word (One example is something like an LSTM). As a result of this, the model is able to perform better, as it can form these relationships with less difficulty than a model like an LSTM, and can analyze the data better for code as such. The model's parameter size allows for relatively quick fine-tuning (about 10-20 hours training time), while still retaining a lot of effectiveness. 
+
+# LLM:
+The second appraoch we decided to take was to use an LLM like DeepSeek. LLMs are, as the name suggests, very large parameter models that can perform very well. Their large parameter size (a few billion parameters, wow) allows them to intake a lot of data at once. The issue with this large parameter size is, despite their amazing ability to form relationships between different lines, they are incredibly large, and thus take a long time to train/fine-tune. Due to our current capabilities, we decided to not fine-tune DeepSeek for this model, but rather compare the base model to an upgraded/specialized CodeBERT model. DeepSeek is amazing, but it isn't specially trained to look for things like vulnerabilities and errors in code, and as such it might be limited due to it not knowing what specifically to look for within the code.
+
+# Human Approach:
+The third and final approach we decided to take was to create an algorithm that will be completely run off of logic and clever checks that will be created by a human. This approach will take inspiration from modern compilers, and use that to try and create methods to detect errors and some vulnerabilities within code. This algorithm will check everything line-by-line, and be given instruction on how specifically to look for things within code.
+
