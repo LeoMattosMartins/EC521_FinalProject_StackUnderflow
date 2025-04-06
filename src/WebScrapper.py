@@ -4,9 +4,9 @@ from datetime import datetime
 import json
 
 # Replace these placeholders with your actual credentials
-CLIENT_ID = "31699"
-CLIENT_SECRET = "XbcG6aYWK4dyp9BEflelXw"
-KEY = "rl_oXxb8DYEeYi7ybXp8LG5nUtEr"
+CLIENT_ID =""
+CLIENT_SECRET = ""
+KEY = ""
 
 def get_questions(page=1):
     url = "https://api.stackexchange.com/2.3/questions"
