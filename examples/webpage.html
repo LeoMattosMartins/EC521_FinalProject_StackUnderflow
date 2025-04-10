@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Dashboard - SimplePortal</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        .header { background: #f4f4f4; padding: 10px; margin-bottom: 20px; }
+        .dashboard { display: flex; }
+        .sidebar { width: 250px; background: #eee; padding: 15px; }
+        .content { flex: 1; padding: 15px; }
+        .message { border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; }
+        .profile-card { border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; }
+        .search-results { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>SimplePortal Dashboard</h1>
+        <div id="welcome-message"></div>
+    </div>
+
+    <div class="dashboard">
+        <div class="sidebar">
+            <h3>Navigation</h3>
+            <ul>
+                <li><a href="#profile">My Profile</a></li>
+                <li><a href="#messages">Messages</a></li>
+                <li><a href="#search">Search Users</a></li>
+                <li><a href="#settings">Settings</a></li>
+            </ul>
+            <div id="last-login"></div>
+        </div>
+
+        <div class="content">
+            <!-- Profile Section -->
+            <section id="profile" class="profile-card">
+                <h2>My Profile</h2>
+                <div id="profile-data"></div>
+                <button onclick="editProfile()">Edit Profile</button>
+            </section>
+
+            <!-- Messages Section -->
+            <section id="messages">
+                <h2>Recent Messages</h2>
+                <div id="message-list"></div>
+            </section>
+
+            <!-- Search Section -->
+            <section id="search">
+                <h2>Search Users</h2>
+                <input type="text" id="search-term" placeholder="Enter username or keyword">
+                <button onclick="searchUsers()">Search</button>
+                <div class="search-results" id="search-results"></div>
+            </section>
+
+            <!-- Comment Section -->
+            <section id="comments">
+                <h2>Comments</h2>
+                <div id="comment-list"></div>
+                <textarea id="new-comment" placeholder="Leave a comment"></textarea>
+                <button onclick="addComment()">Submit Comment</button>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        // Simulate user data from server
+        const userData = {
+            username: getQueryParam('username') || "anonymous",
+            bio: getQueryParam('bio') || "No bio available",
+            lastLogin: new Date().toLocaleString(),
+            role: getQueryParam('role') || "user"
+        };
+
+        // Messages from other users
+        const messages = [
+            { from: "admin", subject: "Welcome!", content: "Welcome to SimplePortal!" },
+            { from: "system", subject: "Security Update", content: getQueryParam('notification') || "No new notifications" }
+        ];
+
+        // Get URL parameter
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Display welcome message - VULNERABILITY #1: Direct innerHTML assignment
+        document.getElementById('welcome-message').innerHTML = '<p>Welcome back, ' + userData.username + '!</p>';
+
+        // Load profile data - VULNERABILITY #2: HTML can be injected via bio parameter
+        function loadProfile() {
+            const profileHtml = `
+                <p><strong>Username:</strong> ${userData.username}</p>
+                <p><strong>Bio:</strong> ${userData.bio}</p>
+                <p><strong>Role:</strong> ${userData.role}</p>
+            `;
+            document.getElementById('profile-data').innerHTML = profileHtml;
+        }
+
+        // Show last login time - VULNERABILITY #3: HTML injection via template literal
+        document.getElementById('last-login').innerHTML = `<p>Last login: ${userData.lastLogin}</p>`;
+
+        // Load messages - VULNERABILITY #4: HTML injection in message content
+        function loadMessages() {
+            let messageHtml = '';
+            messages.forEach(msg => {
+                messageHtml += `
+                    <div class="message">
+                        <h4>${msg.from}: ${msg.subject}</h4>
+                        <p>${msg.content}</p>
+                    </div>
+                `;
+            });
+            document.getElementById('message-list').innerHTML = messageHtml;
+        }
+
+        // Search users - VULNERABILITY #5: eval() execution
+        function searchUsers() {
+            const searchTerm = document.getElementById('search-term').value;
+            
+            // DANGER: Using eval on user input
+            try {
+                const query = "findUsers('" + searchTerm + "')";
+                const results = eval(query);
+                displaySearchResults(results);
+            } catch (e) {
+                console.error("Search error:", e);
+                document.getElementById('search-results').innerHTML = "<p>Error in search query</p>";
+            }
+        }
+
+        // Simulated user search function
+        function findUsers(term) {
+            // In a real app, this would search a database
+            return [
+                { username: "user1", role: "user" },
+                { username: "admin", role: "admin" },
+                { username: term, role: "user" }
+            ];
+        }
+
+        // Display search results - VULNERABILITY #6: HTML injection in search results
+        function displaySearchResults(results) {
+            let resultsHtml = '<ul>';
+            results.forEach(user => {
+                resultsHtml += '<li>User: ' + user.username + ' (Role: ' + user.role + ')</li>';
+            });
+            resultsHtml += '</ul>';
+            document.getElementById('search-results').innerHTML = resultsHtml;
+        }
+
+        // Add comment - VULNERABILITY #7: setTimeout with string execution
+        function addComment() {
+            const commentText = document.getElementById('new-comment').value;
+            const commentList = document.getElementById('comment-list');
+            
+            // DANGER: Using setTimeout with string that contains user input
+            setTimeout("addCommentToList('" + commentText + "')", 100);
+            
+            document.getElementById('new-comment').value = '';
+        }
+
+        // Helper for adding comment - VULNERABILITY #8: DOM manipulation without sanitization
+        function addCommentToList(text) {
+            const commentDiv = document.createElement('div');
+            commentDiv.className = 'message';
+            
+            // DANGER: Using innerHTML with user input
+            commentDiv.innerHTML = '<p><strong>' + userData.username + ':</strong> ' + text + '</p>';
+            
+            document.getElementById('comment-list').appendChild(commentDiv);
+        }
+
+        // Edit profile - VULNERABILITY #9: Function constructor with user data
+        function editProfile() {
+            const newBio = prompt("Enter new bio:", userData.bio);
+            if (newBio) {
+                userData.bio = newBio;
+                
+                // DANGER: Using Function constructor with user input
+                const updateProfileFn = new Function('data', 'document.getElementById("profile-data").innerHTML = "<p><strong>Username:</strong> " + data.username + "</p><p><strong>Bio:</strong> " + data.bio + "</p><p><strong>Role:</strong> " + data.role + "</p>";');
+                
+                updateProfileFn(userData);
+            }
+        }
+
+        // Initialize page
+        window.onload = function() {
+            loadProfile();
+            loadMessages();
+        };
+    </script>
+</body>
+</html>
