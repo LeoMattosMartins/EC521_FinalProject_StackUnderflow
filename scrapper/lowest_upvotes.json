@@ -1,0 +1,74 @@
+[
+    {
+        "tag": "cybersecurity",
+        "title": "Can i provide SSH credentials to an applet without leaking them to the entire Internet?",
+        "link": "https://stackoverflow.com/questions/7211986/can-i-provide-ssh-credentials-to-an-applet-without-leaking-them-to-the-entire-in",
+        "score": -15,
+        "closed_reason": "Needs details or clarity",
+        "creation_date": "2011-08-26T21:29:45"
+    },
+    {
+        "tag": "c++",
+        "title": "Why won&#39;t clang compile this source code that works in VS2012?",
+        "link": "https://stackoverflow.com/questions/20875614/why-wont-clang-compile-this-source-code-that-works-in-vs2012",
+        "score": -50,
+        "closed_reason": "N/A",
+        "creation_date": "2014-01-01T21:52:03"
+    },
+    {
+        "tag": "python",
+        "title": "find all possible combinations of letters in a string in python",
+        "link": "https://stackoverflow.com/questions/27885020/find-all-possible-combinations-of-letters-in-a-string-in-python",
+        "score": -35,
+        "closed_reason": "Duplicate",
+        "creation_date": "2015-01-11T02:43:21"
+    },
+    {
+        "tag": "html",
+        "title": "How do I remove a style element from an inline style using regex?",
+        "link": "https://stackoverflow.com/questions/30791292/how-do-i-remove-a-style-element-from-an-inline-style-using-regex",
+        "score": -86,
+        "closed_reason": "N/A",
+        "creation_date": "2015-06-11T16:55:54"
+    },
+    {
+        "tag": "javascript",
+        "title": "Javascript performance, conditional statement vs assignment operator",
+        "link": "https://stackoverflow.com/questions/17686749/javascript-performance-conditional-statement-vs-assignment-operator",
+        "score": -107,
+        "closed_reason": "Needs details or clarity",
+        "creation_date": "2013-07-16T16:51:44"
+    },
+    {
+        "tag": "web",
+        "title": "HTML checkboxes and input options",
+        "link": "https://stackoverflow.com/questions/32936652/html-checkboxes-and-input-options",
+        "score": -10,
+        "closed_reason": "Needs more focus",
+        "creation_date": "2015-10-04T14:06:29"
+    },
+    {
+        "tag": "php",
+        "title": "How to send 100,000 emails weekly?",
+        "link": "https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly",
+        "score": -145,
+        "closed_reason": "not constructive",
+        "creation_date": "2010-10-11T07:24:18"
+    },
+    {
+        "tag": "go",
+        "title": "Go net/http request",
+        "link": "https://stackoverflow.com/questions/27034517/go-net-http-request",
+        "score": -14,
+        "closed_reason": "Duplicate",
+        "creation_date": "2014-11-20T03:00:49"
+    },
+    {
+        "tag": "java",
+        "title": "No response from jsonArray request",
+        "link": "https://stackoverflow.com/questions/44899821/no-response-from-jsonarray-request",
+        "score": -43,
+        "closed_reason": "Needs details or clarity",
+        "creation_date": "2017-07-04T03:39:23"
+    }
+]
