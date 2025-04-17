@@ -1,5 +1,20 @@
 import re
 
+"""
+Analyzes C source code for common memory and security vulnerabilities.
+
+The function inspects each line of C code using regex heuristics and basic tracking
+to detect issues like format-string vulnerabilities, memory mismanagement,
+unsafe functions, and more.
+
+@param c_code A string containing multiple lines of C source code.
+	  Each line will be analyzed for potential vulnerabilities.
+
+@return A list of tuples List[Tuple[int, str]]:
+    - The line number (int) where the issue was found
+    - A description (str) of the detected vulnerability
+"""
+
 def find_c_vulnerabilities(c_code: str):
     lines = c_code.split('\n')
     freed_vars = set()
