@@ -29,17 +29,14 @@ VULNERABILITY_PATTERNS = {
     },
 }
 
-def detect_vulnerabilities(file_path):
+
+# In web.py (interpreters/web.py)
+def detect_vulnerabilities(code):  # Changed from file_path to code
     """
-    Detect XSS, Injection, and DOM-based vulnerabilities in a file.
-    
-    :param file_path: Path to the file to be scanned.
-    :return: Dictionary of vulnerabilities grouped by category and type.
+    Detect vulnerabilities in a code string (not a file).
     """
     try:
-        with open(file_path, "r", encoding="utf-8") as file:
-            lines = file.readlines()
-
+        lines = code.splitlines()  # Split code into lines
         vulnerabilities = {category: {} for category in VULNERABILITY_PATTERNS}
 
         for category, patterns in VULNERABILITY_PATTERNS.items():
@@ -53,6 +50,10 @@ def detect_vulnerabilities(file_path):
 
         return vulnerabilities
 
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return {}
+
     except FileNotFoundError:
         print(f"Error: File '{file_path}' not found.")
         return {}
@@ -60,16 +61,17 @@ def detect_vulnerabilities(file_path):
         print(f"An error occurred: {e}")
         return {}
 
+
 # Example usage
 if __name__ == "__main__":
     file_path = "../../examples/webpage.html"  # Replace with your file path
     detected = detect_vulnerabilities(file_path)
-    
+
     if any(detected.values()):
         print("Potential vulnerabilities detected:")
         total_categories = sum(1 for cat in detected.values() if cat)
         print(f"Total Categories of Vulnerabilities: {total_categories}")
-        
+
         for category, vulns in detected.items():
             if not vulns:
                 continue
@@ -77,6 +79,8 @@ if __name__ == "__main__":
             for idx, (vuln_type, line_numbers) in enumerate(vulns.items(), start=1):
                 min_line = min(line_numbers)
                 max_line = max(line_numbers)
-                print(f"  {idx}. {vuln_type}: Lines {min_line}-{max_line} (Occurrences: {len(line_numbers)})")
+                print(
+                    f"  {idx}. {vuln_type}: Lines {min_line}-{max_line} (Occurrences: {len(line_numbers)})"
+                )
     else:
         print("No vulnerabilities detected.")

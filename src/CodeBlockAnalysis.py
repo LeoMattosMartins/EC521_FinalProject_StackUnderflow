@@ -3,7 +3,8 @@ import os
 import torch
 from transformers import GPTNeoForCausalLM, GPT2Tokenizer
 from interpreters.web import detect_vulnerabilities  # HTML/JS interpreter
-from interpreters.c import find_c_vulnerabilities  # New C interpreter
+from interpreters.c import find_c_vulnerabilities    # C/C++ interpreter
+from interpreters.sql import find_sql_vulnerabilities  # SQL interpreter
 
 # Check for CUDA availability
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -12,7 +13,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = GPTNeoForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B").to(device)
 tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
 
-directory = "../../scrapper/ParsedData"
+directory = "../scrapper/ParsedData"
 output_file = "vulnerabilities_report.txt"
 
 def is_code(body):
@@ -62,15 +63,19 @@ def run():
                         formatted_vulns = []
 
                         if predicted_language in ["html", "javascript"]:
-                            vulnerabilities = detect_vulnerabilities(body)
+                            vulnerabilities = detect_vulnerabilities(body)  # Now works with code string
                             for category, vuln_types in vulnerabilities.items():
                                 for vuln_type, lines in vuln_types.items():
                                     for line in lines:
                                         formatted_vulns.append(f"Line {line}: {vuln_type}")
 
-                        elif predicted_language == "c" or predicted_language == "c++":
+                        elif predicted_language in ["c", "c++"]:
                             c_vulns = find_c_vulnerabilities(body)
                             formatted_vulns = [f"Line {line}: {desc}" for line, desc in c_vulns]
+                        
+                        elif predicted_language == "sql":
+                            sql_vulns = find_sql_vulnerabilities(body)
+                            formatted_vulns = [f"Line {line}: {desc}" for line, desc in sql_vulns]
 
                         # Write results if any vulnerabilities found
                         if formatted_vulns:
