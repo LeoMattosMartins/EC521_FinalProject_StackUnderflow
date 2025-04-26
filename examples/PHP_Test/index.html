@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Unsafe Message</title>
+    </head>
+    <body>
+        <script>
+            const params = new URLSearchParams(window.location.search);
+            const msg = params.get('msg') || "No message available.";
+
+            document.write("<h2>" + msg + "</h2>");
+        </script>
+
+        <br>
+        <button onclick="window.location.href='unsafe.html'">Back to Login</button>
+    </body>
+</html>

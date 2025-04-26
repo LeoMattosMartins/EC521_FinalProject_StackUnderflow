@@ -1,87 +1,113 @@
 import json
 import os
 import torch
-from transformers import GPTNeoForCausalLM, GPT2Tokenizer
-from interpreters.web import detect_vulnerabilities  # HTML/JS interpreter
-from interpreters.c import find_c_vulnerabilities    # C/C++ interpreter
-from interpreters.sql import find_sql_vulnerabilities  # SQL interpreter
+from transformers import pipeline
+from interpreters.web import detect_vulnerabilities
+from interpreters.c import find_c_vulnerabilities
+from interpreters.sql import find_sql_vulnerabilities
+from interpreters.php import find_php_vulnerabilities
+from collections import Counter
 
 # Check for CUDA availability
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = 0 if torch.cuda.is_available() else -1
 
-# Load model and tokenizer
-model = GPTNeoForCausalLM.from_pretrained("EleutherAI/gpt-neo-1.3B").to(device)
-tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
+# Zero-shot classifier
+classifier = pipeline(
+    "zero-shot-classification",
+    model="facebook/bart-large-mnli",
+    device=device,
+)
 
 directory = "../scrapper/ParsedData"
 output_file = "vulnerabilities_report.txt"
 
 def is_code(body):
-    code_keywords = ["#", "include", "struct", "class", "def", "function", "{", "}"]
-    return any(keyword in body for keyword in code_keywords)
+    return any(k in body for k in ["#", "include", "struct", "class", "def", "function", "{", "}"])
 
 def run():
-    with open(output_file, 'w', encoding='utf-8') as outfile:
-        for filename in os.listdir(directory):
-            if not filename.endswith(".json"):
-                continue
+    # 1) Collect all snippets
+    records = []  # each: (body, url, filename, answer_id)
+    for filename in os.listdir(directory):
+        if not filename.endswith(".json"):
+            continue
+        path = os.path.join(directory, filename)
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        for item in data:
+            url = item.get("url", "N/A")
+            for ans in item.get("answers", []):
+                body = ans.get("body", "")
+                if is_code(body):
+                    records.append({
+                        "body": body,
+                        "url": url,
+                        "filename": filename,
+                        "answer_id": ans["answer_id"],
+                    })
 
-            input_path = os.path.join(directory, filename)
+    print(f"Collected {len(records)} code snippets.")
 
-            with open(input_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                for item in data:
-                    for answer in item.get("answers", []):
-                        body = answer.get("body", "")
+    # 2) Batched classification
+    labels = ["c", "c++", "javascript", "php", "sql", "html"]
+    batch_size = 32
+    for i in range(0, len(records), batch_size):
+        batch = records[i : i + batch_size]
+        bodies = [r["body"] for r in batch]
+        results = classifier(bodies, labels, multi_label=False)
+        # ensure `results` is a list
+        if isinstance(results, dict):
+            results = [results]
 
-                        if not is_code(body):
-                            continue
+        for rec, res in zip(batch, results):
+            rec["predicted_language"] = res["labels"][0].lower()
 
-                        # Language detection prompt
-                        prompt = (
-                            "Identify the programming language of this code snippet. "
-                            "Choose from: c, c++, c#, java, python, javascript, ruby, php, sql, html, css.\n\n"
-                            f"Code:\n{body}\n\nLanguage:"
-                        )
+    # 3) Vulnerability scanning & report writing
+    vuln_counter = Counter()
+    with open(output_file, 'w', encoding='utf-8') as out:
+        for rec in records:
+            lang = rec["predicted_language"]
+            url = rec["url"]
+            body = rec["body"]
 
-                        # Generate prediction
-                        inputs = tokenizer(prompt, return_tensors="pt").to(device)
-                        gen_tokens = model.generate(
-                            **inputs,
-                            max_length=50,
-                            num_return_sequences=1,
-                            pad_token_id=tokenizer.eos_token_id,
-                        )
-                        gen_text = tokenizer.batch_decode(gen_tokens)[0]
-                        predicted_language = gen_text.strip().split("\n")[-1].strip().lower()
+            findings = []
+            if lang in ["html", "javascript"]:
+                vulns = detect_vulnerabilities(body)
+                for cat in vulns.values():
+                    for t, lines in cat.items():
+                        for _ in lines:
+                            findings.append(t)
+                            vuln_counter[t] += 1
 
-                        print(f"Processing: {filename} > Answer {answer['answer_id']}")
-                        print(f"  Predicted Language: {predicted_language}")
+            elif lang in ["c", "c++"]:
+                for ln, desc in find_c_vulnerabilities(body):
+                    findings.append(desc)
+                    vuln_counter[desc] += 1
 
-                        # Vulnerability analysis
-                        url = item.get("url", "N/A")
-                        formatted_vulns = []
+            elif lang == "sql":
+                for ln, desc in find_sql_vulnerabilities(body):
+                    findings.append(desc)
+                    vuln_counter[desc] += 1
 
-                        if predicted_language in ["html", "javascript"]:
-                            vulnerabilities = detect_vulnerabilities(body)  # Now works with code string
-                            for category, vuln_types in vulnerabilities.items():
-                                for vuln_type, lines in vuln_types.items():
-                                    for line in lines:
-                                        formatted_vulns.append(f"Line {line}: {vuln_type}")
+            elif lang == "php":
+                for ln, desc in find_php_vulnerabilities(body):
+                    findings.append(desc)
+                    vuln_counter[desc] += 1
 
-                        elif predicted_language in ["c", "c++"]:
-                            c_vulns = find_c_vulnerabilities(body)
-                            formatted_vulns = [f"Line {line}: {desc}" for line, desc in c_vulns]
-                        
-                        elif predicted_language == "sql":
-                            sql_vulns = find_sql_vulnerabilities(body)
-                            formatted_vulns = [f"Line {line}: {desc}" for line, desc in sql_vulns]
+            if findings:
+                out.write(f"Stack Overflow URL: {url}\n")
+                out.write("\n".join(f"Line _: {f}" for f in findings))
+                out.write("\n" + "="*80 + "\n\n")
+                out.flush()
 
-                        # Write results if any vulnerabilities found
-                        if formatted_vulns:
-                            outfile.write(f"Stack Overflow URL: {url}\n")
-                            outfile.write("\n".join(formatted_vulns))
-                            outfile.write("\n" + "="*80 + "\n\n")
+        # Global summary
+        out.write("GLOBAL VULNERABILITY SUMMARY\n" + "="*30 + "\n")
+        for t, cnt in vuln_counter.most_common():
+            out.write(f"{t}: {cnt}\n")
+
+    # Console summary
+    print("Global vulnerability totals:")
+    for t, cnt in vuln_counter.most_common():
+        print(f"  {t}: {cnt}")
 
 if __name__ == "__main__":
     run()

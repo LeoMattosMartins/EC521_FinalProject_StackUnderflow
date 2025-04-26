@@ -21,10 +21,10 @@ def find_sql_vulnerabilities(code: str):
 
     # === REGEX PATTERNS ===
 
-    # Tracks variables assigned from user input (e.g., Python's input(), request.args, Scanner.nextLine())
-    user_input_pattern = re.compile(r'(\w+)\s*=\s*(input\(|request\.get\(|scanner\.nextLine\()')
+    # Tracks variables assigned from user input
+    user_input_pattern = re.compile(r'(\w+)\s*=\s*(input\(|request\.get|getParameter\()', re.IGNORECASE)
 
-    # SQL built via string concatenation: SELECT ... " + var + " ...
+    # SQL built via string concatenation
     sql_concat_pattern = re.compile(r'\b(SELECT|INSERT|UPDATE|DELETE)\b.*\+.*')
 
     # Python f-strings with embedded variables
@@ -39,13 +39,15 @@ def find_sql_vulnerabilities(code: str):
     # .execute(...) with a single string argument (no parameters passed separately)
     execute_single_arg_pattern = re.compile(r'\.execute\s*\(\s*["\'].*["\']\s*\)')
 
+    # Safe execute with parameters
+    execute_safe_pattern = re.compile(r'\.execute\s*\(\s*.+,\s*\[?.+\]?\s*\)')
+
     # Java Statement.executeQuery / executeUpdate with concatenation
     java_stmt_concat_pattern = re.compile(r'Statement\.(?:executeQuery|executeUpdate)\s*\(\s*".*"\s*\+\s*\w+')
 
     # exec() or Runtime.getRuntime().exec() on dynamic SQL
     exec_pattern = re.compile(r'\b(exec|execute)\s*\(\s*\w+\s*\)')
 
-    # Track variables that receive user input
     user_input_vars = set()
 
     for lineno, line in enumerate(lines, 1):
@@ -54,8 +56,11 @@ def find_sql_vulnerabilities(code: str):
         # === Track user input assignments ===
         m_input = user_input_pattern.search(stripped)
         if m_input:
-            var_name = m_input.group(1)
-            user_input_vars.add(var_name)
+            user_input_vars.add(m_input.group(1))
+
+        # Skip safe execute with parameters
+        if execute_safe_pattern.search(stripped):
+            continue
 
         # === SQL concatenation vulnerability ===
         if sql_concat_pattern.search(stripped):
@@ -87,10 +92,8 @@ def find_sql_vulnerabilities(code: str):
 
         # === User input used directly in SQL ===
         for var in user_input_vars:
-            # if a tracked input variable appears in a SQL context
             if re.search(rf'\b{var}\b', stripped) and any(k in stripped.lower() for k in ('select', 'insert', 'update', 'delete')):
                 results.append((lineno, f"User-supplied input '{var}' used directly in SQL – risk of SQL injection"))
                 break
 
     return results
-

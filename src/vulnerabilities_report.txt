@@ -1,0 +1,4806 @@
+Stack Overflow URL: https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/402283/stdwstring-vs-stdstring
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/1711990/what-is-this-weird-colon-member-syntax-in-the-constructor
+Line _: Use of uninitialized variable 'b'
+Line _: Use of uninitialized variable 'b'
+Line _: Use of uninitialized variable 'b'
+Line _: Use of uninitialized variable 'b'
+Line _: Use of uninitialized variable 'b'
+Line _: Use of uninitialized variable 'p'
+Line _: Use of uninitialized variable 'q'
+Line _: Use of uninitialized variable 'p'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called
+Line _: Use of uninitialized variable 'buf'
+Line _: Possible NULL pointer dereference
+Line _: Use of uninitialized variable 'status'
+Line _: Use of uninitialized variable 'status'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'buf'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called
+Line _: Use of uninitialized variable 'sym'
+Line _: Use of uninitialized variable 'sym'
+Line _: Use of uninitialized variable 'sym'
+Line _: Use of uninitialized variable 'status'
+Line _: Use of uninitialized variable 'sym'
+Line _: Use of uninitialized variable 'status'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2940367/what-is-more-efficient-using-pow-to-square-or-just-multiply-it-with-itself
+Line _: Use of uninitialized variable 'test'
+Line _: Use of uninitialized variable 'testCppPow'
+Line _: Use of uninitialized variable 'testCPow'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'testCppPow'
+Line _: Use of uninitialized variable 'testCPow'
+Line _: Use of uninitialized variable 'testCppPow'
+Line _: Use of uninitialized variable 'testCPow'
+Line _: Use of uninitialized variable 'testCppPow'
+Line _: Use of uninitialized variable 'testCPow'
+Line _: Use of uninitialized variable 'testCppPow'
+Line _: Use of uninitialized variable 'testCPow'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62928396/what-is-a-niebloid
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/675039/how-can-i-create-a-directory-tree-in-c-on-linux
+Line _: Use of uninitialized variable 'mkpath'
+Line _: Use of uninitialized variable 'mkpath'
+Line _: Use of uninitialized variable 'mkpath'
+Line _: Use of uninitialized variable 'mkpath'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'mkpath'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/9456728/how-to-deal-with-bad-alloc-in-c
+Line _: Use of uninitialized variable 'perform_operation'
+Line _: Use of uninitialized variable 'perform_operation'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68221024/why-must-i-provide-operator-when-operator-is-enough
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'n'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67595789/what-is-destroying-operator-delete-in-c20
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/11279715/nullptr-and-checking-if-a-pointer-points-to-a-valid-object
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/6121623/catching-exception-divide-by-zero
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/58509147/why-does-same-as-concept-check-type-equality-twice
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66937947/why-is-unique-ptr-not-equality-comparable-with-nullptr-t-in-c20
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/733056/is-there-a-way-to-get-function-name-inside-a-c-function
+Line _: Use of uninitialized variable 'f'
+Line _: Use of uninitialized variable 'f'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'f'
+Line _: Use of uninitialized variable 'f'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/34596768/stdunordered-mapfind-using-a-type-different-than-the-key-type
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59490698/how-can-i-get-the-depth-of-a-multidimensional-stdvector-at-compile-time
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/51031060/are-c17-parallel-algorithms-implemented-already
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68673443/is-there-a-way-to-avoid-implicit-conversion-to-void
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76969417/why-is-char-int-promotion-but-char-short-is-conversion-but-not-promo
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/24645880/set-cpu-affinity-when-create-a-thread
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2212776/overload-handling-of-stdendl
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software
+Line _: Use of uninitialized variable 'sse42'
+Line _: Use of uninitialized variable 'sse42'
+Line _: Use of uninitialized variable 'sse42'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12560291/set-back-default-floating-point-print-precision-in-c
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20
+Line _: Use of uninitialized variable 'val'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/15869066/inserting-into-an-unordered-set-with-custom-hash-function
+Line _: Use of uninitialized variable 'patternIndex'
+Line _: Use of uninitialized variable 'proteinIndex'
+Line _: Use of uninitialized variable 'proteinIndex'
+Line _: Use of uninitialized variable 'proteinIndex'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/35518611/difference-between-queues-emplace-and-push
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79524869/whats-the-point-of-deleted-virtual-functions
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/276102/catching-all-unhandled-c-exceptions
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is
+Line _: Use of uninitialized variable 'loop_vc_nested_noselect'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is
+Line _: Use of uninitialized variable 'loop_vc_nested'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/16077299/how-to-print-current-time-with-milliseconds-using-c-c11
+Line _: Use of uninitialized variable 'buffer'
+Line _: Use of uninitialized variable 'buffer'
+Line _: Dangerous function 'sprintf' may cause buffer overflow
+Line _: Use of uninitialized variable 'buffer'
+Line _: Use of uninitialized variable 'buffer'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54831971/range-based-for-loop-with-special-case-for-the-first-item
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64211652/stdfmod-abysmal-double-precision
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12160765/if-else-at-compile-time-in-c
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72505009/why-cant-i-initialize-this-stdvector-with-an-l-value
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75741488/why-is-my-struct-destructed-twice-with-stdvariant-and-stdmonostate
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77813605/transparent-search-for-a-stdmap-with-a-stdpair-as-a-key
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71112750/create-a-vector-of-pairs-from-a-single-vector-in-c
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/49710006/fast-color-quantization-in-opencv
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/24559909/sending-string-over-udp-in-c
+Line _: Use of uninitialized variable 'resolvehelper'
+Line _: Use of uninitialized variable 'result'
+Line _: Possible NULL pointer dereference
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'szIP'
+Line _: Use of uninitialized variable 'resolvehelper'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3484260/opengl-line-width
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/33304351/sdl2-fast-pixel-manipulation
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67908591/how-to-convert-boostasioawaitable-to-stdfuture
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2821012/how-to-write-curiously-recurring-templates-with-more-than-2-layers-of-inheritanc
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4283731/plotting-package-for-c
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4283731/plotting-package-for-c
+Line _: Use of uninitialized variable 'main'
+Line _: Possible NULL pointer dereference
+Line _: Use of uninitialized variable 'buffer'
+Line _: Use of uninitialized variable 'buffer'
+Line _: Use of uninitialized variable 'buffer'
+Line _: Use of uninitialized variable 'str'
+Line _: Use of uninitialized variable 'str'
+Line _: Use of uninitialized variable 'str'
+Line _: Use of uninitialized variable 'buffer'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39821367/very-fast-approximate-logarithm-natural-log-function-in-c
+Line _: Use of uninitialized variable '__int_as_float'
+Line _: Use of uninitialized variable 'my_logf'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'e'
+Line _: Use of uninitialized variable 'e'
+Line _: Use of uninitialized variable '__int_as_float'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78282705/efficient-way-to-find-sum-of-largest-x-elements-in-a-subarray
+Line _: Use of uninitialized variable 'count'
+Line _: Use of uninitialized variable 'left'
+Line _: Use of uninitialized variable 'update'
+Line _: Use of uninitialized variable 'count'
+Line _: Use of uninitialized variable 'left'
+Line _: Use of uninitialized variable 'update'
+Line _: Use of uninitialized variable 'update'
+Line _: Use of uninitialized variable 'count'
+Line _: Use of uninitialized variable 'count'
+Line _: Use of uninitialized variable 'left'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'n'
+Line _: Use of uninitialized variable 'update'
+Line _: Use of uninitialized variable 'q'
+Line _: Use of uninitialized variable 'q'
+Line _: Use of uninitialized variable 'q'
+Line _: Use of uninitialized variable 'n'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64083104/making-python-generator-via-c20-coroutines
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66261968/how-can-we-calculate-for-every-element-in-an-array-the-number-of-elements-to-t
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'A_size'
+Line _: Use of uninitialized variable 'A_size'
+Line _: Use of uninitialized variable 'A_size'
+Line _: Use of uninitialized variable 'A_size'
+Line _: Use of uninitialized variable 'A_size'
+Line _: Use of uninitialized variable 'A_size'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61518284/error-non-const-static-data-member-must-be-initialized-out-of-line
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61708267/jump-bypasses-variable-initialization-in-switch-statement
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/35969730/how-to-read-output-from-cmd-exe-using-createprocess-and-createpipe
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75778573/what-is-an-mdspan-and-what-is-it-used-for
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base
+Line _: Use of uninitialized variable 'foo'
+Line _: Use of uninitialized variable 'foo'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'foo'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39490345/interleave-bits-efficiently
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/8841422/glreadpixels-data-argument-usage
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/8511598/large-negative-integer-literals
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62918059/why-is-boosts-quicksort-slower-compared-to-julias-quicksort
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79518752/efficient-algorithm-for-minimum-euclidean-distance-between-points-in-non-overlap
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'm_width'
+Line _: Use of uninitialized variable 'm_height'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'get_free_label'
+Line _: Use of uninitialized variable 'width'
+Line _: Use of uninitialized variable 'height'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'rand_int'
+Line _: Use of uninitialized variable 'get_free_label'
+Line _: Use of uninitialized variable 'rand_int'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'rand_int'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'y'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'width'
+Line _: Use of uninitialized variable 'width'
+Line _: Use of uninitialized variable 'height'
+Line _: Use of uninitialized variable 'width'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69447778/fastest-way-to-draw-filled-quad-triangle-with-the-sdl2-renderer
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/51711268/how-to-test-keycloak-authentication-in-spring-boot-application
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/49548622/vuex-empty-state-on-logout
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69582105/what-is-the-right-way-to-upgrade-netty-and-its-components-for-security-reason
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/21317290/reading-catalog-file-information
+Line _: Use of uninitialized variable 'wmain'
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75216534/http-content-security-policy-header-not-working-correctly-for-script-src-in-stru
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/36752182/create-a-low-medium-process-from-a-elevated-process-with-createrestrictedtokenl
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/46694824/side-channel-resistant-math-functions-for-c
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/48545928/how-to-validate-the-authenticity-of-docker-base-images
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60438557/how-to-safely-zero-and-release-all-memory-pages-used-by-an-android-app
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76624585/on-z-os-how-do-i-determine-which-security-product-is-active-racf-acf2-or-top
+Line _: Use of uninitialized variable 'id'
+Line _: Use of uninitialized variable 'unk'
+Line _: Use of uninitialized variable 'unk'
+Line _: Use of uninitialized variable 'id'
+Line _: Use of uninitialized variable 'id'
+Line _: Use of uninitialized variable 'id'
+Line _: Use of uninitialized variable 'id'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67664505/is-there-any-gcc-compiler-option-or-something-similar-to-bypass-the-obsolesence
+Line _: Use of uninitialized variable 'my_fast_gets'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64867389/refused-to-execute-inline-script-because-it-violates-the-following-content-secur
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72080895/xss-attack-still-works-despite-htmlspecialchars-doing-its-work
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Iframe Tags
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/732107/manually-validate-server-certificate-in-wininet
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74411675/what-input-can-i-give-to-cause-a-buffer-overflow-that-results-in-exact-changes-i
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64382459/vulnerability-of-malloc-and-memcpy
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77812102/cross-origin-opener-policy-and-window-open-returning-null-in-a-cross-origin-ifra
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70802534/example-of-spectre-v1-on-new-cpu
+Line _: Use of uninitialized variable 'tries'
+Line _: Use of uninitialized variable 'tries'
+Line _: Use of uninitialized variable 'tries'
+Line _: Use of uninitialized variable 'tries'
+Line _: Use of uninitialized variable 'main'
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69545920/how-to-add-unauthorized-www-authenticate-field-to-response-header-using-micronau
+Line _: Use of uninitialized variable 'getOrder'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68301633/symfony-4-4-security-session-is-saved-but-not-used
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65991811/is-this-methods-enough-for-secure-my-host-php
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54501388/how-to-secure-file-download-via-controller-action-and-ajax
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78743902/how-can-i-limit-the-scopes-to-only-the-current-spreadsheet-and-use-oauth-to-prin
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78743902/how-can-i-limit-the-scopes-to-only-the-current-spreadsheet-and-use-oauth-to-prin
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76315430/unable-to-setup-tde-via-azure-sdk-for-python
+Line _: Use of f-string to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54640501/bulletproof-way-to-prevent-user-specified-file-names-from-using-relative-path-el
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64539442/controller-securitycontrollerloginaction-requires-that-you-provide-a-value
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62628423/how-can-i-get-the-a-certificates-validity-period-using-apples-security-framewo
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57245026/how-to-upload-file-directly-to-aws-s3-with-aws-sdk
+Line _: Potential XSS vulnerability via direct output
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78306316/invalid-grant-error-with-code-flow-keycloak
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72119191/electron-contextbridge-returns-undefined
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78693856/my-kernel-module-dont-hook-systems-calls-how-fix-that
+Line _: Use of uninitialized variable 'err'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78542275/powershell-or-azurecli-command-to-enable-microsoft-defender-for-sql
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54933039/how-to-encrypt-decrypt-a-text-by-using-rsa-method
+Line _: Use of uninitialized variable 'encrypt'
+Line _: Use of uninitialized variable 'encrypt'
+Line _: Use of uninitialized variable 'encrypt'
+Line _: Use of uninitialized variable 'encrypt'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62753486/cross-site-scripting-vulnerability-in-c
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69648232/cannot-modify-process-dacl-that-i-own-with-my-code-but-process-hacker-can
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'username'
+Line _: Use of uninitialized variable 'username'
+Line _: Use of uninitialized variable 'username'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/14765395/why-am-i-seeing-zgotmplz-in-my-go-html-template-output
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74522713/what-are-possible-go-build-ldflags-options
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64650343/how-to-have-golang-redirect-to-frontend-routing
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/40675365/get-back-newly-inserted-row-in-postgres-with-sqlx
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/53630860/golang-gorm-query-locations-around-a-position-with-lat-and-lng
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59410139/run-command-in-golang-and-detach-it-from-process
+Line _: Dangerous function 'sprintf' may cause buffer overflow
+Line _: Dangerous function 'sprintf' may cause buffer overflow
+Line _: Dangerous function 'sprintf' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55036156/how-to-replace-all-html-tag-with-empty-string-in-golang
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66738035/converting-jwk-json-into-a-public-key-golang-lestrrat-go
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66738035/converting-jwk-json-into-a-public-key-golang-lestrrat-go
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54275704/how-to-read-cookies
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54275704/how-to-read-cookies
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39575798/how-to-replace-emoji-characters-in-string-using-regex-in-golang
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/44441665/how-to-extract-only-text-from-html-in-golang
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69735525/how-to-verify-jws-transaction-of-app-store-server-api-in-go
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64613455/unable-to-load-in-cluster-configuration-kubernetes-service-host-and-kubernetes
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73479307/why-is-my-go-program-so-slow-when-navigating-the-files
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62542897/how-to-use-gorilla-middleware-handlers-for-all-requests
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69915566/calling-a-function-from-javascript
+Line _: Script Tags
+Line _: Script Tags
+Line _: Alert Function
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54915307/error-unmarshaling-a-simple-xml-in-golang
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63105661/gorm-associations-many-to-many
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64133779/add-callback-instead-of-using-default-implementation
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/58410216/golang-mongo-driver-performance
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77484344/what-is-offset-in-wasmtime-memory-read
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75709043/why-is-the-return-value-of-personality2-in-a-go-program-sometimes-incorrect
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75847321/how-to-implement-social-login-with-github-when-user-email-is-private
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70207857/reverse-proxy-using-go-to-cloud-run-instance
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76286833/how-can-i-solve-the-issue-of-cookies-not-being-transferred-between-localhost-por
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Location Manipulation
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63605243/how-to-get-the-ip-of-the-user-based-on-interaction-with-pod-in-k8s
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71686098/parsing-nested-elements-using-go-colly-scraper
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69647647/get-values-from-same-class-name-values-in-colly-web-scraping
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63621097/grpc-python-quickstart-helloworld-greeter-client-py-is-hanging-before-printing
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64126780/go-run-loop-in-parallel-with-timeout
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68719530/check-named-return-error-using-defer-function
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55972588/access-imagedata-data-using-go-webassembly
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77822302/golang-app-no-access-control-allow-origin-header-is-present-on-the-requested
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62976721/whats-the-way-to-implement-struct-field-validations-in-official-go-mongo-driver
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76644869/htmx-form-gin-unable-to-properly-read-request-body
+Line _: Script Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71442568/how-to-implement-tripledes-desede-ecb-pkcs5padding-encryption-with-32-bytes-key
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69796031/how-to-re-create-log-file-automatically-in-logrus-lumberjack-on-macos
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66846665/how-to-use-go-release-binary-github-action
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64632465/how-to-make-concurrent-get-requests-from-url-pool
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77434444/how-to-query-aws-dynamodb-using-keyconditionexpression-with-the-v2-go-sdk
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76189309/go-writer-with-buffer-and-timeout
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76081551/export-function-from-go-compiling-wasm
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76081551/export-function-from-go-compiling-wasm
+Line _: Script Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74962479/how-to-build-catboost-c-evaluation-library-api
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'resultRaw'
+Line _: Use of uninitialized variable 'resultRaw'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74549098/how-to-mimic-a-union-type-in-gorm
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73897004/golang-concurrent-writes-to-multiple-files
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72031093/using-go-generics-to-implement-a-chain-of-processors
+Line _: Possible integer overflow from unchecked input
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77824746/how-to-extract-the-zerolog-event-fields-in-the-hook
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76847713/golang-html-template-how-do-i-create-a-nav-item-submenu-i-couldnt-find-h
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75938194/how-to-use-dynamic-html-tags-in-golang-template
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75054327/max-rate-limit-of-stackoverflow
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74383816/how-to-get-goroutine-id-with-ebpf
+Line _: Use of uninitialized variable 'uprobe_runtime_newproc1'
+Line _: Use of uninitialized variable 'uprobe_runtime_newproc1'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71092180/javascript-functions-not-working-in-webview-window
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70234885/pass-a-pointer-instead-of-return-new-variable-in-c-and-go
+Line _: Use of uninitialized variable 'age'
+Line _: Use of uninitialized variable 'age'
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70038292/chromedp-with-golang-has-deadline-exceeded-if-element-doesnt-exist-is-there-a-w
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67453575/recursive-function-involving-html-node-to-print-all-links-in-a-html-doc
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61967369/unsubscribe-from-redis-doesnt-seem-to-work
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/56032492/get-output-string-after-access-a-link
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78594327/how-to-store-all-go-templates-in-a-single-template-variable
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77377653/how-to-implement-retry-logic-for-making-rest-api-call-to-get-token-every-5-mins
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77127659/hoping-to-use-the-reader-interface-in-order-to-make-my-binary-files-import-code
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75809692/go-colly-does-not-perform-all-async-calls
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74513507/default-http-file-server-modifications-of-the-content
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73627615/how-to-make-conditional-aggregation-using-gorm
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72733641/track-progress-of-long-running-tasks-correct-approach
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71449102/gocolly-scraping-only-certain-links
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71376450/in-go-templates-sprig-how-to-modify-a-captured-group-in-a-regular-expression-be
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61885554/constructor-in-shared-object-not-called-in-when-ld-preload-ing-a-go-executable
+Line _: Use of uninitialized variable 'pthread_create'
+Line _: Use of uninitialized variable 'pthread_create'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60029552/how-to-render-css-and-js-files-with-go-template
+Line _: Script Tags
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78625433/why-does-gos-escape-analysis-move-a-variable-to-the-heap-even-when-inlining-is
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/42988417/crud-operations-on-redshift-databases-using-golang
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70715508/how-to-convert-a-map-to-html-table-in-go
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57201540/access-gos-array-of-arrays-from-c
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76437217/golang-post-400-bad-request
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75874509/go-chromedp-ignores-any-external-or-internal-css-during-printing-to-pdf-and-uses
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68547099/how-to-pick-a-random-number-every-time-from-a-list
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75339208/golang-chromedp-pdf-file-download-without-saving-in-server
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71535674/golang-reads-html-tags-from-json-string-data-as-lt-and-gt-which-causes-re
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57015665/validate-date-in-go-template
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57015665/validate-date-in-go-template
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79507946/cross-compiling-a-go-native-binary-for-java-code-using-docker
+Line _: Use of uninitialized variable 'add_integers'
+Line _: Use of uninitialized variable 'add_integers'
+Line _: Use of uninitialized variable 'add_integers'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78958315/cannot-parse-tpm2-0-public-key
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78381436/why-does-my-go-implementation-of-xorshift128-not-produce-the-same-results-as-ja
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76642999/how-can-i-pass-an-array-of-string-string-from-js-to-go-using-syscall-js
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75516157/golang-gorm-implement-archived-at-similar-to-soft-delete
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73404279/how-to-navigate-page-from-string-html-golang-in-chromedp
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72289400/trying-to-convert-image-on-demand-in-memory-and-return-it-converted
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71825024/sending-an-email-with-raw-content-using-aws-pinpoint-and-go-returns-403
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71667203/update-specific-yaml-property
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70913226/how-to-execute-multiple-variables-in-html-go-template
+Line _: Img Tags
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67369923/golang-json-in-html-script-tag
+Line _: Script Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64210104/use-job-with-time-and-timeout
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62387069/golang-parse-raw-http-2-response
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79527565/need-help-showing-y-axis-on-right-side-of-chart-for-line-overlay-with-go-echarts
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78790695/verify-that-a-substring-within-a-string-of-html-sits-within-specific-html-tags-i
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78790695/verify-that-a-substring-within-a-string-of-html-sits-within-specific-html-tags-i
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78728802/cbz-image-concatenation-in-golang
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76414325/wkhtmltopdf-not-displaying-footer-on-pdf
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76414325/wkhtmltopdf-not-displaying-footer-on-pdf
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76152907/chromedp-click-is-not-working-in-my-golang-code-can-you-find-whats-wrong
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76036268/cant-get-the-cookie-data-from-go-server-with-react
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75903010/concurrency-with-a-single-write-by-a-single-writer-and-multiple-readers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75825167/synchronizing-requests-between-two-separate-rate-limited-endpoints
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75137033/variable-type-of-input-parameter-in-function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75078944/how-to-apply-the-css-style-in-a-gomail-library
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73995340/changing-text-in-html-with-golang-without-affecting-html-tags
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72705456/connecting-a-golang-code-with-browser-based-vanilla-js
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71452529/setting-an-index-of-a-binary-tree-in-go
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68508665/how-to-stop-the-repetition-of-code-when-parsing-files
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68508665/how-to-stop-the-repetition-of-code-when-parsing-files
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67733845/chromedp-golang-how-to-create-screenshot-and-pdf-from-template-html-string-inst
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79056575/eof-error-in-azure-communication-services-email-api-post-request
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78589438/404-not-working-with-react-app-on-golang-server
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77823566/how-to-merge-go-templates-without-render
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77726613/golang-text-template-sequence-range
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77322628/how-can-i-prevent-dofile-calls-in-an-threaded-environment-with-gopher-lua
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77182487/merge-two-map-hierarchies-from-yaml-files-preserving-all-the-keys
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76414518/how-to-develop-and-add-individual-pages-which-will-together-form-a-pdf-document
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76414518/how-to-develop-and-add-individual-pages-which-will-together-form-a-pdf-document
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76338574/how-to-remove-extern-functions-in-c-and-be-able-to-use-them-from-golang
+Line _: Use of uninitialized variable 'delta_callback'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76187306/add-example-for-go-swagger-ref-array-and-map-model
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76154076/execute-multiple-templates-conditionally
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75894298/how-to-change-selenium-webdriver-headers-after-running-in-golang
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75796939/how-to-redirect-and-render-page-in-the-same-function
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75565247/get-stacktrace-when-context-context-is-canceled-by-http-timeouthandler
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75093798/when-the-first-stage-is-array-how-to-handle-with-go-simplejson
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74675281/fetch-data-from-html-by-net-html
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74388429/panic-send-on-a-closed-channel-when-running-go-routine-in-foor-loop
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74299267/create-zip-with-java-program-and-while-unzip-using-golang-getting-issue-as-zli
+Line _: Possible command injection via system/popen()
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74024866/how-to-deal-with-back-pressure-in-go-grpc
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74002279/iterating-over-methods-in-interface-golang
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73739582/golang-exec-command-output-empty
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72700603/extracting-js-objects-from-pdf-files-using-pdfcpu-library
+Line _: Event Handlers
+Line _: Alert Function
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69953328/golang-render-new-template-on-button-press
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Img Tags
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68759608/computing-complexity-of-an-anagram-finder-implementation
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66612619/trying-to-submit-html-form-data-to-excel
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65768861/read-and-merge-two-yaml-files-dynamically-and-or-recursively
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64769540/how-can-i-open-a-sound-file-loaded-in-memory-with-libsndfile
+Line _: Use-after-free of variable 'membuf'
+Line _: Double free of variable 'membuf'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64769540/how-can-i-open-a-sound-file-loaded-in-memory-with-libsndfile
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61092035/how-to-unmarhal-json-into-dynamodb-attributevalue
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60260248/how-can-i-get-a-c-variable-from-cgo
+Line _: Use of uninitialized variable 'count'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+Line _: Use of uninitialized variable 'i'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59796019/how-to-parse-yaml-file-and-create-child-objects-from-parent-struct-inheritance
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/28504880/how-to-embed-sqlx-results-in-html-using-go-golang
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68792621/segmentation-violation-error-when-calling-fts-open-via-cgo
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68792621/segmentation-violation-error-when-calling-fts-open-via-cgo
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59698933/json-cannot-unmarshal-array-into-go-value-of-type-struct
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65819321/pass-file-pointer-to-c-function
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64429436/reading-json-from-a-link
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63664419/unexpected-type-expecting-name
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63564543/decode-a-debeuzium-event-schema-into-a-meaningful-datastructure-in-golang
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78927584/go-types-for-bnf-grammar
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76514650/the-screenshot-generated-by-fullscreenshot-in-chromedp-package-is-too-blurry
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73167569/how-to-make-html-templates-recognize-a-string-as-html-in-go
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71523806/why-is-my-script-reading-in-files-linked-in-my-html-which-arent-being-specified
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71189898/converting-parsing-c-byte-struct-to-go
+Line _: Use of uninitialized variable 'm_tyresPressure'
+Line _: Use of uninitialized variable 'm_tyresPressure'
+Line _: Use of uninitialized variable 'm_tyresPressure'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71189898/converting-parsing-c-byte-struct-to-go
+Line _: Use of uninitialized variable 'm_tyresPressure'
+Line _: Use of uninitialized variable 'main'
+Line _: Use of uninitialized variable 'm_tyresPressure'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69282258/how-to-add-a-golang-string-to-a-c-struct-in-cgo
+Line _: Use of uninitialized variable 'x'
+Line _: Use of uninitialized variable 'x'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68690550/how-to-clear-the-session-and-only-visit-an-about-page-after-login
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67833205/generate-video-access-token-jwt-with-twillio-go-sdk
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67046820/how-to-get-uuid-of-last-inserted-row-using-sqlx-in-postgres
+Line _: Use of %-formatting to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61554805/channel-communication-behaviour-with-select-statement-in-goroutines
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59894378/encrypt-a-message-with-a-public-key-ber-decode-error
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12368910/html-display-image-after-selecting-filename
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12690107/clone-object-without-reference-javascript
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60411351/how-to-use-google-analytics-with-next-js-app
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/32511789/looping-through-files-in-a-folder-node-js
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/41296668/how-do-i-add-validation-to-the-form-in-my-react-component
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/36639681/how-to-copy-text-from-a-div-to-clipboard
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/46966413/how-to-style-material-ui-textfield
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/1276870/how-to-pass-an-event-object-to-a-function-in-javascript
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/16505333/get-the-data-of-uploaded-file-in-javascript
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/36759985/how-to-style-material-ui-tooltip
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/47686345/playing-sound-in-react-js
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60276510/how-to-make-react-hook-form-work-with-multiple-forms-in-one-page
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57852370/how-can-i-change-this-class-base-higher-order-component-into-a-functional-compon
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12006417/node-js-server-that-accepts-post-requests
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4928586/get-caret-position-in-html-input
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59924585/im-getting-an-error-using-react-invalid-dom-property-for-did-you-mean-htm
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/21628222/summernote-image-upload
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/45360998/code-folding-in-bookdown
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/19235345/javascript-typeerror-cannot-read-property-style-of-null
+Line _: Img Tags
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+Line _: Document Write
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70548841/how-to-add-custom-js-file-to-new-rails-7-project
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70548841/how-to-add-custom-js-file-to-new-rails-7-project
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70548841/how-to-add-custom-js-file-to-new-rails-7-project
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/47281850/how-to-hide-navbar-in-login-page-in-react-router
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/52236641/electron-ipc-and-nodeintegration
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/52236641/electron-ipc-and-nodeintegration
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55080103/how-to-separate-web-components-to-individual-files-and-load-them
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/29884485/threejs-canvas-size-based-on-container
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/32433594/how-to-trigger-input-file-event-reactjs-by-another-dom
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/7101982/enabling-blocked-text-selection-using-javascript
+Line _: JavaScript URLs
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3807963/how-to-get-longitude-and-latitude-of-any-address
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Alert Function
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/28885132/why-is-x-in-x-faster-than-x-x
+Line _: Use of uninitialized variable 'result'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/28885132/why-is-x-in-x-faster-than-x-x
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/13905741/accessing-class-variables-from-a-list-comprehension-in-the-class-definition
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/6999565/python-https-get-with-basic-authentication
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63169865/how-to-do-multiprocessing-in-fastapi
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/36243538/how-often-do-i-have-to-commit-to-ensure-sqlite-execution-statements-all-get-comm
+Line _: Dynamic exec() invocation – possible execution of unsanitized SQL
+Line _: Dynamic exec() invocation – possible execution of unsanitized SQL
+Line _: Dynamic exec() invocation – possible execution of unsanitized SQL
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59586879/does-await-in-python-yield-to-the-event-loop
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73599970/how-to-solve-wkhtmltopdf-reported-an-error-exit-with-code-1-due-to-network-err
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55301343/how-to-define-the-structure-of-a-sankey-diagram-using-a-pandas-dataframe
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/22785849/drawing-multiple-edges-between-two-nodes-with-networkx
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+Line _: execute() called with a single string literal – missing parameterization
+Line _: execute() called with a single string literal – missing parameterization
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+Line _: execute() called with a single string literal – missing parameterization
+Line _: execute() called with a single string literal – missing parameterization
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+Line _: execute() called with a single string literal – missing parameterization
+Line _: execute() called with a single string literal – missing parameterization
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+Line _: execute() called with a single string literal – missing parameterization
+Line _: execute() called with a single string literal – missing parameterization
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/42697933/colormap-with-maximum-distinguishable-colours
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/10625865/how-does-pyarg-parsetupleandkeywords-work
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+Line _: Possible NULL pointer dereference
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/29800749/delaunay-triangulation-of-points-from-2d-surface-in-3d-with-python
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/45440900/throttling-async-functions-in-python-asyncio
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/49851280/showing-a-simple-matplotlib-plot-in-plotly-dash
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/26824019/are-sessions-needed-for-python-social-auth
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64083104/making-python-generator-via-c20-coroutines
+Line _: Use of uninitialized variable 'main'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39845982/customizing-django-admin-changeform-template-adding-custom-content
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67750367/fastapi-python-code-execution-speed-impacted-by-deployment-with-uvicorn-vs-gunic
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65012892/how-to-specify-node-label-position-for-sankey-diagram-in-plotly
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/29745635/creating-wxslider-with-range-on-linux
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/7755501/embed-picture-in-email
+Line _: Img Tags
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/44385652/add-senders-name-in-the-from-field-of-the-email-in-python
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69046990/how-to-pass-dependency-files-to-sagemaker-sklearnprocessor-and-use-it-in-pipelin
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75363733/sqlalchemy-2-0-orm-model-datetime-insertion
+Line _: Use of f-string to build SQL query – risk of SQL injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73547776/how-to-redirect-from-one-domain-to-another-and-set-cookies-or-headers-for-the-ot
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73547776/how-to-redirect-from-one-domain-to-another-and-set-cookies-or-headers-for-the-ot
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73547776/how-to-redirect-from-one-domain-to-another-and-set-cookies-or-headers-for-the-ot
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62988494/adjust-width-of-dropdown-menu-option-in-dash-plotly
+Line _: Event Handlers
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/31703037/how-can-i-change-modify-replace-text-in-a-pdf-using-python
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57705534/cant-use-imported-var-from-js-file-in-code
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57705534/cant-use-imported-var-from-js-file-in-code
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64963861/python-socket-io-ack-function
+Line _: Script Tags
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71599660/flutter-http-server-serve-flutter-web-in-another-app
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60303091/add-plugins-vue-use-after-instance-mounting-new-vue-mount
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62986605/why-do-i-get-that-point-in-my-flutter-animatedchecked-custompaint
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'strokeWidth'
+Line _: Use of uninitialized variable '_length'
+Line _: Use of uninitialized variable '_offset'
+Line _: Use of uninitialized variable '_secondOffset'
+Line _: Use of uninitialized variable '_startingAngle'
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'strokeWidth'
+Line _: Use of uninitialized variable 'strokeWidth'
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'circleValue'
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'value'
+Line _: Use of uninitialized variable 'getMax'
+Line _: Use of uninitialized variable 'getMin'
+Line _: Use of uninitialized variable 'value'
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59913975/extract-email-address-from-a-website-for-each-link-inside-dom-of-page
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72919246/how-to-stop-overflow-x-up-and-down-scroll
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/56351495/mobile-browser-addreds-bar-doesnt-hide-when-scrolling-with-ionic
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/56351495/mobile-browser-addreds-bar-doesnt-hide-when-scrolling-with-ionic
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63616028/how-to-integrate-plotly-express-chart-to-flask-app
+Line _: Script Tags
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63616028/how-to-integrate-plotly-express-chart-to-flask-app
+Line _: Script Tags
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60351835/how-to-catch-js-button-onclick-event-by-cefshap-on-winforms
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70785286/how-to-enable-firebase-in-flutter-web-applications-where-to-find-the-html-scrip
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68541313/what-is-causing-this-endforeach-error-when-i-try-to-upgrade-the-site-to-php-7-4
+Line _: Potential XSS vulnerability via direct output
+Line _: Potential XSS vulnerability via direct output
+Line _: Potential XSS vulnerability via direct output
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63820944/flutter-update-element-create-by-ui-platformviewregistry-registerviewfactory-cla
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69800639/i-failed-flutter-web-build
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68434918/python-beautifulsoup-wont-scrape-the-rest-of-the-li-in-the-ul
+Line _: SQL Injection
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54632379/how-to-set-up-browsersync-reload-html-js-using-gulp-4
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69880882/update-state-with-another-state-in-functional-component
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68925623/scraping-html-list-data-from-a-dynamic-server
+Line _: Script Tags
+Line _: Alert Function
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63314770/this-setstate-not-updating
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75773041/css-changing-article-margins-affects-my-top-navbar-placement-too-how-to-fi
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74997544/python-web-scraping-yahoo-result-in-empty-list
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74738887/why-do-i-always-get-empty-list-thing-to-select-a-tag-or-css-property-by-using-py
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71275041/create-a-timer-which-resets-itself-after-24-hours-but-doesnt-get-restarted-afte
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71026065/uselayouteffect-is-not-working-properly-what-is-the-error
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68884619/download-an-image-with-python
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65242631/is-there-a-way-to-collect-voluntarily-user-data-on-a-website-without-a-database
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63765721/how-to-get-proper-result-from-web-scraping-about-flight-information-in-kayak
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63602876/css-half-page-fixed-half-scroll-not-working-smoothly
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63412183/amazon-price-tracker-and-push-notification
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62692382/javascript-code-doesnt-work-inside-foreach
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59692500/js-web-scraping-using-puppeteer-getting-this-error-node12121-unhandledpromi
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54989288/changing-webview-content-in-android-studio
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73167569/how-to-make-html-templates-recognize-a-string-as-html-in-go
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70673824/how-does-reddit-facebook-show-youtube-previews-when-crosslinking
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70048744/browser-console-log-and-code-console-log-showing-different
+Line _: Script Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69785842/firebaseerror-firebase-no-firebase-app-default-has-been-created-call-fir
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67151417/flutter-web-firebase-no-firebase-app-default-has-been-created-call-fire
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66776448/why-wont-my-websites-logo-resize-appropriately
+Line _: Img Tags
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/56218973/not-able-to-resolve-the-uncaught-reference-error
+Line _: Location Manipulation
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55144337/webservice-does-not-work-after-being-packaged-into-a-docker-image
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74164506/separate-different-elements-after-using-find-all-in-beautiful-soup
+Line _: SQL Injection
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72337184/how-to-get-selenium-to-webscrape-the-2nd-page-of-results-in-a-popup-window
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68932926/how-to-convert-python-dict-to-raw-url-encoded-form-data
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68470210/how-can-i-send-a-session-value-into-sql-query-in-php
+Line _: Direct use of user input without sanitization
+Line _: Direct use of user input without sanitization
+Line _: Direct use of user input without sanitization
+Line _: Direct use of user input without sanitization
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68229809/scraping-multiple-page-on-this-site-help-needed
+Line _: Event Handlers
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68125209/how-to-fix-duplicated-toc-in-rmd-file-while-using-toc-float-and-columns
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67237430/how-i-can-do-my-component-in-react-js-have-a-individual-behavior
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65754301/how-to-edit-the-alert-success-submission-in-javascript
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65754301/how-to-edit-the-alert-success-submission-in-javascript
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64470905/how-to-continue-for-loop-if-the-query-doesnt-exist-on-the-website
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64206725/beautifulsoups-find-method-returning-none-instead-of-a-link
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63484499/need-help-inserting-image-in-hugo-page
+Line _: Event Handlers
+Line _: Img Tags
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61105775/java-servlet-form-post-issue-getparameters-return-null-values
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61053591/nginx-www-domain-does-not-work-when-redirecting
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60893894/how-to-access-the-member-of-the-class-after-initialization
+Line _: Dangerous function 'gets' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59180630/rendering-complicated-models-in-three-js
+Line _: Script Tags
+Line _: Script Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57310460/build-a-reporting-history-on-my-google-web-app
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57310460/build-a-reporting-history-on-my-google-web-app
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74784966/ajax-with-django-not-reload-page-but-loop-will-reload
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74081985/my-page-doesnt-scale-well-as-soon-as-i-load-it-in-a-mobile-device
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73923797/is-there-a-way-i-can-make-a-react-drop-down-rendered-alone
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73578150/make-an-element-like-a-header-or-logo-consistent-between-pages
+Line _: Event Handlers
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Img Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73266161/having-problem-with-my-websites-nav-bar-redirect-button
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72369205/second-document-not-showing-the-main-content-even-displaying-content-in-left-pan
+Line _: Script Tags
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72107835/making-line-one-and-the-next-line-parallel
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71491792/how-can-i-use-jinja2-in-python-sanic
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70904831/maintain-active-links-with-tampermonkey-designmode-on
+Line _: JavaScript URLs
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68958007/how-to-print-a-data-from-input-fields-to-hard-copy
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Document Write
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68186394/each-card-does-not-open-and-close-as-expected-when-dynamically-created-with-java
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68173180/trouble-in-getting-phone-number-while-parsing-the-data-inside-the-script
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67722801/cordova-load-external-url-content-in-app-takes-too-much-time
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Iframe Tags
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67564690/im-trying-to-use-the-logic-to-calculate-periods-between-dates-using-javascript-a
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65747234/javascript-filters-how-to-make-each-of-them-function-independently
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65611119/how-to-show-a-message-when-cart-is-empty-in-javascript
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64694403/how-to-use-sql-request-data-in-2-tables-on-web-page
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: SQL Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64547997/r-readlines-on-a-url-leads-to-missing-lines
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63991130/how-add-space-between-two-cards-bootstrap
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63991130/how-add-space-between-two-cards-bootstrap
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63954430/python-get-the-url-of-all-posts-of-an-instagram-user
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61435305/why-does-reach-router-route-paths-automatically-to-page-directory-name
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60718660/bootstrap-navbar-looks-weird-on-mac
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54377479/how-to-scrape-all-the-children-tags-of-a-specific-tag-from-google-scholar-websi
+Line _: SQL Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71422395/i-have-a-problem-with-my-div-when-i-write-in-the-text-area-and-hit-save-nothing
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: InnerHTML Usage
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74958646/i-cannot-show-image-in-php
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71732173/how-do-you-output-the-encryption-and-decryption-time-in-php
+Line _: Dangerous function 'sprintf' may cause buffer overflow
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71554596/how-can-i-fix-this-problem-when-i-call-cartitems
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64199447/how-to-setstate
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64124041/scrape-text-from-selected-option-from-dropdown
+Line _: SQL Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60697144/sorttable-js-works-from-server-but-not-when-inlined
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69239231/how-to-verify-payment-in-php
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66811080/cannot-read-property-setdefaults-of-undefined
+Line _: Script Tags
+Line _: Script Tags
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66536150/fastest-way-to-port-a-web-app-to-mobile-app
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Event Handlers
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+Line _: Command Injection
+================================================================================
+
+GLOBAL VULNERABILITY SUMMARY
+==============================
+Command Injection: 2466
+Event Handlers: 267
+SQL Injection: 78
+Use of uninitialized variable 'main': 72
+Script Tags: 55
+Img Tags: 37
+Dangerous function 'gets' may cause buffer overflow: 25
+Use of uninitialized variable 'x': 25
+Use of uninitialized variable 'i': 21
+InnerHTML Usage: 21
+Possible NULL pointer dereference: 20
+Alert Function: 14
+Document Write: 13
+Use of uninitialized variable 'y': 9
+Use of uninitialized variable 'n': 8
+Use of uninitialized variable 'buffer': 8
+execute() called with a single string literal – missing parameterization: 8
+Use of uninitialized variable 'buf': 7
+Use of uninitialized variable 'value': 7
+Use of uninitialized variable 'A_size': 6
+Use of %-formatting to build SQL query – risk of SQL injection: 6
+Use of uninitialized variable 'b': 5
+Use of uninitialized variable 'testCppPow': 5
+Use of uninitialized variable 'testCPow': 5
+Use of uninitialized variable 'mkpath': 5
+Dangerous function 'sprintf' may cause buffer overflow: 5
+Use of uninitialized variable 'count': 5
+Use of uninitialized variable 'id': 5
+Use of uninitialized variable 'm_tyresPressure': 5
+Use of uninitialized variable 'q': 4
+Use of uninitialized variable 'status': 4
+Use of uninitialized variable 'sym': 4
+Use of uninitialized variable 'f': 4
+Use of uninitialized variable 'update': 4
+Use of uninitialized variable 'width': 4
+Use of uninitialized variable 'tries': 4
+Potential XSS vulnerability via direct output: 4
+Use of uninitialized variable 'encrypt': 4
+Direct use of user input without sanitization: 4
+Use of uninitialized variable 'sse42': 3
+Use of uninitialized variable 'proteinIndex': 3
+Use of uninitialized variable 'str': 3
+Use of uninitialized variable 'left': 3
+Use of uninitialized variable 'foo': 3
+Use of uninitialized variable 'rand_int': 3
+Use of uninitialized variable 'username': 3
+Use of uninitialized variable 'add_integers': 3
+Dynamic exec() invocation – possible execution of unsanitized SQL: 3
+Use of uninitialized variable 'strokeWidth': 3
+Use of uninitialized variable 'p': 2
+Use of uninitialized variable 'perform_operation': 2
+Use of uninitialized variable 'resolvehelper': 2
+Use of uninitialized variable 'result': 2
+Use of uninitialized variable '__int_as_float': 2
+Use of uninitialized variable 'e': 2
+Use of uninitialized variable 'get_free_label': 2
+Use of uninitialized variable 'height': 2
+Use of uninitialized variable 'unk': 2
+Iframe Tags: 2
+Use of f-string to build SQL query – risk of SQL injection: 2
+Location Manipulation: 2
+Use of uninitialized variable 'resultRaw': 2
+Use of uninitialized variable 'uprobe_runtime_newproc1': 2
+Use of uninitialized variable 'age': 2
+Use of uninitialized variable 'pthread_create': 2
+JavaScript URLs: 2
+Use of uninitialized variable 'test': 1
+Use of uninitialized variable 'val': 1
+Use of uninitialized variable 'patternIndex': 1
+Use of uninitialized variable 'loop_vc_nested_noselect': 1
+Use of uninitialized variable 'loop_vc_nested': 1
+Use of uninitialized variable 'szIP': 1
+Use of uninitialized variable 'my_logf': 1
+Use of uninitialized variable 'm_width': 1
+Use of uninitialized variable 'm_height': 1
+Use of uninitialized variable 'wmain': 1
+Use of uninitialized variable 'my_fast_gets': 1
+Use of uninitialized variable 'getOrder': 1
+Use of uninitialized variable 'err': 1
+Possible integer overflow from unchecked input: 1
+Use of uninitialized variable 'delta_callback': 1
+Possible command injection via system/popen(): 1
+Use-after-free of variable 'membuf': 1
+Double free of variable 'membuf': 1
+Use of uninitialized variable '_length': 1
+Use of uninitialized variable '_offset': 1
+Use of uninitialized variable '_secondOffset': 1
+Use of uninitialized variable '_startingAngle': 1
+Use of uninitialized variable 'circleValue': 1
+Use of uninitialized variable 'getMax': 1
+Use of uninitialized variable 'getMin': 1

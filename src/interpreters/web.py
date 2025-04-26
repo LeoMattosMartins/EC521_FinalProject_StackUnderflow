@@ -17,7 +17,7 @@ VULNERABILITY_PATTERNS = {
     },
     "Injection": {
         "SQL Injection": r"(?i)\b(UNION|SELECT|INSERT|DELETE|DROP|ALTER|TRUNCATE|UPDATE)\b",
-        "Command Injection": r"(?i)\b(exec|execute|system|popen|shell_exec)\b|\||&&|;|\$\(|`",
+        "Command Injection": r"(?i)\b(exec|execute|system|popen)\b|\||&&|;|`",
     },
     "DOM-based": {
         "Eval Usage": r"\beval\s*\(",
@@ -42,8 +42,12 @@ def detect_vulnerabilities(code):  # Changed from file_path to code
         for category, patterns in VULNERABILITY_PATTERNS.items():
             for vuln_type, pattern in patterns.items():
                 matches = []
+                regex = re.compile(pattern, re.IGNORECASE | re.DOTALL)
                 for line_num, line in enumerate(lines, start=1):
-                    if re.search(pattern, line, re.IGNORECASE | re.DOTALL):
+                    # skip HTML comments
+                    if line.strip().startswith("<!--"):
+                        continue
+                    if regex.search(line):
                         matches.append(line_num)
                 if matches:
                     vulnerabilities[category][vuln_type] = matches
@@ -53,34 +57,3 @@ def detect_vulnerabilities(code):  # Changed from file_path to code
     except Exception as e:
         print(f"An error occurred: {e}")
         return {}
-
-    except FileNotFoundError:
-        print(f"Error: File '{file_path}' not found.")
-        return {}
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return {}
-
-
-# Example usage
-if __name__ == "__main__":
-    file_path = "../../examples/webpage.html"  # Replace with your file path
-    detected = detect_vulnerabilities(file_path)
-
-    if any(detected.values()):
-        print("Potential vulnerabilities detected:")
-        total_categories = sum(1 for cat in detected.values() if cat)
-        print(f"Total Categories of Vulnerabilities: {total_categories}")
-
-        for category, vulns in detected.items():
-            if not vulns:
-                continue
-            print(f"\n--- {category} ({len(vulns)} types) ---")
-            for idx, (vuln_type, line_numbers) in enumerate(vulns.items(), start=1):
-                min_line = min(line_numbers)
-                max_line = max(line_numbers)
-                print(
-                    f"  {idx}. {vuln_type}: Lines {min_line}-{max_line} (Occurrences: {len(line_numbers)})"
-                )
-    else:
-        print("No vulnerabilities detected.")
