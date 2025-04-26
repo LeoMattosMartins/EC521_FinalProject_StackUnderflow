@@ -1,59 +1,47 @@
 import re
 
-# Define vulnerability patterns grouped by category
-VULNERABILITY_PATTERNS = {
-    "XSS": {
-        "Script Tags": r"<script\b[^>]*>.*?</script>",
-        "JavaScript URLs": r"javascript\s*:",
-        "Event Handlers": r"on\w+\s*=",
-        "Data URIs in src": r"src\s*=\s*[\"']?\s*data:",
-        "JavaScript in href": r"href\s*=\s*[\"']?\s*javascript:",
-        "Iframe Tags": r"<iframe\b[^>]*>",
-        "Object Tags": r"<object\b[^>]*>",
-        "Embed Tags": r"<embed\b[^>]*>",
-        "SVG Tags": r"<svg\b[^>]*>",
-        "Img Tags": r"<img\b[^>]*>",
-        "Alert Function": r"\balert\s*\(",
-    },
-    "Injection": {
-        "SQL Injection": r"(?i)\b(UNION|SELECT|INSERT|DELETE|DROP|ALTER|TRUNCATE|UPDATE)\b",
-        "Command Injection": r"(?i)\b(exec|execute|system|popen)\b|\||&&|;|`",
-    },
-    "DOM-based": {
-        "Eval Usage": r"\beval\s*\(",
-        "Document Write": r"\bdocument\.write\s*\(",
-        "InnerHTML Usage": r"\binnerHTML\s*=",
-        "Location Manipulation": r"\bwindow\.location\s*=",
-        "SetTimeout withString": r"setTimeout\s*\(\s*['\"`]",
-        "SetInterval withString": r"setInterval\s*\(\s*['\"`]",
-    },
-}
+"""
+Analyzes web code (HTML, JavaScript) for common security vulnerabilities.
 
+The function inspects each line of web code using regex heuristics to detect
+issues like XSS, injection attacks, and DOM-based vulnerabilities.
 
-# In web.py (interpreters/web.py)
-def detect_vulnerabilities(code):  # Changed from file_path to code
-    """
-    Detect vulnerabilities in a code string (not a file).
-    """
-    try:
-        lines = code.splitlines()  # Split code into lines
-        vulnerabilities = {category: {} for category in VULNERABILITY_PATTERNS}
+@param web_code A string containing multiple lines of web code.
+      Each line will be analyzed for potential vulnerabilities.
 
-        for category, patterns in VULNERABILITY_PATTERNS.items():
-            for vuln_type, pattern in patterns.items():
-                matches = []
-                regex = re.compile(pattern, re.IGNORECASE | re.DOTALL)
-                for line_num, line in enumerate(lines, start=1):
-                    # skip HTML comments
-                    if line.strip().startswith("<!--"):
-                        continue
-                    if regex.search(line):
-                        matches.append(line_num)
-                if matches:
-                    vulnerabilities[category][vuln_type] = matches
+@return A list of tuples List[Tuple[int, str]]:
+    - The line number (int) where the issue was found
+    - A description (str) of the detected vulnerability
+"""
 
-        return vulnerabilities
+def find_web_vulnerabilities(web_code: str):
+    lines = web_code.split('\n')
+    results = []
 
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return {}
+    # === REGEX PATTERNS ===
+    patterns = {
+        "XSS": {
+            "InnerHTML": r"\binnerHTML\s*=\s*(?!.*(?:DOMPurify\.sanitize|escape\(|encodeURIComponent\(|textContent|createElement|setAttribute|appendChild))",
+            "Document Write": r"\bdocument\.(?:write|writeln)\s*\(\s*(?!.*(?:escape\(|encodeURIComponent\(|textContent|createElement))",
+            "Eval": r"\beval\s*\(\s*(?!.*(?:JSON\.parse|Function\('return'\))",
+            "SetTimeout": r"\bsetTimeout\s*\(\s*['\"`]",
+            "SetInterval": r"\bsetInterval\s*\(\s*['\"`]",
+            "ExecScript": r"\bexecScript\s*\(",
+        },
+        "CSRF": {
+            "Form Without CSRF": r"<form[^>]*>(?!.*(?:csrf|_token|authenticity_token|X-CSRF-TOKEN))",
+            "Unsafe Fetch Request": r"\bfetch\s*\(\s*['\"`][^'\"`]*['\"`]\s*,\s*\{[^}]*\}\s*\)(?!.*(?:X-CSRF-TOKEN|csrf-token|X-XSRF-TOKEN))",
+            "Missing SameSite Cookie": r"\bdocument\.cookie\s*=\s*['\"`][^'\"`]*['\"`](?!.*SameSite)",
+        }
+    }
+
+    for i, line in enumerate(lines, 1):
+        stripped = line.strip()
+        
+        # Check each category and pattern
+        for category, vuln_patterns in patterns.items():
+            for vuln_type, pattern in vuln_patterns.items():
+                if re.search(pattern, stripped, re.IGNORECASE | re.DOTALL):
+                    results.append((i, f"{category}: {vuln_type} vulnerability"))
+
+    return results
