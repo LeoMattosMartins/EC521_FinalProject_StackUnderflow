@@ -1,0 +1,1178 @@
+====== C++ ======
+https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean - safe
+https://stackoverflow.com/questions/375913/how-do-i-profile-c-code-running-on-linux - safe
+https://stackoverflow.com/questions/375913/how-do-i-profile-c-code-running-on-linux - safe
+https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files - safe
+https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files - safe
+https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files - safe
+https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files - safe
+https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files - safe
+https://stackoverflow.com/questions/40354978/why-does-c-code-for-testing-the-collatz-conjecture-run-faster-than-hand-writte - safe
+https://stackoverflow.com/questions/402283/stdwstring-vs-stdstring - safe
+https://stackoverflow.com/questions/1711990/what-is-this-weird-colon-member-syntax-in-the-constructor - safe
+https://stackoverflow.com/questions/2808398/easily-measure-elapsed-time - safe
+https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c - safe
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - safe
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - safe
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - safe
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - safe
+https://stackoverflow.com/questions/15752659/thread-pooling-in-c11 - safe
+https://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs - safe
+https://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs - safe
+https://stackoverflow.com/questions/2351148/explicit-template-instantiation-when-is-it-used - safe
+https://stackoverflow.com/questions/2351148/explicit-template-instantiation-when-is-it-used - safe
+https://stackoverflow.com/questions/2940367/what-is-more-efficient-using-pow-to-square-or-just-multiply-it-with-itself - safe
+https://stackoverflow.com/questions/62910867/how-to-run-tests-and-debug-google-test-project-in-vs-code - safe
+https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20 - safe
+https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20 - safe
+https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20 - safe
+https://stackoverflow.com/questions/54524947/crash-with-icc-can-the-compiler-invent-writes-where-none-existed-in-the-abstrac - safe
+https://stackoverflow.com/questions/76381239/is-there-a-faster-algorithm-for-maxctzx-ctzy - safe
+https://stackoverflow.com/questions/76381239/is-there-a-faster-algorithm-for-maxctzx-ctzy - safe
+https://stackoverflow.com/questions/76381239/is-there-a-faster-algorithm-for-maxctzx-ctzy - safe
+https://stackoverflow.com/questions/9456728/how-to-deal-with-bad-alloc-in-c - safe
+https://stackoverflow.com/questions/5878775/how-to-find-and-replace-string - safe
+https://stackoverflow.com/questions/35518611/c-why-is-boosthash-combine-the-best-way-to-combine-hash-values - safe
+https://stackoverflow.com/questions/776624/whats-faster-iterating-an-stl-vector-with-vectoriterator-or-with-at - safe
+https://stackoverflow.com/questions/68221024/why-must-i-provide-operator-when-operator-is-enough - safe
+https://stackoverflow.com/questions/67595789/what-is-destroying-operator-delete-in-c20 - safe
+https://stackoverflow.com/questions/67595789/what-is-destroying-operator-delete-in-c20 - safe
+https://stackoverflow.com/questions/49397233/how-to-enable-c17-support-in-vscode-c-extension - safe
+https://stackoverflow.com/questions/11279715/nullptr-and-checking-if-a-pointer-points-to-a-valid-object - safe
+https://stackoverflow.com/questions/6121623/catching-exception-divide-by-zero - safe
+https://stackoverflow.com/questions/58509147/why-does-same-as-concept-check-type-equality-twice - safe
+https://stackoverflow.com/questions/66937947/why-is-unique-ptr-not-equality-comparable-with-nullptr-t-in-c20 - safe
+https://stackoverflow.com/questions/66937947/why-is-unique-ptr-not-equality-comparable-with-nullptr-t-in-c20 - safe
+https://stackoverflow.com/questions/66937947/why-is-unique-ptr-not-equality-comparable-with-nullptr-t-in-c20 - safe
+https://stackoverflow.com/questions/733056/is-there-a-way-to-get-function-name-inside-a-c-function - safe
+https://stackoverflow.com/questions/76552816/why-is-initializing-a-string-to-more-efficient-than-the-default-constructor - safe
+https://stackoverflow.com/questions/657155/how-to-enable-shared-from-this-of-both-parent-and-derived - safe
+https://stackoverflow.com/questions/11813271/embed-resources-eg-shader-code-images-into-executable-library-with-cmake - unsafe - Command Injection
+https://stackoverflow.com/questions/34596768/stdunordered-mapfind-using-a-type-different-than-the-key-type - safe
+https://stackoverflow.com/questions/62159885/why-is-an-overloaded-function-with-two-arguments-of-type-double-called-when-pass - safe
+https://stackoverflow.com/questions/62159885/why-is-an-overloaded-function-with-two-arguments-of-type-double-called-when-pass - safe
+https://stackoverflow.com/questions/15543571/allocconsole-not-displaying-cout - safe
+https://stackoverflow.com/questions/555505/when-were-the-and-and-or-alternative-tokens-introduced-in-c - safe
+https://stackoverflow.com/questions/59490698/how-can-i-get-the-depth-of-a-multidimensional-stdvector-at-compile-time - safe
+https://stackoverflow.com/questions/79119461/an-empty-program-that-does-nothing-in-c-needs-a-heap-of-204kb-but-not-in-c - safe
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+https://stackoverflow.com/questions/51031060/are-c17-parallel-algorithms-implemented-already - safe
+https://stackoverflow.com/questions/51031060/are-c17-parallel-algorithms-implemented-already - safe
+https://stackoverflow.com/questions/51031060/are-c17-parallel-algorithms-implemented-already - safe
+https://stackoverflow.com/questions/983999/simple-3x3-matrix-inverse-code-c - safe
+https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value - safe
+https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value - safe
+https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value - safe
+https://stackoverflow.com/questions/68673443/is-there-a-way-to-avoid-implicit-conversion-to-void - safe
+https://stackoverflow.com/questions/13830158/how-to-write-a-trait-which-checks-whether-a-type-is-iterable - safe
+https://stackoverflow.com/questions/76969417/why-is-char-int-promotion-but-char-short-is-conversion-but-not-promo - safe
+https://stackoverflow.com/questions/24645880/set-cpu-affinity-when-create-a-thread - safe
+https://stackoverflow.com/questions/2212776/overload-handling-of-stdendl - safe
+https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software - safe
+https://stackoverflow.com/questions/12560291/set-back-default-floating-point-print-precision-in-c - safe
+https://stackoverflow.com/questions/675039/how-can-i-create-a-directory-tree-in-c-on-linux - unsafe - Path Traversal
+https://stackoverflow.com/questions/5815675/what-is-sock-dgram-and-sock-stream - safe
+https://stackoverflow.com/questions/5815675/what-is-sock-dgram-and-sock-stream - safe
+https://stackoverflow.com/questions/59637731/subtracting-packed-8-bit-integers-in-an-64-bit-integer-by-1-in-parallel-swar-wi - safe
+https://stackoverflow.com/questions/15869066/inserting-into-an-unordered-set-with-custom-hash-function - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/35969730/how-much-performance-difference-when-using-string-vs-char-array - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/16533156/how-to-create-a-custom-clock-for-use-in-stdchrono-functions - safe
+https://stackoverflow.com/questions/6497374/emacs-cc-mode-indentation-problem-with-c0x-enum-class - safe
+https://stackoverflow.com/questions/60169819/modern-approach-to-making-stdvector-allocate-aligned-memory - safe
+https://stackoverflow.com/questions/60169819/modern-approach-to-making-stdvector-allocate-aligned-memory - safe
+https://stackoverflow.com/questions/63411054/how-can-you-quickly-compute-the-integer-logarithm-for-any-base - safe
+https://stackoverflow.com/questions/63411054/how-can-you-quickly-compute-the-integer-logarithm-for-any-base - safe
+https://stackoverflow.com/questions/63411054/how-can-you-quickly-compute-the-integer-logarithm-for-any-base - safe
+https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x - safe
+https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x - safe
+https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x - safe
+https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x - safe
+https://stackoverflow.com/questions/4387288/convert-stdwstring-to-const-char-in-c - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/78282705/efficient-way-to-find-sum-of-largest-x-elements-in-a-subarray - safe
+https://stackoverflow.com/questions/64083104/how-to-create-stream-which-handles-both-input-and-output-in-c - safe
+https://stackoverflow.com/questions/64083104/how-to-create-stream-which-handles-both-input-and-output-in-c - safe
+https://stackoverflow.com/questions/66335672/make-integer-sequence-unique-at-compile-time - safe
+https://stackoverflow.com/questions/66335672/make-integer-sequence-unique-at-compile-time - safe
+https://stackoverflow.com/questions/276102/catching-all-unhandled-c-exceptions - safe
+https://stackoverflow.com/questions/79369634/what-does-the-to1-mean-in-the-concept-is-convertible-without-narrowing - safe
+https://stackoverflow.com/questions/79539857/why-does-stdviewstake-while-do-so-many-function-invocations-even-with-c - safe
+https://stackoverflow.com/questions/63034484/why-does-the-buffering-of-stdifstream-break-stdgetline-when-using-llvm - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/76843246/why-does-the-address-of-an-out-of-scope-variable-equal-zero-with-constexpr - safe
+https://stackoverflow.com/questions/64378721/what-is-the-difference-between-the-copy-constructor-and-move-constructor-in-c - safe
+https://stackoverflow.com/questions/64378721/what-is-the-difference-between-the-copy-constructor-and-move-constructor-in-c - safe
+https://stackoverflow.com/questions/51433937/how-to-compile-debug-a-c-application-in-docker-with-visual-studio-code-on-wind - safe
+https://stackoverflow.com/questions/75442605/c20-concepts-constraint-normalization - safe
+https://stackoverflow.com/questions/75442605/c20-concepts-constraint-normalization - safe
+https://stackoverflow.com/questions/51431425/how-to-recursively-copy-files-and-directories - safe
+https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist - safe
+https://stackoverflow.com/questions/69290986/gdb-keeps-downloading-debug-info - safe
+https://stackoverflow.com/questions/21872229/how-to-edit-and-re-build-the-gcc-libstdc-c-standard-library-source - safe
+https://stackoverflow.com/questions/8511598/large-negative-integer-literals - safe
+https://stackoverflow.com/questions/62918059/why-is-boosts-quicksort-slower-compared-to-julias-quicksort - safe
+https://stackoverflow.com/questions/66877095/using-a-c-dll-in-flutter-windows-desktop-app - safe
+https://stackoverflow.com/questions/66877095/using-a-c-dll-in-flutter-windows-desktop-app - safe
+https://stackoverflow.com/questions/66877095/using-a-c-dll-in-flutter-windows-desktop-app - safe
+https://stackoverflow.com/questions/8552364/opencv-detect-contours-intersection - safe
+https://stackoverflow.com/questions/72908947/writing-a-small-file-blocks-for-20-ms - safe
+https://stackoverflow.com/questions/72908947/writing-a-small-file-blocks-for-20-ms - safe
+https://stackoverflow.com/questions/72908947/writing-a-small-file-blocks-for-20-ms - safe
+https://stackoverflow.com/questions/78471094/nrvo-vs-early-return-for-types-not-benefitting-from-move-semantics-gcc-14-wnrv - safe
+https://stackoverflow.com/questions/29989512/where-can-i-find-the-list-of-boost-component-that-i-can-use-in-cmake - safe
+https://stackoverflow.com/questions/29989512/where-can-i-find-the-list-of-boost-component-that-i-can-use-in-cmake - safe
+https://stackoverflow.com/questions/69660148/c20-how-to-wait-on-an-atomic-object-with-timeout - safe
+https://stackoverflow.com/questions/69660148/c20-how-to-wait-on-an-atomic-object-with-timeout - safe
+https://stackoverflow.com/questions/55495932/why-does-the-buffering-of-stdifstream-break-stdgetline-when-using-llvm - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/79558046/c-sorting-of-parallel-vectors-with-zip-range-how-efficient-is-it-really-and-c - safe
+https://stackoverflow.com/questions/79558046/c-sorting-of-parallel-vectors-with-zip-range-how-efficient-is-it-really-and-c - safe
+https://stackoverflow.com/questions/72126606/should-the-cache-padding-size-of-x86-64-be-128-bytes - safe
+https://stackoverflow.com/questions/72126606/should-the-cache-padding-size-of-x86-64-be-128-bytes - safe
+https://stackoverflow.com/questions/72126606/should-the-cache-padding-size-of-x86-64-be-128-bytes - safe
+https://stackoverflow.com/questions/69447778/fastest-way-to-draw-filled-quad-triangle-with-the-sdl2-renderer - safe
+https://stackoverflow.com/questions/5895792/why-is-using-a-stdmultiset-as-a-priority-queue-faster-than-using-a-stdpriori - safe
+https://stackoverflow.com/questions/5895792/why-is-using-a-stdmultiset-as-a-priority-queue-faster-than-using-a-stdpriori - safe
+https://stackoverflow.com/questions/5895792/why-is-using-a-stdmultiset-as-a-priority-queue-faster-than-using-a-stdpriori - safe
+https://stackoverflow.com/questions/58581500/how-to-fix-debugger-in-vscode-if-you-have-makefile-project-on-c - safe
+https://stackoverflow.com/questions/58581500/how-to-fix-debugger-in-vscode-if-you-have-makefile-project-on-c - safe
+https://stackoverflow.com/questions/3484260/opengl-line-width - safe
+https://stackoverflow.com/questions/3484260/opengl-line-width - safe
+https://stackoverflow.com/questions/64211652/stdfmod-abysmal-double-precision - safe
+https://stackoverflow.com/questions/12160765/if-else-at-compile-time-in-c - safe
+https://stackoverflow.com/questions/65120716/integer-literal-for-fixed-width-integer-types - safe
+https://stackoverflow.com/questions/65120716/integer-literal-for-fixed-width-integer-types - safe
+https://stackoverflow.com/questions/72505009/why-cant-i-initialize-this-stdvector-with-an-l-value - safe
+https://stackoverflow.com/questions/75741488/why-is-my-struct-destructed-twice-with-stdvariant-and-stdmonostate - safe
+https://stackoverflow.com/questions/73557662/how-can-i-achieve-multiple-conditional-inheritance - safe
+https://stackoverflow.com/questions/77813605/transparent-search-for-a-stdmap-with-a-stdpair-as-a-key - safe
+https://stackoverflow.com/questions/68675303/how-to-create-a-function-that-forwards-its-arguments-to-fmtformat-keeping-the - safe
+https://stackoverflow.com/questions/71112750/create-a-vector-of-pairs-from-a-single-vector-in-c - safe
+https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is - safe
+https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is - safe
+https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is - safe
+https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is - safe
+https://stackoverflow.com/questions/72405122/creating-an-iterator-with-c20-concepts-for-custom-container - safe
+https://stackoverflow.com/questions/16077299/how-to-print-current-time-with-milliseconds-using-c-c11 - safe
+https://stackoverflow.com/questions/54831971/range-based-for-loop-with-special-case-for-the-first-item - safe
+https://stackoverflow.com/questions/64392350/how-to-avoid-too-many-conditionals-in-c - safe (URL not in dataset)
+https://stackoverflow.com/questions/61518284/error-non-const-static-data-member-must-be-initialized-out-of-line - safe
+https://stackoverflow.com/questions/61708267/jump-bypasses-variable-initialization-in-switch-statement - safe
+https://stackoverflow.com/questions/79518752/efficient-algorithm-for-minimum-euclidean-distance-between-points-in-non-overlap - safe
+https://stackoverflow.com/questions/25270275/get-functions-names-in-a-shared-library-programmatically - safe
+https://stackoverflow.com/questions/25270275/get-functions-names-in-a-shared-library-programmatically - safe
+https://stackoverflow.com/questions/18515275/can-cython-code-be-compiled-to-a-dll-so-c-application-can-call-it - safe
+https://stackoverflow.com/questions/18515275/can-cython-code-be-compiled-to-a-dll-so-c-application-can-call-it - safe
+https://stackoverflow.com/questions/66261968/how-can-we-calculate-for-every-element-in-an-array-the-number-of-elements-to-t - safe
+https://stackoverflow.com/questions/32007188/detect-if-struct-has-padding - safe
+https://stackoverflow.com/questions/57082124/how-to-integrate-clang-tidy-to-cmake-and-gcc - safe
+https://stackoverflow.com/questions/57082124/how-to-integrate-clang-tidy-to-cmake-and-gcc - safe
+https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base - safe
+https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base - safe
+https://stackoverflow.com/questions/39821367/very-fast-approximate-logarithm-natural-log-function-in-c - safe
+https://stackoverflow.com/questions/21446292/how-to-print-current-time-with-milliseconds-using-c-c11 - safe
+https://stackoverflow.com/questions/24557948/what-is-the-difference-between-using-a-function-pointer-and-a-function-object - safe (URL not in dataset)
+https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value - safe
+https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value - safe
+https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order - safe
+https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order - safe
+https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order - safe
+https://stackoverflow.com/questions/57671273/cmake-cannot-specify-include-directories-when-use-target-include-directories - safe
+https://stackoverflow.com/questions/8841422/glreadpixels-data-argument-usage - safe
+https://stackoverflow.com/questions/3772664/intersection-of-two-stdmaps - safe
+https://stackoverflow.com/questions/73613280/how-to-suppress-clang-warnings-in-third-party-library-header-file-in-cmakelists - safe
+https://stackoverflow.com/questions/67549023/why-is-the-gnu-scientific-library-matrix-multiplication-slower-than-numpy-matmul - safe
+https://stackoverflow.com/questions/66266475/how-to-use-python-in-c-code - safe (URL not in dataset)
+https://stackoverflow.com/questions/66268136/how-to-replace-the-deprecated-function-qwheeleventdelta-in-the-zoom-in-z - safe
+https://stackoverflow.com/questions/72877471/c-confusing-closure-captures-v-vs-v-v - safe
+https://stackoverflow.com/questions/21946447/how-much-performance-difference-when-using-string-vs-char-array - safe
+https://stackoverflow.com/questions/70606173/what-are-monadic-bind-and-monadic-return-for-c23-optional - safe
+https://stackoverflow.com/questions/64488186/why-does-strcmp-in-a-template-function-return-a-different-value - safe
+https://stackoverflow.com/questions/56707123/how-to-suppress-clang-warnings-in-third-party-library-header-file-in-cmakelists - safe
+https://stackoverflow.com/questions/63372548/why-is-the-c-standard-library-still-using-macros - safe (URL not in dataset)
+https://stackoverflow.com/questions/39830345/interleave-bits-efficiently - safe
+https://stackoverflow.com/questions/60606924/what-is-the-difference-between-the-c-code-printf-and-the-printf-in-c - safe (URL not in dataset)
+https://stackoverflow.com/questions/60169819/modern-approach-to-making-stdvector-allocate-aligned-memory - safe
+https://stackoverflow.com/questions/66335672/make-integer-sequence-unique-at-compile-time - safe
+https://stackoverflow.com/questions/2821012/how-to-write-curiously-recurring-templates-with-more-than-2-layers-of-inheritanc - safe
+https://stackoverflow.com/questions/54632242/deleting-raw-pointers-from-stdvector - safe
+https://stackoverflow.com/questions/4283731/plotting-package-for-c - safe
+https://stackoverflow.com/questions/4283731/plotting-package-for-c - unsafe - Command Injection
+https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories - safe
+https://stackoverflow.com/questions/67270447/visual-studio-code-lldb-on-macos-error-when-starting-debugging-session - safe
+https://stackoverflow.com/questions/70117922/passing-a-c-style-array-to-spant - safe
+https://stackoverflow.com/questions/47203255/convert-stdvariant-to-another-stdvariant-with-super-set-of-types - safe
+https://stackoverflow.com/questions/79524869/whats-the-point-of-deleted-virtual-functions - safe
+https://stackoverflow.com/questions/66335672/make-integer-sequence-unique-at-compile-time - safe
+https://stackoverflow.com/questions/72030595/which-gcc-optimization-flags-affect-binary-size-the-most - safe
+https://stackoverflow.com/questions/24639326/what-is-the-meaning-of-static-inline-in-c - safe (URL not in dataset)
+https://stackoverflow.com/questions/24407959/is-there-a-way-to-get-a-file-size-and-fwrite-it-in-a-platform-independent-way - safe (URL not in dataset)
+https://stackoverflow.com/questions/24559909/sending-string-over-udp-in-c - unsafe - Buffer Overflow
+https://stackoverflow.com/questions/60646412/what-is-the-usecase-for-explicit-bool - safe
+https://stackoverflow.com/questions/55920103/why-is-the-alignment-the-same-on-32-bit-and-64-bit-systems - safe
+https://stackoverflow.com/questions/55920103/why-is-the-alignment-the-same-on-32-bit-and-64-bit-systems - safe
+====== html ======
+https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input - safe
+https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input (TypeScript version) - safe
+https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python - unsafe - Command Injection
+https://stackoverflow.com/questions/27784212/how-to-use-radio-buttons-in-reactjs - safe
+https://stackoverflow.com/questions/58173809/next-js-redirect-from-to-another-page - unsafe - Code Injection
+https://stackoverflow.com/questions/4288253/html5-canvas-100-width-height-of-viewport - safe
+https://stackoverflow.com/questions/12368910/html-display-image-after-selecting-filename - unsafe - XSS
+https://stackoverflow.com/questions/5697605/limit-the-size-of-a-file-upload-html-input-element - safe
+======== java ===========
+https://stackoverflow.com/questions/2793150/how-to-use-java-net-urlconnection-to-fire-and-handle-http-requests - safe
+https://stackoverflow.com/questions/15202997/what-is-the-difference-between-canonical-name-simple-name-and-class-name-in-jav - safe
+https://stackoverflow.com/questions/3758606/how-can-i-convert-byte-size-into-a-human-readable-format-in-java - safe
+https://stackoverflow.com/questions/5778658/how-do-i-convert-an-outputstream-to-an-inputstream - unsafe - Resource Leak
+https://stackoverflow.com/questions/1942644/get-generic-type-of-java-util-list - safe
+https://stackoverflow.com/questions/48204141/replacements-for-deprecated-jpms-modules-with-java-ee-apis - safe
+https://stackoverflow.com/questions/309396/how-to-test-methods-that-call-system-exit - safe
+https://stackoverflow.com/questions/37132559/add-jar-files-to-a-spark-job-spark-submit - safe
+https://stackoverflow.com/questions/19757300/java-8-lambda-streams-filter-by-method-with-exception - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/3154488/how-do-i-iterate-through-the-files-in-a-directory-and-its-sub-directories-in-ja - unsafe - Path Traversal
+https://stackoverflow.com/questions/2067955/fast-bitmap-blur-for-android-sdk - safe
+https://stackoverflow.com/questions/25911623/problems-using-maven-and-ssl-behind-proxy - unsafe - Sensitive Information
+https://stackoverflow.com/questions/27767264/how-to-dockerize-a-maven-project-how-many-ways-to-accomplish-it - safe
+https://stackoverflow.com/questions/3066590/gui-not-working-after-rewriting-to-mvc - unsafe - Insecure Randomness
+======= javascript ========
+https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript - safe
+https://stackoverflow.com/questions/133925/javascript-post-request-like-a-form-submit - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/11580961/sending-command-line-arguments-to-npm-script - safe
+https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input - safe
+https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js - safe
+https://stackoverflow.com/questions/32553158/detect-click-outside-react-component - safe
+https://stackoverflow.com/questions/25098021/javascript-objects-as-hashes-is-the-complexity-greater-than-o1 - safe
+https://stackoverflow.com/questions/23740548/how-do-i-pass-variables-and-data-from-php-to-javascript - unsafe - XSS
+https://stackoverflow.com/questions/6156501/read-a-file-one-line-at-a-time-in-node-js - safe
+https://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors - unsafe - eval
+https://stackoverflow.com/questions/118241/calculate-text-width-with-javascript - safe
+https://stackoverflow.com/questions/53332321/react-hook-warnings-for-async-function-in-useeffect-useeffect-function-must-ret - safe
+https://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js - safe
+https://stackoverflow.com/questions/45285129/any-difference-between-await-promise-all-and-multiple-await - safe
+https://stackoverflow.com/questions/36862334/get-viewport-window-height-in-reactjs - safe
+https://stackoverflow.com/questions/55187563/determine-which-dependency-array-variable-caused-useeffect-hook-to-fire - safe
+https://stackoverflow.com/questions/9514179/how-to-find-the-operating-system-details-using-javascript - safe
+https://stackoverflow.com/questions/12690107/clone-object-without-reference-javascript - safe
+https://stackoverflow.com/questions/31223341/detecting-scroll-direction - safe
+https://stackoverflow.com/questions/9577611/how-to-make-an-http-get-request-in-node-js-express - unsafe - Sensitive Information
+https://stackoverflow.com/questions/48759035/mock-dependency-in-jest-with-typescript - safe
+https://stackoverflow.com/questions/2332811/capitalize-words-in-string - safe
+https://stackoverflow.com/questions/57847626/using-async-await-inside-a-react-functional-component - safe
+https://stackoverflow.com/questions/30233302/promise-is-it-possible-to-force-cancel-a-promise - safe
+https://stackoverflow.com/questions/58151010/difference-between-resetallmocks-resetmodules-resetmoduleregistry-restoreallm - safe
+https://stackoverflow.com/questions/24987896/javascript-objects-as-hashes-is-the-complexity-greater-than-o1 - safe
+https://stackoverflow.com/questions/72238175/why-useeffect-running-twice-and-how-to-handle-it-well-in-react - safe
+https://stackoverflow.com/questions/50644976/react-button-onclick-redirect-page - safe
+https://stackoverflow.com/questions/49949099/react-createcontext-point-of-defaultvalue - safe
+https://stackoverflow.com/questions/66043612/vue3-vite-project-alias-src-to-not-working - safe
+https://stackoverflow.com/questions/14638018/current-time-formatting-with-javascript - safe
+https://stackoverflow.com/questions/31426740/how-to-return-many-promises-and-wait-for-them-all-before-doing-other-stuff - safe
+https://stackoverflow.com/questions/43193049/app-settings-the-angular-way - safe
+https://stackoverflow.com/questions/52497252/puppeteer-wait-until-page-is-completely-loaded - safe
+https://stackoverflow.com/questions/33939974/make-view-80-width-of-parent-in-react-native - safe
+https://stackoverflow.com/questions/11581209/pagination-on-a-list-using-ng-repeat - safe
+https://stackoverflow.com/questions/60411351/how-to-use-google-analytics-with-next-js-app - unsafe - Sensitive Information
+https://stackoverflow.com/questions/22317951/export-html-table-data-to-excel-using-javascript-jquery-is-not-working-properl - unsafe - XSS
+https://stackoverflow.com/questions/32511789/looping-through-files-in-a-folder-node-js - safe
+https://stackoverflow.com/questions/55987953/how-do-i-update-states-onchange-in-an-array-of-object-in-react-hooks - safe
+https://stackoverflow.com/questions/40329742/removing-object-properties-with-lodash - safe
+https://stackoverflow.com/questions/69832748/error-error-a-route-is-only-ever-to-be-used-as-the-child-of-routes-element - safe
+https://stackoverflow.com/questions/66618136/persistent-service-worker-in-chrome-extension - safe
+https://stackoverflow.com/questions/25582882/javascript-math-random-normal-distribution-gaussian-bell-curve - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w - unsafe - XSS
+https://stackoverflow.com/questions/31439604/how-to-convert-persian-and-arabic-digits-of-a-string-to-english-using-javascript - safe
+https://stackoverflow.com/questions/43172750/can-you-use-es6-import-alias-syntax-for-react-components - safe
+https://stackoverflow.com/questions/3590058/does-html5-allow-drag-drop-upload-of-folders-or-a-folder-tree - safe
+https://stackoverflow.com/questions/46987816/using-state-in-react-with-typescript - safe
+https://stackoverflow.com/questions/41296668/how-do-i-add-validation-to-the-form-in-my-react-component - safe
+https://stackoverflow.com/questions/31084779/how-to-restrict-access-to-routes-in-react-router - safe
+https://stackoverflow.com/questions/36639681/how-to-copy-text-from-a-div-to-clipboard - safe
+https://stackoverflow.com/questions/37614649/how-can-i-download-and-save-a-file-using-the-fetch-api-node-js - safe
+https://stackoverflow.com/questions/46966413/how-to-style-material-ui-textfield - safe
+https://stackoverflow.com/questions/57807459/how-to-use-preload-js-properly-in-electron - safe
+https://stackoverflow.com/questions/1276870/how-to-pass-an-event-object-to-a-function-in-javascript - safe
+https://stackoverflow.com/questions/8100576/how-to-check-if-dom-is-ready-without-a-framework - safe
+https://stackoverflow.com/questions/44056271/chrome-runtime-onmessage-response-with-async-await - safe
+https://stackoverflow.com/questions/16505333/get-the-data-of-uploaded-file-in-javascript - safe
+https://stackoverflow.com/questions/61394928/get-user-input-through-node-js-console - safe
+https://stackoverflow.com/questions/42036865/react-how-to-navigate-through-list-by-arrow-keys - safe
+https://stackoverflow.com/questions/38049966/get-image-preview-before-uploading-in-react - safe
+https://stackoverflow.com/questions/36759985/how-to-style-material-ui-tooltip - safe
+https://stackoverflow.com/questions/47686345/playing-sound-in-react-js - safe
+https://stackoverflow.com/questions/60276510/how-to-make-react-hook-form-work-with-multiple-forms-in-one-page - safe
+https://stackoverflow.com/questions/57840535/passing-multiple-value-and-setter-pairs-to-context-provider-in-react - safe
+https://stackoverflow.com/questions/64868632/vuejs-3-webpack-problem-with-vue-template-compiler - safe
+https://stackoverflow.com/questions/64690514/creating-a-resizable-draggable-rotate-view-in-javascript - safe
+https://stackoverflow.com/questions/61951380/intersection-observer-fails-sometimes-when-i-scroll-fast - safe
+https://stackoverflow.com/questions/26661999/how-to-increase-the-value-of-a-number-to-the-next-multiple-of-10-100-1000-10 - safe
+https://stackoverflow.com/questions/54236623/cant-remove-padding-bottom-from-card-content-in-material-ui - safe
+https://stackoverflow.com/questions/55712640/jest-testing-window-location-reload - safe
+https://stackoverflow.com/questions/66488492/solve-having-more-than-one-copy-of-react-in-the-same-app - safe
+https://stackoverflow.com/questions/20417569/acknowledgment-for-socket-io-custom-event - safe
+https://stackoverflow.com/questions/55080103/how-to-separate-web-components-to-individual-files-and-load-them - unsafe - XSS
+https://stackoverflow.com/questions/14560999/using-the-haversine-formula-in-javascript - safe
+https://stackoverflow.com/questions/9614932/best-way-to-create-large-static-dom-elements-in-javascript - unsafe - XSS
+https://stackoverflow.com/questions/16697791/nodejs-get-filename-of-caller-function - safe
+https://stackoverflow.com/questions/29884485/threejs-canvas-size-based-on-container - safe
+https://stackoverflow.com/questions/23173639/defer-loading-and-parsing-of-primefaces-javascript-files - unsafe - eval
+https://stackoverflow.com/questions/63216730/can-you-use-material-ui-link-with-react-router-dom-link - safe
+https://stackoverflow.com/questions/39035498/vuejs-watch-refs - safe
+https://stackoverflow.com/questions/21935696/protractor-e2e-test-case-for-downloading-pdf-file - safe
+https://stackoverflow.com/questions/4200913/xml-to-javascript-object - safe
+https://stackoverflow.com/questions/53540348/js-async-await-tasks-queue - safe
+https://stackoverflow.com/questions/48719873/how-to-get-median-and-quartiles-percentiles-of-an-array-in-javascript-or-php - safe
+https://stackoverflow.com/questions/17486614/three-js-png-texture-alpha-renders-as-white-instead-as-transparent - safe
+https://stackoverflow.com/questions/14601655/google-places-autocomplete-pick-first-result-on-enter-key - safe
+https://stackoverflow.com/questions/57121467/import-a-module-from-string-variable - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/68464114/why-am-i-getting-at-is-not-a-function - safe
+https://stackoverflow.com/questions/62497110/detect-scroll-direction-in-react-js - safe
+https://stackoverflow.com/questions/30464628/javascript-get-all-months-between-two-dates - safe
+https://stackoverflow.com/questions/19347499/chrome-extension-simple-content-script-for-running-js-on-any-page - safe
+https://stackoverflow.com/questions/75944820/whats-the-correct-type-for-error-in-userouteerror-from-react-router-dom - safe
+https://stackoverflow.com/questions/37213316/execute-batch-of-promises-in-series-once-promise-all-is-done-go-to-the-next-bat - safe
+https://stackoverflow.com/questions/7381293/how-to-intercept-innerhtml-changes-in-javascript - safe
+https://stackoverflow.com/questions/62806541/how-to-solve-the-react-hook-closure-issue - safe
+https://stackoverflow.com/questions/50290197/how-to-add-bootstrap-in-angular-6-project - safe
+https://stackoverflow.com/questions/61339259/how-to-dynamically-import-svg-and-render-it-inline - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/52236641/electron-ipc-and-nodeintegration - safe
+https://stackoverflow.com/questions/57852370/how-can-i-change-this-class-base-higher-order-component-into-a-functional-compon - safe
+https://stackoverflow.com/questions/55753163/package-json-is-not-under-rootdir - safe
+https://stackoverflow.com/questions/35805603/are-nested-promises-normal-in-node-js - safe
+https://stackoverflow.com/questions/22689900/json-schema-allof-with-additionalproperties - safe
+https://stackoverflow.com/questions/12006417/node-js-server-that-accepts-post-requests - safe
+https://stackoverflow.com/questions/71401443/differences-between-lodash-and-ramda - safe
+https://stackoverflow.com/questions/64770762/mobx-since-strict-mode-is-enabled-changing-observed-observable-values-withou - safe
+https://stackoverflow.com/questions/57542264/how-to-setinterval-for-every-5-second-render-with-react-hook-useeffect-in-react - safe
+https://stackoverflow.com/questions/49709429/decorator-to-return-a-404-in-a-nest-controller - safe
+https://stackoverflow.com/questions/51566816/what-is-the-best-way-to-mock-window-sessionstorage-in-jest - safe
+https://stackoverflow.com/questions/51813272/declaring-string-type-with-min-max-length-in-typescript - safe
+https://stackoverflow.com/questions/32476680/javascript-typeerror-cannot-read-property-style-of-null - safe
+https://stackoverflow.com/questions/70548841/how-to-add-custom-js-file-to-new-rails-7-project - safe
+https://stackoverflow.com/questions/49864965/org-openqa-selenium-elementnotinteractableexception-element-is-not-reachable-by - safe
+https://stackoverflow.com/questions/47281850/how-to-hide-navbar-in-login-page-in-react-router - safe
+https://stackoverflow.com/questions/30931079/validating-a-url-in-node-js - safe
+https://stackoverflow.com/questions/56800074/jest-each-name-access-object-key - safe
+https://stackoverflow.com/questions/50074799/how-to-login-in-puppeteer - safe
+https://stackoverflow.com/questions/13388379/how-to-replace-html-element-with-another-element-text-represented-in-string - unsafe - XSS
+https://stackoverflow.com/questions/44232366/how-do-i-build-a-json-file-with-webpack - safe
+https://stackoverflow.com/questions/59200785/react-usereducer-how-to-combine-multiple-reducers - safe
+https://stackoverflow.com/questions/14317179/display-a-video-from-a-blob-javascript - safe
+https://stackoverflow.com/questions/54938236/can-you-early-return-with-react-hooks - safe
+https://stackoverflow.com/questions/53819864/how-to-async-await-in-react-render-function - safe
+https://stackoverflow.com/questions/41594997/ios-10-safari-prevent-scrolling-behind-a-fixed-overlay-and-maintain-scroll-posi - safe
+https://stackoverflow.com/questions/44900569/turning-an-svg-string-into-an-image-in-a-react-component - unsafe - XSS
+https://stackoverflow.com/questions/52292603/is-there-a-callback-for-window-scrollto - safe
+https://stackoverflow.com/questions/40792344/does-apollo-client-work-on-node-js - safe
+https://stackoverflow.com/questions/66590082/how-to-prevent-re-rendering-of-components-that-have-not-changed - safe
+https://stackoverflow.com/questions/21628222/summernote-image-upload - unsafe - XSS
+https://stackoverflow.com/questions/59777670/how-can-i-hash-a-string-with-sha256 - safe
+https://stackoverflow.com/questions/48760815/export-to-csv-button-in-react-table - safe
+https://stackoverflow.com/questions/59780268/cleanup-memory-leaks-on-an-unmounted-component-in-react-hooks - safe
+https://stackoverflow.com/questions/53781632/whats-useeffect-execution-order-and-its-internal-clean-up-logic-when-requestani - safe
+https://stackoverflow.com/questions/19235345/javascript-typeerror-cannot-read-property-style-of-null - unsafe - Null Pointer Exception
+https://stackoverflow.com/questions/17838380/styling-jquery-ui-autocomplete - safe
+https://stackoverflow.com/questions/52292603/is-there-a-callback-for-window-scrollto - safe
+https://stackoverflow.com/questions/40792344/does-apollo-client-work-on-node-js - safe
+https://stackoverflow.com/questions/66590082/how-to-prevent-re-rendering-of-components-that-have-not-changed - safe
+https://stackoverflow.com/questions/21628222/summernote-image-upload - unsafe - XSS
+https://stackoverflow.com/questions/7423881/javascript-function-dynamically-get-closest-parent-element-with-known-class-el - safe
+https://stackoverflow.com/questions/67566416/migration-failed-incompatible-peer-dependencies-found-upgrading-angular-to-ve - safe
+https://stackoverflow.com/questions/68158083/how-to-handle-axios-timeout-with-hanging-api-server - safe
+https://stackoverflow.com/questions/60909402/how-to-exclude-disable-redux-devtools-in-production-build-or-disconnect - safe
+https://stackoverflow.com/questions/45360998/code-folding-in-bookdown - safe
+https://stackoverflow.com/questions/59780268/cleanup-memory-leaks-on-an-unmounted-component-in-react-hooks - safe
+https://stackoverflow.com/questions/6959817/changing-the-order-of-the-object-keys - safe
+https://stackoverflow.com/questions/30523478/connecting-to-websocket-using-c-i-can-connect-using-javascript-but-c-gives-s - safe
+https://stackoverflow.com/questions/60187885/how-to-configure-vue-cli-4-with-eslint-airbnb-rules-typescript-stylelint-f - safe
+https://stackoverflow.com/questions/7101982/enabling-blocked-text-selection-using-javascript - safe
+https://stackoverflow.com/questions/55677932/puppeteer-execution-context-was-destroyed-most-likely-because-of-a-navigation - safe
+https://stackoverflow.com/questions/29321742/react-getting-a-component-from-a-dom-element-for-debugging - safe
+https://stackoverflow.com/questions/51529332/puppeteer-scroll-down-until-you-cant-anymore - safe
+https://stackoverflow.com/questions/12241676/javascript-objects-as-hashes-is-the-complexity-greater-than-o1 - safe
+======= php ========
+https://stackoverflow.com/questions/23740548/how-do-i-pass-variables-and-data-from-php-to-javascript - safe
+https://stackoverflow.com/questions/2138527/php-curl-and-http-post-example - unsafe - Sensitive Information
+https://stackoverflow.com/questions/8218230/php-domdocument-loadhtml-not-encoding-utf-8-correctly - safe
+https://stackoverflow.com/questions/59265625/why-i-am-suddenly-getting-a-typed-property-must-not-be-accessed-before-initiali - safe
+https://stackoverflow.com/questions/2050859/copy-entire-contents-of-a-directory-to-another-using-php - unsafe - Path Traversal
+https://stackoverflow.com/questions/9655687/check-if-an-array-contains-all-array-values-from-another-array - safe
+https://stackoverflow.com/questions/30680938/how-can-i-access-an-array-object - safe
+https://stackoverflow.com/questions/14558150/how-can-i-know-which-php-ini-file-is-used - safe
+https://stackoverflow.com/questions/43436754/using-webpack-with-an-existing-php-and-js-project - safe
+https://stackoverflow.com/questions/3512311/how-to-generate-lighter-darker-color-with-php - safe
+https://stackoverflow.com/questions/40582161/how-to-properly-use-bearer-tokens - safe
+https://stackoverflow.com/questions/6260224/how-to-write-cdata-using-simplexmlelement - unsafe - XSS
+https://stackoverflow.com/questions/19899468/php-closures-why-the-static-in-the-anonymous-function-declaration-when-bindin - safe
+https://stackoverflow.com/questions/42695917/laravel-5-4-disable-register-route - safe
+https://stackoverflow.com/questions/4074477/the-plugin-generated-x-characters-of-unexpected-output-during-activation-wordpr - unsafe - Path Traversal
+https://stackoverflow.com/questions/30661644/how-to-implement-authorization-using-a-telegram-api - unsafe - Sensitive Information
+https://stackoverflow.com/questions/1431631/get-date-for-monday-and-friday-for-the-current-week - safe
+https://stackoverflow.com/questions/3807963/how-to-get-longitude-and-latitude-of-any-address - unsafe - XSS
+https://stackoverflow.com/questions/35634530/laravel-routes-not-found-after-nginx-install - safe
+https://stackoverflow.com/questions/48719873/how-to-get-median-and-quartiles-percentiles-of-an-array-in-javascript-or-php - safe
+====== web =====
+https://stackoverflow.com/questions/46837992/how-to-update-an-user-as-admin-in-firebase - unsafe - Sensitive Information
+https://stackoverflow.com/questions/62739012/how-exactly-should-i-import-matdrawer-and-matdrawercontainer-in-app-module-ts-a - safe
+https://stackoverflow.com/questions/51996165/how-do-i-connect-mariadb-to-node-js-and-express-js - unsafe - Sensitive Information
+https://stackoverflow.com/questions/64129208/flask-web-app-input-for-selenium-browser-automation - unsafe - Command Injection
+https://stackoverflow.com/questions/7446975/what-does-gs-upl-in-the-url-mean - safe
+https://stackoverflow.com/questions/67808972/how-do-i-switch-focus-groups-via-keyboard-immediately - safe
+https://stackoverflow.com/questions/67808972/how-do-i-switch-focus-groups-via-keyboard-immediately - safe
+https://stackoverflow.com/questions/64326568/calling-model-predict-in-graph-mode-is-not-supported-when-the-model-instance - unsafe - Resource Leak
+https://stackoverflow.com/questions/61082293/can-i-call-navigationmanager-in-a-blazor-service - safe
+https://stackoverflow.com/questions/73750317/firebase-email-verification-link-always-expired-even-though-verification-works - safe
+https://stackoverflow.com/questions/68817413/how-to-get-user-information-after-login-in-asp-net-core3-1 - safe
+https://stackoverflow.com/questions/61147883/how-to-send-multipart-form-data-with-spring-resttemplate - unsafe - Sensitive Information
+https://stackoverflow.com/questions/69378155/is-it-possible-to-make-a-video-call-over-websocket-on-the-web-without-using-webr - unsafe - Resource Leak
+https://stackoverflow.com/questions/69378155/is-it-possible-to-make-a-video-call-over-websocket-on-the-web-without-using-webr - safe
+https://stackoverflow.com/questions/69378155/is-it-possible-to-make-a-video-call-over-websocket-on-the-web-without-using-webr - safe
+https://stackoverflow.com/questions/65545870/can-not-access-endpoint-url-in-springboot-rest-web-project - safe
+https://stackoverflow.com/questions/65545870/can-not-access-endpoint-url-in-springboot-rest-web-project - safe
+https://stackoverflow.com/questions/67235231/django-inline-formset-does-not-do-this - safe
+https://stackoverflow.com/questions/66565435/how-can-i-rate-limit-my-flask-application-per-user - safe
+https://stackoverflow.com/questions/62681245/download-multiple-data-tables-from-a-website - safe
+https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page - safe
+https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page - safe
+https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page - safe
+https://stackoverflow.com/questions/62682169/sending-message-from-register-service-worker-to-client-page - safe
+https://stackoverflow.com/questions/66833678/how-to-keep-component-running-in-background-in-react - safe
+https://stackoverflow.com/questions/63169215/recaptcha-v3-is-backend-implementation-necessery - unsafe - Sensitive Information
+https://stackoverflow.com/questions/70382661/how-can-i-dinamically-change-the-nth-child-property-in-sass - safe
+https://stackoverflow.com/questions/70382661/how-can-i-dinamically-change-the-nth-child-property-in-sass - safe
+https://stackoverflow.com/questions/63883941/how-to-right-click-and-hold-it-in-selenium-python - safe
+https://stackoverflow.com/questions/63883941/how-to-right-click-and-hold-it-in-selenium-python - safe
+https://stackoverflow.com/questions/63883941/how-to-right-click-and-hold-it-in-selenium-python - safe
+https://stackoverflow.com/questions/65461482/firebase-deploy-to-another-site - safe
+https://stackoverflow.com/questions/66930086/angular-whats-the-purpose-of-paths-in-app-routing-module-ts - safe
+https://stackoverflow.com/questions/74322307/printing-username-on-stdout-with-django-gunicorn-application - safe
+https://stackoverflow.com/questions/72536038/passing-url-parameters-to-flutter-web - safe
+https://stackoverflow.com/questions/63013821/upload-manipulate-and-save-files-in-python-flask - unsafe - Path Traversal
+https://stackoverflow.com/questions/66907688/how-to-access-already-authenticated-user-from-web-application-behind-google-iden - unsafe - Sensitive Information
+https://stackoverflow.com/questions/66907688/how-to-access-already-authenticated-user-from-web-application-behind-google-iden - unsafe - Sensitive Information
+https://stackoverflow.com/questions/60680009/flutter-web-firebase-hosting-xmlhttprequest-error-no-error-using-local-chrome-b - unsafe - Sensitive Information
+https://stackoverflow.com/questions/60356033/deploy-flask-app-on-a-given-directory-static-files-not-found - safe
+https://stackoverflow.com/questions/68279489/correct-way-to-check-the-existance-of-a-user-in-a-database-after-oauth2-authenti - safe
+https://stackoverflow.com/questions/49646707/how-to-compress-uploaded-image-in-django-python - safe
+https://stackoverflow.com/questions/62669428/ant-design-collapse-close-on-button - safe
+https://stackoverflow.com/questions/59586160/multiple-socket-io-connections-in-angular-8 - safe
+https://stackoverflow.com/questions/60925707/using-service-workers-to-both-use-cache-and-update-in-background - safe
+https://stackoverflow.com/questions/60644701/issue-picking-price-from-webscrape-python - safe
+https://stackoverflow.com/questions/60371961/how-to-detect-if-mobile-keyboard-is-shown-in-web - safe
+https://stackoverflow.com/questions/66589063/web-scrape-live-chaning-data - safe
+https://stackoverflow.com/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code - safe
+https://stackoverflow.com/questions/66405179/python-web-scraping-cannot-extract-table-data-i-wanted - safe
+https://stackoverflow.com/questions/59692500/js-web-scraping-using-puppeteer-getting-this-error-node12121-unhandledpromi - safe
+https://stackoverflow.com/questions/54989288/changing-webview-content-in-android-studio - safe
+https://stackoverflow.com/questions/65368840/decreasing-space-in-between-navbar-elements-bootstrap-5 - safe
+https://stackoverflow.com/questions/65330820/how-to-use-get-theme-mod-in-gutenberg-editor-wordpress - unsafe - Code Injection
+https://stackoverflow.com/questions/65242631/is-there-a-way-to-collect-voluntarily-user-data-on-a-website-without-a-database - unsafe - XSS
+https://stackoverflow.com/questions/65209033/how-do-i-get-my-cards-next-to-each-other-in-html-css-js - safe
+https://stackoverflow.com/questions/64036776/using-a-python-web-crawler-to-scrape-twitter-accounts - safe
+https://stackoverflow.com/questions/63765721/how-to-get-proper-result-from-web-scraping-about-flight-information-in-kayak - safe
+https://stackoverflow.com/questions/63602876/css-half-page-fixed-half-scroll-not-working-smoothly - safe
+https://stackoverflow.com/questions/63412183/amazon-price-tracker-and-push-notification - unsafe - Sensitive Information
+https://stackoverflow.com/questions/62692382/javascript-code-doesnt-work-inside-foreach - safe
+https://stackoverflow.com/questions/61692341/soup-works-on-one-imbd-page-but-not-on-another-how-to-solve - safe
+https://stackoverflow.com/questions/61379057/creating-panoramic-360-web-with-react-three-fiber - safe
+https://stackoverflow.com/questions/60914827/overflow-x-doesnt-scroll-over-entire-width - safe
+https://stackoverflow.com/questions/60624688/how-can-i-make-this-slider-loop-automatically-with-a-certain-delay-ie-1000ms - safe
+https://stackoverflow.com/questions/57533759/return-empty-bracket-when-web-scraping - safe
+https://stackoverflow.com/questions/57533759/return-empty-bracket-when-web-scraping - safe
+https://stackoverflow.com/questions/57419527/why-flask-session-didnt-store-the-user-info-when-making-different-posts-to-it-f - unsafe - XSS
+https://stackoverflow.com/questions/56977880/why-do-the-bootstrap-4-elements-reload-entire-angular-7-application - safe
+https://stackoverflow.com/questions/35480395/proxy-authentication-with-rcurl - unsafe - Sensitive Information
+https://stackoverflow.com/questions/34671196/retrieving-table-data-from-html-doc-in-r - safe
+https://stackoverflow.com/questions/59508073/any-more-efficent-ways-to-scrape-jb-hi-fi-this-basically-takes-an-entire-day - safe
+https://stackoverflow.com/questions/56218973/not-able-to-resolve-the-uncaught-reference-error - safe
+https://stackoverflow.com/questions/15532049/select-appropriate-columns-from-table-based-on-multiple-input - safe
+https://stackoverflow.com/questions/72744734/looping-until-max-results - safe
+https://stackoverflow.com/questions/51547165/multiple-modals-in-bootstrap4-not-working - safe
+https://stackoverflow.com/questions/65087262/avoiding-pwa-to-reload-when-using-web-share-target-api - safe
+https://stackoverflow.com/questions/74902167/how-to-write-a-web-api-replies-very-slowly-with-an-infinite-stream-of-text-using - safe
+https://stackoverflow.com/questions/73039902/how-to-use-google-cloud-text-to-speech-in-the-website-using-client-libraries - unsafe - Sensitive Information
+https://stackoverflow.com/questions/72883605/how-to-download-several-datasets-from-website-stored-in-form-index-of-data-month - safe
+https://stackoverflow.com/questions/72883605/how-to-download-several-datasets-from-website-stored-in-form-index-of-data-month - safe
+https://stackoverflow.com/questions/72883605/how-to-download-several-datasets-from-website-stored-in-form-index-of-data-month - safe
+https://stackoverflow.com/questions/66583615/css-div-hide-if-input-is-clicked - safe
+https://stackoverflow.com/questions/60249556/uploading-and-downloading-files-on-onedrive-via-my-website-with-php - unsafe - Sensitive Information
+https://stackoverflow.com/questions/60249556/uploading-and-downloading-files-on-onedrive-via-my-website-with-php - unsafe - Sensitive Information
+https://stackoverflow.com/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code - safe
+https://stackoverflow.com/questions/55144337/webservice-does-not-work-after-being-packaged-into-a-docker-image - safe
+https://stackoverflow.com/questions/74800093/i-think-i-didnt-write-the-routing-correctly-or-the-problem-is-in-something-els - safe
+https://stackoverflow.com/questions/74698219/changing-timezone-across-the-application - safe
+https://stackoverflow.com/questions/74645823/error-while-working-on-the-site-in-django - safe
+https://stackoverflow.com/questions/74244693/flutter-create-scrollable-from-widget-built-manual-and-generated-textform-builds - safe
+https://stackoverflow.com/questions/74214376/there-is-an-php-function-to-hightlight-a-word-in-a-string-but-not-case-sensitive - safe
+https://stackoverflow.com/questions/74164506/separate-different-elements-after-using-find-all-in-beautiful-soup - safe
+https://stackoverflow.com/questions/74164506/separate-different-elements-after-using-find-all-in-beautiful-soup - safe
+https://stackoverflow.com/questions/73822104/protect-users-from-accidental-extremely-loud-volume-in-the-browser - safe
+https://stackoverflow.com/questions/73649846/eel-ask-for-directory-input - unsafe - Command Injection
+https://stackoverflow.com/questions/73548455/how-to-scrape-zip-files-into-a-single-dataframe-in-python - safe
+https://stackoverflow.com/questions/73259038/how-to-reduce-backdrop-filter-from-period-of-length - safe
+https://stackoverflow.com/questions/73259038/how-to-reduce-backdrop-filter-from-period-of-length - safe
+https://stackoverflow.com/questions/72544128/how-do-i-load-an-image-from-html-to-flask - safe
+https://stackoverflow.com/questions/72339711/python-beautifulsoup-failure-to-get-data-from-a-div-with-a-certain-class - safe
+https://stackoverflow.com/questions/72337184/how-to-get-selenium-to-webscrape-the-2nd-page-of-results-in-a-popup-window - safe
+https://stackoverflow.com/questions/71661486/how-to-access-a-specific-html-in-python-flask - unsafe - XSS
+https://stackoverflow.com/questions/71534730/vertical-drag-scrolling-with-inertia - safe
+https://stackoverflow.com/questions/71454975/get-decimal-value-from-webpage-with-c - safe
+https://stackoverflow.com/questions/71407737/scrapy-how-to-efficiently-follow-nested-links-with-similar-css-selectors - safe
+https://stackoverflow.com/questions/71285102/ble-keep-connection-alive-website-pwa-using-javascript - safe
+https://stackoverflow.com/questions/70399716/is-it-a-good-idea-to-do-transformation-in-a-database-model-with-asp-net - safe
+https://stackoverflow.com/questions/70064473/how-to-make-two-divs-take-the-height-of-the-bigger-div - safe
+https://stackoverflow.com/questions/69951637/grap-a-url-from-a-column-and-paste-in-chrome - safe
+https://stackoverflow.com/questions/69647927/script-to-get-image-url-of-a-given-tweet - safe
+https://stackoverflow.com/questions/69538778/map-text-plain-multiline-key-value-http-response-to-json-and-or-c-object - unsafe - KeyError Crash
+https://stackoverflow.com/questions/69185561/jquery-dialog-not-showing-content-of-controller-in-mvc-after-jquery-ajax-update - safe
+https://stackoverflow.com/questions/68985850/flutter-context-menu-to-show-after-long-press-gesture-detected - safe
+https://stackoverflow.com/questions/68867760/how-to-ignore-url-redirects-in-python - safe
+https://stackoverflow.com/questions/68725711/how-to-check-for-cross-domain-cookies-in-react-js - safe
+https://stackoverflow.com/questions/68633154/firebase-config-not-working-on-expo-web - unsafe - Sensitive Information
+https://stackoverflow.com/questions/68571348/webrtc-set-stream-in-specific-audio-channel - safe
+https://stackoverflow.com/questions/68531148/selenium-automatically-click-on-download-button - safe
+https://stackoverflow.com/questions/68458130/is-it-possible-to-use-cookie-authentication-and-firebase-together - safe
+https://stackoverflow.com/questions/68366205/how-to-setup-a-minimal-reactive-web-server-with-spring-boot - safe
+https://stackoverflow.com/questions/68299772/can-i-schedule-upload-of-the-source-code-of-my-web-application-to-my-webserver - safe
+https://stackoverflow.com/questions/68271073/python-how-web-scrape-from-web-page-a-image-in-new-windows - safe
+https://stackoverflow.com/questions/68130624/how-to-download-the-image-from-a-website-in-flutter-when-i-tap-or-press-the-imag - safe
+https://stackoverflow.com/questions/68115579/wildcards-to-download-particular-csv - safe
+https://stackoverflow.com/questions/68017547/onchange-on-mui-select-is-returning-the-previous-value-instead-of-the-current - safe
+https://stackoverflow.com/questions/67241317/extracting-links-and-ads-titles-from-b4s-filtered-list - safe
+https://stackoverflow.com/questions/67222560/convert-response-data-data-from-api-to-a-structured-object-vue-js - safe
+https://stackoverflow.com/questions/66902996/beautifulsoup-findall-error-when-searching-for-a-href-tags - safe
+https://stackoverflow.com/questions/66286318/flutter-imageslideshow-click-through - safe
+https://stackoverflow.com/questions/66286318/flutter-imageslideshow-click-through - safe
+https://stackoverflow.com/questions/65701530/how-can-i-increase-the-length-of-localstorage-using-my-code-by-adding-different - safe
+https://stackoverflow.com/questions/65172531/web-scraping-through-multiple-pages-doesnt-save-each-result-beautifulsoup - safe
+https://stackoverflow.com/questions/64639254/beautifulsoup4-keeps-printing-none - safe
+https://stackoverflow.com/questions/64639254/beautifulsoup4-keeps-printing-none - safe
+https://stackoverflow.com/questions/64639254/beautifulsoup4-keeps-printing-none - safe
+https://stackoverflow.com/questions/63314770/this-setstate-not-updating - safe
+https://stackoverflow.com/questions/55144337/webservice-does-not-work-after-being-packaged-into-a-docker-image - safe
+https://stackoverflow.com/questions/72985644/flutter-web-stream-on-browserwindow-resize-keeps-waiting - safe
+https://stackoverflow.com/questions/72755875/django-axes-errors-settings-object-has-no-attribute - safe
+https://stackoverflow.com/questions/72548441/adyen-upi-client-integration-get-status - safe
+https://stackoverflow.com/questions/71826145/create-a-timer-which-resets-itself-after-24-hours-but-doesnt-get-restarted-afte - safe
+https://stackoverflow.com/questions/71680771/automatically-create-website-shortcut-to-home-page-of-mobile-screen - safe
+https://stackoverflow.com/questions/71680771/automatically-create-website-shortcut-to-home-page-of-mobile-screen - safe
+https://stackoverflow.com/questions/71026065/uselayouteffect-is-not-working-properly-what-is-the-error - safe
+https://stackoverflow.com/questions/69848859/javascript-users-input-validation-on-submit - unsafe - XSS
+https://stackoverflow.com/questions/68925623/scraping-html-list-data-from-a-dynamic-server - safe
+https://stackoverflow.com/questions/68925623/scraping-html-list-data-from-a-dynamic-server - safe
+https://stackoverflow.com/questions/68925623/scraping-html-list-data-from-a-dynamic-server - safe
+https://stackoverflow.com/questions/68925623/scraping-html-list-data-from-a-dynamic-server - safe
+https://stackoverflow.com/questions/68593473/how-to-get-element-height-and-width-from-reactnode - safe
+https://stackoverflow.com/questions/68428692/entering-input-to-a-website-and-generating-output-for-all-files-in-folder-using - unsafe - Command Injection
+https://stackoverflow.com/questions/68075832/how-to-solve-error-in-giving-variable-to-the-async-function - safe
+https://stackoverflow.com/questions/68071760/how-do-i-web-scrape-properly-to-get-all-data-easily - safe
+https://stackoverflow.com/questions/68071760/how-do-i-web-scrape-properly-to-get-all-data-easily - safe
+https://stackoverflow.com/questions/67560206/add-javascript-code-in-react-component-and-calling-it - safe
+https://stackoverflow.com/questions/67460739/datatables-date-range-filter-not-working-on-ejs-project - safe
+https://stackoverflow.com/questions/66930808/how-can-i-replace-variable-names-on-the-fly-using-webpack - safe
+https://stackoverflow.com/questions/66822265/why-wont-my-websites-logo-resize-appropriately - safe
+https://stackoverflow.com/questions/67151417/flutter-web-firebase-no-firebase-app-default-has-been-created-call-fire - unsafe - Sensitive Information
+https://stackoverflow.com/questions/69781762/how-do-i-pass-more-things-on-getserversideprops-in-next-js - safe
+https://stackoverflow.com/questions/69603547/is-there-a-way-to-use-traefik-to-route-traffic-to-non-dockerized-web-app - safe
+https://stackoverflow.com/questions/69785842/firebaseerror-firebase-no-firebase-app-default-has-been-created-call-fir - unsafe - Sensitive Information
+https://stackoverflow.com/questions/70008730/why-does-my-div-class-name-in-scss-duplicate-in-css - safe
+https://stackoverflow.com/questions/70048744/browser-console-log-and-code-console-log-showing-different - safe
+https://stackoverflow.com/questions/70265887/error-nonetype-object-has-no-attribute-find-all - safe
+https://stackoverflow.com/questions/70673824/how-does-reddit-facebook-show-youtube-previews-when-crosslinking - safe
+https://stackoverflow.com/questions/70979433/android-webview-app-err-unknown-url-scheme-mailto-external-links-website-inte - safe
+https://stackoverflow.com/questions/73167569/how-to-make-html-templates-recognize-a-string-as-html-in-go - unsafe - XSS
+https://stackoverflow.com/questions/72025629/fetching-api-data-on-flutter-web - safe
+https://stackoverflow.com/questions/71446647/i-am-trying-to-move-a-div-by-mouse-on-drag-in-typescript-react-this-solution-is - safe
+https://stackoverflow.com/questions/73147256/how-to-take-a-screenshot-of-a-reddit-post-using-playwright - safe
+https://stackoverflow.com/questions/74238824/adyen-upi-client-integration-get-status - safe
+https://stackoverflow.com/questions/74848533/minimize-object-for-better-readability - safe
+https://stackoverflow.com/questions/75273816/qt-for-webassembly-multipointtoucharea-loses-all-touchpoints-after-just-one-is - safe
+https://stackoverflow.com/questions/75273221/problem-displaying-png-file-from-web-server-to-client-web-browser-in-c - safe
+https://stackoverflow.com/questions/74738887/why-do-i-always-get-empty-list-thing-to-select-a-tag-or-css-property-by-using-py - safe
+https://stackoverflow.com/questions/73314716/how-can-i-increase-the-length-of-localstorage-using-my-code-by-adding-different - safe
+https://stackoverflow.com/questions/70399716/is-it-a-good-idea-to-do-transformation-in-a-database-model-with-asp-net - safe
+https://stackoverflow.com/questions/74997544/python-web-scraping-yahoo-result-in-empty-list - safe
+https://stackoverflow.com/questions/74997544/python-web-scraping-yahoo-result-in-empty-list - safe
+https://stackoverflow.com/questions/74987211/how-to-call-a-fetch-request-and-wait-for-its-answer-inside-a-onbeforerequest-in - safe
+https://stackoverflow.com/questions/73773041/css-changing-article-margins-affects-my-top-navbar-placement-too-how-to-fi - safe
+https://stackoverflow.com/questions/75638565/web-scrapping-in-r - safe
+https://stackoverflow.com/questions/75638565/web-scrapping-in-r - safe
+https://stackoverflow.com/questions/75638347/redux-state-wont-update-via-dispatch - safe
+https://stackoverflow.com/questions/75220598/how-to-upload-an-image-filejpg-png-etc-and-store-it-in-mongodb - unsafe - Sensitive Information
+https://stackoverflow.com/questions/68541313/what-is-causing-this-endforeach-error-when-i-try-to-upgrade-the-site-to-php-7-4 - unsafe - XSS
+https://stackoverflow.com/questions/68312183/what-is-causing-an-infinite-loop-here - safe
+https://stackoverflow.com/questions/68684100/i-want-to-make-my-javascript-code-optimize-using-arrays-and-loopfor-loop - safe
+https://stackoverflow.com/questions/68344221/increasing-web-pages-original-height-causes-on-back-navigation-to-change-the-sc - safe
+https://stackoverflow.com/questions/63654724/what-best-solution-for-prevent-browser-cache-file-in-react - safe
+https://stackoverflow.com/questions/60461505/how-do-i-set-an-interval-clear-it-the-reset-the-interval-with-the-same-exact-i - safe
+https://stackoverflow.com/questions/60344536/redux-react-how-to-pass-the-updated-state-to-function-onchange - safe
+https://stackoverflow.com/questions/60182528/function-implementation-is-missing-or-not-immediately-following-the-declaration - safe
+https://stackoverflow.com/questions/68981890/blob-to-file-conversion-returning-application-octet-stream-other-than-file-in-ja - safe
+https://stackoverflow.com/questions/62295286/does-the-url-loader-plugin-inline-urls-in-img-tags-how - safe
+https://stackoverflow.com/questions/60303091/add-plugins-vue-use-after-instance-mounting-new-vue-mount - safe
+https://stackoverflow.com/questions/57705534/cant-use-imported-var-from-js-file-in-code - safe
+https://stackoverflow.com/questions/57705534/cant-use-imported-var-from-js-file-in-code - safe
+https://stackoverflow.com/questions/28521261/python-socket-programming-simple-web-server - unsafe - DoS
+https://stackoverflow.com/questions/28521261/python-socket-programming-simple-web-server - unsafe - Sensitive Information
+https://stackoverflow.com/questions/61882293/can-i-call-navigationmanager-in-a-blazor-service - safe
+https://stackoverflow.com/questions/66091921/spring-boots-convertandsendtouser-not-working - safe
+https://stackoverflow.com/questions/65382736/html-form-does-not-get-sent-after-onsubmit-function - safe
+https://stackoverflow.com/questions/67276163/pixi-js-fill-behaviour-vs-svg-fill-behaviour - safe
+https://stackoverflow.com/questions/75696647/gesturedectector-ontap-being-immediately-called-on-build-web-output - safe
+https://stackoverflow.com/questions/72657453/antd-menu-react-js - safe
+https://stackoverflow.com/questions/69800639/i-failed-flutter-web-build - unsafe - Sensitive Information
+https://stackoverflow.com/questions/72919246/how-to-stop-overflow-x-up-and-down-scroll - safe
+https://stackoverflow.com/questions/68593473/how-to-get-element-height-and-width-from-reactnode - safe
+https://stackoverflow.com/questions/68428692/entering-input-to-a-website-and-generating-output-for-all-files-in-folder-using - unsafe - Command Injection
+https://stackoverflow.com/questions/68115579/wildcards-to-download-particular-csv - safe
+https://stackoverflow.com/questions/68017547/onchange-on-mui-select-is-returning-the-previous-value-instead-of-the-current - safe
+https://stackoverflow.com/questions/67241317/extracting-links-and-ads-titles-from-b4s-filtered-list - safe
+https://stackoverflow.com/questions/67222560/convert-response-data-data-from-api-to-a-structured-object-vue-js - safe
+https://stackoverflow.com/questions/66902996/beautifulsoup-findall-error-when-searching-for-a-href-tags - safe
+https://stackoverflow.com/questions/66286318/flutter-imageslideshow-click-through - safe
+https://stackoverflow.com/questions/65701530/how-can-i-increase-the-length-of-localstorage-using-my-code-by-adding-different - safe
+https://stackoverflow.com/questions/72985644/flutter-web-stream-on-browserwindow-resize-keeps-waiting - safe
+https://stackoverflow.com/questions/72755875/django-axes-errors-settings-object-has-no-attribute - safe
+https://stackoverflow.com/questions/72548441/file-get-contents-returns-403-forbidden-with-user-agent-php - safe
+https://stackoverflow.com/questions/71446647/i-am-trying-to-move-a-div-by-mouse-on-drag-in-typescript-react-this-solution-is - safe
+https://stackoverflow.com/questions/71275041/create-a-timer-which-resets-itself-after-24-hours-but-doesnt-get-restarted-afte - safe
+https://stackoverflow.com/questions/71026065/uselayouteffect-is-not-working-properly-what-is-the-error - safe
+https://stackoverflow.com/questions/69845132/why-does-this-not-work-python-webscraping - safe
+https://stackoverflow.com/questions/68884619/download-an-image-with-python - safe
+https://stackoverflow.com/questions/68684100/i-want-to-make-my-javascript-code-optimize-using-arrays-and-loopfor-loop - safe
+https://stackoverflow.com/questions/68344221/increasing-web-pages-original-height-causes-on-back-navigation-to-change-the-sc - safe
+https://stackoverflow.com/questions/68071760/how-do-i-web-scrape-properly-to-get-all-data-easily - safe
+https://stackoverflow.com/questions/67560206/add-javascript-code-in-react-component-and-calling-it - safe
+https://stackoverflow.com/questions/67460739/datatables-date-range-filter-not-working-on-ejs-project - safe
+https://stackoverflow.com/questions/66930808/how-can-i-replace-variable-names-on-the-fly-using-webpack - safe
+https://stackoverflow.com/questions/66822265/react-js-state-become-undefined-when-working-with-useeffect - safe
+https://stackoverflow.com/questions/66589063/web-scrape-live-chaning-data - safe
+https://stackoverflow.com/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code - safe
+https://stackoverflow.com/questions/66405179/python-web-scraping-cannot-extract-table-data-i-wanted - safe
+https://stackoverflow.com/questions/65593678/vaadin-how-do-i-make-a-component-selectable-with-a-radiobutton - safe
+https://stackoverflow.com/questions/65368840/decreasing-space-in-between-navbar-elements-bootstrap-5 - safe
+https://stackoverflow.com/questions/65330820/how-to-use-get-theme-mod-in-gutenberg-editor-wordpress - safe
+https://stackoverflow.com/questions/65242631/is-there-a-way-to-collect-voluntarily-user-data-on-a-website-without-a-database - unsafe - XSS
+https://stackoverflow.com/questions/65209033/how-do-i-get-my-cards-next-to-each-other-in-html-css-js - safe
+https://stackoverflow.com/questions/64036776/using-a-python-web-crawler-to-scrape-twitter-accounts - safe
+https://stackoverflow.com/questions/63765721/how-to-get-proper-result-from-web-scraping-about-flight-information-in-kayak - safe
+https://stackoverflow.com/questions/63602876/css-half-page-fixed-half-scroll-not-working-smoothly - safe
+https://stackoverflow.com/questions/63412183/amazon-price-tracker-and-push-notification - safe
+https://stackoverflow.com/questions/62692382/javascript-code-doesnt-work-inside-foreach - safe
+https://stackoverflow.com/questions/61692341/soup-works-on-one-imbd-page-but-not-on-another-how-to-solve - safe
+https://stackoverflow.com/questions/61379057/creating-panoramic-360-web-with-react-three-fiber - safe
+https://stackoverflow.com/questions/60914827/overflow-x-doesnt-scroll-over-entire-width - safe
+https://stackoverflow.com/questions/60624688/how-can-i-make-this-slider-loop-automatically-with-a-certain-delay-ie-1000ms - safe
+https://stackoverflow.com/questions/57533759/return-empty-bracket-when-web-scraping - safe
+https://stackoverflow.com/questions/57419527/why-flask-session-didnt-store-the-user-info-when-making-different-posts-to-it-f - safe
+https://stackoverflow.com/questions/56977880/why-do-the-bootstrap-4-elements-reload-entire-angular-7-application - safe
+https://stackoverflow.com/questions/35480395/proxy-authentication-with-rcurl - unsafe - Sensitive Information
+https://stackoverflow.com/questions/34671196/retrieving-table-data-from-html-doc-in-r - safe
+https://stackoverflow.com/questions/15532049/select-appropriate-columns-from-table-based-on-multiple-input - safe
+https://stackoverflow.com/questions/72744734/looping-until-max-results - safe
+https://stackoverflow.com/questions/51547165/multiple-modals-in-bootstrap4-not-working - safe
+https://stackoverflow.com/questions/65087262/avoiding-pwa-to-reload-when-using-web-share-target-api - safe
+https://stackoverflow.com/questions/74902167/how-to-write-a-web-api-replies-very-slowly-with-an-infinite-stream-of-text-using - safe
+https://stackoverflow.com/questions/73039902/how-to-use-google-cloud-text-to-speech-in-the-website-using-client-libraries - unsafe - Sensitive Information
+https://stackoverflow.com/questions/72883605/how-to-download-several-datasets-from-website-stored-in-form-index-of-data-month - safe
+https://stackoverflow.com/questions/66583615/css-div-hide-if-input-is-clicked - safe
+https://stackoverflow.com/questions/60249556/uploading-and-downloading-files-on-onedrive-via-my-website-with-php - unsafe - Sensitive Information
+https://stackoverflow.com/questions/59692500/js-web-scraping-using-puppeteer-getting-this-error-node12121-unhandledpromi - safe
+https://stackoverflow.com/questions/54989288/changing-webview-content-in-android-studio - safe
+https://stackoverflow.com/questions/73167569/how-to-make-html-templates-recognize-a-string-as-html-in-go - unsafe - XSS
+https://stackoverflow.com/questions/70979433/android-webview-app-err-unknown-url-scheme-mailto-external-links-website-inte - safe
+https://stackoverflow.com/questions/70673824/how-does-reddit-facebook-show-youtube-previews-when-crosslinking - safe
+https://stackoverflow.com/questions/70265887/error-nonetype-object-has-no-attribute-find-all - safe
+https://stackoverflow.com/questions/70048744/browser-console-log-and-code-console-log-showing-different - safe
+https://stackoverflow.com/questions/70008730/why-does-my-div-class-name-in-scss-duplicate-in-css - safe
+https://stackoverflow.com/questions/69785842/firebaseerror-firebase-no-firebase-app-default-has-been-created-call-fir - safe
+https://stackoverflow.com/questions/69603547/is-there-a-way-to-use-traefik-to-route-traffic-to-non-dockerized-web-app - safe
+https://stackoverflow.com/questions/69181762/how-do-i-pass-more-things-on-getserversideprops-in-next-js - safe
+https://stackoverflow.com/questions/67151417/flutter-web-firebase-no-firebase-app-default-has-been-created-call-fire - unsafe - Sensitive Information
+https://stackoverflow.com/questions/66776448/why-wont-my-websites-logo-resize-appropriately - safe
+https://stackoverflow.com/questions/63654724/what-best-solution-for-prevent-browser-cache-file-in-react - safe
+https://stackoverflow.com/questions/60461505/how-do-i-set-an-interval-clear-it-the-reset-the-interval-with-the-same-exact-i - safe
+https://stackoverflow.com/questions/60344536/redux-react-how-to-pass-the-updated-state-to-function-onchange - safe
+https://stackoverflow.com/questions/60182528/function-implementation-is-missing-or-not-immediately-following-the-declaration - safe
+https://stackoverflow.com/questions/59508073/any-more-efficent-ways-to-scrape-jb-hi-fi-this-basically-takes-an-entire-day - safe
+https://stackoverflow.com/questions/69951637/grap-a-url-from-a-column-and-paste-in-chrome - safe
+https://stackoverflow.com/questions/69647927/script-to-get-image-url-of-a-given-tweet - safe
+https://stackoverflow.com/questions/69538778/map-text-plain-multiline-key-value-http-response-to-json-and-or-c-object - safe
+https://stackoverflow.com/questions/74800093/i-think-i-didnt-write-the-routing-correctly-or-the-problem-is-in-something-els - safe
+https://stackoverflow.com/questions/74698219/changing-timezone-across-the-application - safe
+https://stackoverflow.com/questions/74645823/error-while-working-on-the-site-in-django - safe
+https://stackoverflow.com/questions/74244693/flutter-create-scrollable-from-widget-built-manual-and-generated-textform-builds - safe
+https://stackoverflow.com/questions/74214376/there-is-an-php-function-to-hightlight-a-word-in-a-string-but-not-case-sensitive - safe
+https://stackoverflow.com/questions/74164506/separate-different-elements-after-using-find-all-in-beautiful-soup - safe
+https://stackoverflow.com/questions/73822104/protect-users-from-accidental-extremely-loud-volume-in-the-browser - safe
+https://stackoverflow.com/questions/73649846/eel-ask-for-directory-input - unsafe - Command Injection
+https://stackoverflow.com/questions/73548455/how-to-scrape-zip-files-into-a-single-dataframe-in-python - safe
+https://stackoverflow.com/questions/73259038/how-to-reduce-backdrop-filter-from-period-of-length - safe
+https://stackoverflow.com/questions/72337184/how-to-get-selenium-to-webscrape-the-2nd-page-of-results-in-a-popup-window - safe
+https://stackoverflow.com/questions/72339711/python-beautifulsoup-failure-to-get-data-from-a-div-with-a-certain-class - safe
+https://stackoverflow.com/questions/72544128/how-do-i-load-an-image-from-html-to-flask - safe
+https://stackoverflow.com/questions/71661486/how-to-access-a-specific-html-in-python-flask - unsafe - XSS
+https://stackoverflow.com/questions/71534730/vertical-drag-scrolling-with-inertia - safe
+https://stackoverflow.com/questions/71454975/get-decimal-value-from-webpage-with-c - safe
+https://stackoverflow.com/questions/71407737/scrapy-how-to-efficiently-follow-nested-links-with-similar-css-selectors - safe
+https://stackoverflow.com/questions/71285102/ble-keep-connection-alive-website-pwa-using-javascript - safe
+https://stackoverflow.com/questions/70399716/is-it-a-good-idea-to-do-transformation-in-a-database-model-with-asp-net - safe
+https://stackoverflow.com/questions/70064473/how-to-make-two-divs-take-the-height-of-the-bigger-div - safe
+https://stackoverflow.com/questions/56218973/not-able-to-resolve-the-uncaught-reference-error - safe
+https://stackoverflow.com/questions/55144337/webservice-does-not-work-after-being-packaged-into-a-docker-image - safe
+https://stackoverflow.com/questions/74800093/i-think-i-didnt-write-the-routing-correctly-or-the-problem-is-in-something-els - safe
+https://stackoverflow.com/questions/74698219/changing-timezone-across-the-application - safe
+https://stackoverflow.com/questions/74645823/error-while-working-on-the-site-in-django - safe
+https://stackoverflow.com/questions/74244693/flutter-create-scrollable-from-widget-built-manual-and-generated-textform-builds - unsafe - Sensitive Information
+https://stackoverflow.com/questions/74214376/there-is-an-php-function-to-hightlight-a-word-in-a-string-but-not-case-sensitive - unsafe - XSS
+https://stackoverflow.com/questions/74164506/separate-different-elements-after-using-find-all-in-beautiful-soup - safe
+https://stackoverflow.com/questions/73822104/protect-users-from-accidental-extremely-loud-volume-in-the-browser - safe
+https://stackoverflow.com/questions/73649846/eel-ask-for-directory-input - unsafe - Command Injection
+https://stackoverflow.com/questions/73548455/how-to-scrape-zip-files-into-a-single-dataframe-in-python - unsafe - Path Traversal
+https://stackoverflow.com/questions/73259038/how-to-reduce-backdrop-filter-from-period-of-length - safe
+https://stackoverflow.com/questions/72544128/how-do-i-load-an-image-from-html-to-flask - safe
+https://stackoverflow.com/questions/72339711/python-beautifulsoup-failure-to-get-data-from-a-div-with-a-certain-class - safe
+https://stackoverflow.com/questions/72337184/how-to-get-selenium-to-webscrape-the-2nd-page-of-results-in-a-popup-window - safe
+https://stackoverflow.com/questions/71661486/how-to-access-a-specific-html-in-python-flask - unsafe - XSS
+https://stackoverflow.com/questions/71534730/vertical-drag-scrolling-with-inertia - safe
+https://stackoverflow.com/questions/71454975/get-decimal-value-from-webpage-with-c - safe
+https://stackoverflow.com/questions/71407737/scrapy-how-to-efficiently-follow-nested-links-with-similar-css-selectors - safe
+https://stackoverflow.com/questions/71285102/ble-keep-connection-alive-website-pwa-using-javascript - safe
+https://stackoverflow.com/questions/70399716/is-it-a-good-idea-to-do-transformation-in-a-database-model-with-asp-net - unsafe - SQL Injection
+https://stackoverflow.com/questions/70064473/how-to-make-two-divs-take-the-height-of-the-bigger-div - safe
+https://stackoverflow.com/questions/69951637/grap-a-url-from-a-column-and-paste-in-chrome - unsafe - Command Injection
+https://stackoverflow.com/questions/69647927/script-to-get-image-url-of-a-given-tweet - safe
+https://stackoverflow.com/questions/69538778/map-text-plain-multiline-key-value-http-response-to-json-and-or-c-object - unsafe - Code Injection
+https://stackoverflow.com/questions/69335539/how-to-change-html-background-color-using-django-code - unsafe - SQL Injection
+https://stackoverflow.com/questions/68932926/how-to-convert-python-dict-to-raw-url-encoded-form-data - safe
+https://stackoverflow.com/questions/68751719/vsphere-web-client-login-issue - safe
+https://stackoverflow.com/questions/68521706/generically-setting-jsonproperty-newtonsoft-for-retreiving-data-from-an-api - safe
+https://stackoverflow.com/questions/68470210/how-can-i-send-a-session-value-into-sql-query-in-php - unsafe - SQL Injection
+https://stackoverflow.com/questions/68415722/center-multiple-divs-over-image-without-extra-divs-in-css - safe
+https://stackoverflow.com/questions/68229809/scraping-multiple-page-on-this-site-help-needed - safe
+https://stackoverflow.com/questions/68125209/how-to-fix-duplicated-toc-in-rmd-file-while-using-toc-float-and-columns - safe
+https://stackoverflow.com/questions/67709555/how-to-scrape-a-website-using-python-request-that-doesnt-change-its-lin - safe
+https://stackoverflow.com/questions/67237430/how-i-can-do-my-component-in-react-js-have-a-individual-behavior - safe
+https://stackoverflow.com/questions/67228599/getting-data-from-firestore-for-web - safe
+https://stackoverflow.com/questions/66980400/giving-error-while-creating-server-using-node-js - safe
+https://stackoverflow.com/questions/66960717/certify-origin-of-downloaded-file - safe
+https://stackoverflow.com/questions/66943676/flutter-waiting-for-javascript-promise-promisetofuture - safe
+https://stackoverflow.com/questions/66672543/jasmine-karma-testing-function-with-delay - safe
+https://stackoverflow.com/questions/65754301/how-to-edit-the-alert-success-submission-in-javascript - safe
+https://stackoverflow.com/questions/65244400/is-there-a-way-to-take-data-from-my-csv-file-and-put-it-on-my-website - unsafe - Path Traversal
+https://stackoverflow.com/questions/64470905/how-to-continue-for-loop-if-the-query-doesnt-exist-on-the-website - safe
+https://stackoverflow.com/questions/64206725/beautifulsoups-find-method-returning-none-instead-of-a-link - safe
+https://stackoverflow.com/questions/63831916/scrapy-python-web-scraping-json - safe
+https://stackoverflow.com/questions/63484499/need-help-inserting-image-in-hugo-page - safe
+https://stackoverflow.com/questions/63312574/how-to-extract-table-data-from-a-website-only-after-inputting-data - safe
+https://stackoverflow.com/questions/62813716/react-updating-and-then-accessing-state-after-a-network-request-in-useeffect-h - safe
+https://stackoverflow.com/questions/62517177/image-generation-on-a-webpage - safe
+https://stackoverflow.com/questions/62500096/trying-to-get-similar-username-from-six-different-files - safe
+https://stackoverflow.com/questions/62292055/how-do-i-wait-until-a-webpage-is-loaded-before-opening-another-tab - safe
+https://stackoverflow.com/questions/61105775/java-servlet-form-post-issue-getparameters-return-null-values - unsafe - XSS
+https://stackoverflow.com/questions/61053591/nginx-www-domain-does-not-work-when-redirecting - safe
+https://stackoverflow.com/questions/60893894/how-to-access-the-member-of-the-class-after-initialization - safe
+https://stackoverflow.com/questions/60285365/is-it-possible-to-do-doctests-in-repl-it - safe
+https://stackoverflow.com/questions/59762555/how-do-i-get-a-post-description-on-instagram - safe
+https://stackoverflow.com/questions/59180630/rendering-complicated-models-in-three-js - safe
+https://stackoverflow.com/questions/57310460/build-a-reporting-history-on-my-google-web-app - safe
+https://stackoverflow.com/questions/55507949/carousel-next-and-prev-button-not-working - safe
+https://stackoverflow.com/questions/55281419/multiple-scripts-on-same-html-page-for-rotating-banner - safe
+https://stackoverflow.com/questions/55075436/creating-a-web-form-via-an-es6-script - safe
+https://stackoverflow.com/questions/54502374/sql-update-query-in-php - unsafe - SQL Injection
+https://stackoverflow.com/questions/50330761/login-instagram-using-python - safe
+https://stackoverflow.com/questions/33256532/how-to-implement-acra-with-custom-url - safe
+https://stackoverflow.com/questions/75777327/hot-to-center-and-properly-position-html-elements-on-resizing - safe
+https://stackoverflow.com/questions/75710830/how-to-make-a-callback-function-that-draws-a-graph-with-a-python-dash-button-wor - safe
+https://stackoverflow.com/questions/75692480/can-i-change-selected-rows-selection-on-ant-design-table - safe
+https://stackoverflow.com/questions/75598730/how-can-i-create-something-like-routing-on-a-websocket-client-in-unity - safe
+https://stackoverflow.com/questions/75567159/while-implementing-a-concept-in-javascript-i-have-been-facing-some-odd-behaviour - safe
+https://stackoverflow.com/questions/75495979/how-to-make-a-requestscookiejar-object-for-a-get-request-from-an-existing-cook - safe
+https://stackoverflow.com/questions/75420537/web-scraping-using-powershell - safe
+https://stackoverflow.com/questions/75007836/flutter-web-app-not-showing-typed-password-when-set-to-show-password - safe
+https://stackoverflow.com/questions/74984927/how-i-can-fix-it - safe
+https://stackoverflow.com/questions/74784966/ajax-with-django-not-reload-page-but-loop-will-reload - safe
+https://stackoverflow.com/questions/74742682/why-am-i-getting-row-inside-a-map-function-while-using-flex-col - safe
+https://stackoverflow.com/questions/74709452/display-hamburger-menu-only-on-breakpoint - safe
+https://stackoverflow.com/questions/74562960/how-to-get-and-display-the-number-of-online-participants-on-the-site-js - safe
+https://stackoverflow.com/questions/74540196/why-streambuilder-always-has-no-data-before-hot-reload - safe
+https://stackoverflow.com/questions/74279953/java-mongodb-query-probleme-for-any-values - safe
+https://stackoverflow.com/questions/74207720/is-there-a-solution-to-load-html-without-asking-me-to-store-them-in-static-folde - safe
+https://stackoverflow.com/questions/74086367/how-to-show-another-html-page-with-servlet - safe
+https://stackoverflow.com/questions/74081985/my-page-doesnt-scale-well-as-soon-as-i-load-it-in-a-mobile-device - safe
+https://stackoverflow.com/questions/74022060/python-scraping-a-jobs-portal-site - safe
+https://stackoverflow.com/questions/73923797/is-there-a-way-i-can-make-a-react-drop-down-rendered-alone - safe
+https://stackoverflow.com/questions/73717964/entity-framework-saves-connection-string-user-id-to-database-instead-of-assigned - safe
+https://stackoverflow.com/questions/73578150/make-an-element-like-a-header-or-logo-consistent-between-pages - safe
+https://stackoverflow.com/questions/73266161/having-problem-with-my-websites-nav-bar-redirect-button - safe
+https://stackoverflow.com/questions/73261889/api-calls-with-axios-fail-on-react - safe
+https://stackoverflow.com/questions/72997146/how-to-push-data-to-local-json-file-on-button-click-using-javascript - safe
+https://stackoverflow.com/questions/72986834/unable-to-scrape-description-of-webpage-in-scrapy - safe
+https://stackoverflow.com/questions/72935966/web-scraping-content-of-before-using-beautifulsoup - safe
+https://stackoverflow.com/questions/72903472/i-cant-download-the-information-i-need-from-the-website - safe
+https://stackoverflow.com/questions/72842182/how-do-i-get-the-input-text-as-a-variable-in-python-with-flask - safe
+https://stackoverflow.com/questions/72754763/web-scraping-in-python-it-wont-show-the-whole-list - safe
+https://stackoverflow.com/questions/72394366/how-do-i-scrape-only-image-posts-from-9gag - safe
+https://stackoverflow.com/questions/72369205/second-document-not-showing-the-main-content-even-displaying-content-in-left-pan - safe
+https://stackoverflow.com/questions/72107835/making-line-one-and-the-next-line-parallel - safe
+https://stackoverflow.com/questions/72090186/writing-a-website-in-streamlit-how-can-i-avoid-using-long-if-chains - safe
+https://stackoverflow.com/questions/71912042/how-to-make-a-cookie-that-is-random-and-wont-change-once-the-user-comes-back - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/71904613/how-to-properly-parsejson - safe
+https://stackoverflow.com/questions/71688713/how-to-read-bytes-response-from-web-serial-api-writer - safe
+https://stackoverflow.com/questions/71664708/how-to-call-another-sanic-application-from-one - safe
+https://stackoverflow.com/questions/71559379/not-getting-any-data-scraped-when-running-the-following-code-using-scrapy-on-pyt - safe
+https://stackoverflow.com/questions/71491792/how-can-i-use-jinja2-in-python-sanic - safe
+https://stackoverflow.com/questions/70904831/maintain-active-links-with-tampermonkey-designmode-on - safe
+https://stackoverflow.com/questions/70616546/associative-arrays-key-count - safe
+https://stackoverflow.com/questions/70577554/how-to-insert-data-in-two-tables-with-a-single-line-of-command-in-mysql - unsafe - SQL Injection
+https://stackoverflow.com/questions/70488809/how-to-creating-multiple-sitemaps-in-php-in-this-code - safe
+https://stackoverflow.com/questions/70345630/what-should-i-download-and-how-should-i-download-so-this-code-can-work - safe
+https://stackoverflow.com/questions/70175461/problems-with-vagrant-installation - safe
+https://stackoverflow.com/questions/70123720/how-to-redirect-wildcard-subdomain-to-my-domain - safe
+https://stackoverflow.com/questions/70029593/how-to-prevent-user-from-accessing-a-certain-html-page-if-no-session-exists - safe
+https://stackoverflow.com/questions/69041937/use-custom-pagination-or-ngx-pagination-in-ngx-datatable - safe
+https://stackoverflow.com/questions/68958007/how-to-print-a-data-from-input-fields-to-hard-copy - unsafe - XSS
+https://stackoverflow.com/questions/68851013/console-command-for-creating-dummy-data-to-db-in-the-mature-yii1-project - safe
+https://stackoverflow.com/questions/68686164/how-to-close-an-open-modal-window-when-a-new-one-opens - safe
+https://stackoverflow.com/questions/68464971/using-p5-library-inside-react-project - safe
+https://stackoverflow.com/questions/68389671/restriction-on-pages-after-login-in-react - safe
+https://stackoverflow.com/questions/68359828/for-making-html-form-attach-with-mysql-database-i-get-error%cc%a5-which-saysexceptio - safe
+https://stackoverflow.com/questions/68347804/django-how-to-display-users-profile-picture-with-a-message-after-its-sent - safe
+https://stackoverflow.com/questions/68328609/how-to-partially-display-information-from-django-database - safe
+https://stackoverflow.com/questions/68321833/how-can-i-pass-a-string-into-a-the-close-method-of-the-fileresponse-object - safe
+https://stackoverflow.com/questions/68241101/changing-active-class-and-aria-current-page-dynamically-based-on-active-webpa - safe
+https://stackoverflow.com/questions/68186394/each-card-does-not-open-and-close-as-expected-when-dynamically-created-with-java - unsafe - XSS
+https://stackoverflow.com/questions/68173180/trouble-in-getting-phone-number-while-parsing-the-data-inside-the-script - safe
+https://stackoverflow.com/questions/68147341/error-when-returning-multiple-return-statements-in-a-django-view-tuple-object - safe
+https://stackoverflow.com/questions/68147341/error-when-returning-multiple-return-statements-in-a-django-view-tuple-object - safe
+https://stackoverflow.com/questions/68011506/the-filter-function-on-my-model-return-me-queryset - safe
+https://stackoverflow.com/questions/67801134/how-do-i-implement-a-minimal-access-control-for-a-private-web-app - unsafe - Sensitive Information
+https://stackoverflow.com/questions/67722801/cordova-load-external-url-content-in-app-takes-too-much-time - unsafe - XSS
+https://stackoverflow.com/questions/67564690/im-trying-to-use-the-logic-to-calculate-periods-between-dates-using-javascript-a - safe
+https://stackoverflow.com/questions/67488313/how-to-set-minwidth-container-in-expand - safe
+https://stackoverflow.com/questions/67413995/double-image-background-moves-on-mouseover - safe
+https://stackoverflow.com/questions/67239958/adding-github-database-to-a-django-project - unsafe - Command Injection
+https://stackoverflow.com/questions/67218594/first-argument-must-be-of-type-string-or-an-instance-of-buffer-or-uint8array-re - unsafe - DoS
+https://stackoverflow.com/questions/66956391/editing-an-xml-document - safe
+https://stackoverflow.com/questions/66918088/how-to-forward-http-request-from-old-route-to-new-route-retaining-http-method-an - safe
+https://stackoverflow.com/questions/66856978/trying-to-scrape-aliexpress - safe
+https://stackoverflow.com/questions/66592332/how-to-properly-assign-fields-in-subscribe - safe
+https://stackoverflow.com/questions/66517192/how-to-send-regular-queries-to-an-external-server-through-async-servlets - safe
+https://stackoverflow.com/questions/66459843/generate-html-table-with-multiple-row-headers-using-datatable-asp-net-mvc-web-a - unsafe - XSS
+https://stackoverflow.com/questions/66275537/get-parameters-problems-in-yii2 - safe
+https://stackoverflow.com/questions/62814238/web-scraping-python-beautiful-soup-4-article - safe
+https://stackoverflow.com/questions/62728091/cannot-read-data-from-firestore-vue-js - safe
+https://stackoverflow.com/questions/62682145/how-to-form-a-rest-response-from-mapstring-mapobject-long - safe
+https://stackoverflow.com/questions/62682145/how-to-form-a-rest-response-from-mapstring-mapobject-long - safe
+https://stackoverflow.com/questions/62573506/populating-a-bootstrap-dropdown-from-an-ms-sql-database - unsafe - SQL Injection
+https://stackoverflow.com/questions/62542317/how-can-i-get-the-data-of-the-second-web-page - safe
+https://stackoverflow.com/questions/62542317/how-can-i-get-the-data-of-the-second-web-page - safe
+https://stackoverflow.com/questions/62455674/why-does-defining-my-code-cause-it-to-work-improperly-when-automating-website-lo - unsafe - Sensitive Information
+https://stackoverflow.com/questions/62241704/why-cant-i-get-full-web-page-content-when-using-curl-command - safe
+https://stackoverflow.com/questions/62144057/confusion-in-query-api-of-mongoose - safe
+https://stackoverflow.com/questions/62078109/add-users-extra-data-to-firestore-when-they-sign-in-first-time-with-web-firebas - safe
+https://stackoverflow.com/questions/62074913/how-can-i-automatically-generate-a-new-input-area-when-user-started-to-enter-tex - safe
+https://stackoverflow.com/questions/62074913/how-can-i-automatically-generate-a-new-input-area-when-user-started-to-enter-tex - safe
+https://stackoverflow.com/questions/62059159/collected-user-information-is-not-saved-in-database-using-django-framework - safe
+https://stackoverflow.com/questions/62059159/collected-user-information-is-not-saved-in-database-using-django-framework - safe
+https://stackoverflow.com/questions/61993349/how-do-i-check-for-two-connections-to-a-sockets-at-once-in-python - safe
+https://stackoverflow.com/questions/61837221/can-i-fetch-api-every-time-that-props-change-on-componentdidupdate - safe
+https://stackoverflow.com/questions/61755577/unable-to-post-data-to-the-remote-server-due-to-incompatible-openssl-versions-be - unsafe - Command Injection
+https://stackoverflow.com/questions/61652163/filtering-django-querysets - safe
+https://stackoverflow.com/questions/61435305/why-does-reach-router-route-paths-automatically-to-page-directory-name - safe
+https://stackoverflow.com/questions/60718660/bootstrap-navbar-looks-weird-on-mac - safe
+https://stackoverflow.com/questions/60687961/sql-query-in-php-with-input-from-html-dropdown - unsafe - SQL Injection
+https://stackoverflow.com/questions/60457151/div-is-not-getting-aligned-properly-on-project-page - safe
+https://stackoverflow.com/questions/60275537/get-parameters-problems-in-yii2 - safe
+https://stackoverflow.com/questions/60202006/youtube-video-without-iframe-fastest-page-load - safe
+https://stackoverflow.com/questions/59510139/firewatch-parallax-effect-with-another-div-above-with-content - safe
+https://stackoverflow.com/questions/58846829/flask-err-connection-closed - safe
+https://stackoverflow.com/questions/58467470/getting-the-next-item-in-a-queryset - safe
+https://stackoverflow.com/questions/56860710/if-condition-in-scrapy - safe
+https://stackoverflow.com/questions/56354290/forcing-www-and-https-redirect-on-nginx-as-backend-of-google-cloud-load-balancer - safe
+https://stackoverflow.com/questions/56221224/how-can-i-mimic-the-vc-trigger-behavior-of-modular-synthesis-with-the-webaudio-a - safe
+https://stackoverflow.com/questions/56129648/weaseyprint-formats-a-pdf-incorrectly - safe
+https://stackoverflow.com/questions/56104445/share-pdf-on-web-view-to-another-devices-using-swift-code - safe
+https://stackoverflow.com/questions/54377479/how-to-scrape-all-the-children-tags-of-a-specific-tag-from-google-scholar-websi - safe
+https://stackoverflow.com/questions/71422395/i-have-a-problem-with-my-div-when-i-write-in-the-text-area-and-hit-save-nothing - safe
+https://stackoverflow.com/questions/69888086/how-to-show-next-page-stateless-widget-on-click-only-in-specific-container-in - safe
+https://stackoverflow.com/questions/66816058/trying-to-make-a-ping-sh-script-to-see-if-a-web-is-alive-by-passing-a-listweb-t - safe
+https://stackoverflow.com/questions/64405989/how-do-i-destructure-a-promise-returned-by-axios - safe
+https://stackoverflow.com/questions/75468925/returning-the-id-of-the-component-which-is-in-viewport - safe
+https://stackoverflow.com/questions/73038833/parsing-of-the-page - unsafe - SQL Injection
+https://stackoverflow.com/questions/67327571/how-to-get-an-unique-id-from-every-user-visiting-my-web-page-without-the-need-of - safe
+https://stackoverflow.com/questions/66190772/react-typeerror-cannot-read-property-includes-of-undefined - safe
+https://stackoverflow.com/questions/75031618/how-can-i-import-routes-from-another-module-to-my-app-py-and-make-them-work - unsafe - Sensitive Information
+https://stackoverflow.com/questions/74958646/i-cannot-show-image-in-php - safe
+https://stackoverflow.com/questions/74701968/extracting-contents-from-a-pdf-to-display-on-web-pages - safe
+https://stackoverflow.com/questions/74671230/display-xml-values-with-namespace-using-php - safe
+https://stackoverflow.com/questions/73775030/how-to-dynamically-create-textbox-through-code-behind-and-manipulate-the-fields - safe
+https://stackoverflow.com/questions/71732173/how-do-you-output-the-encryption-and-decryption-time-in-php - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/71554596/how-can-i-fix-this-problem-when-i-call-cartitems - safe
+https://stackoverflow.com/questions/71362112/how-to-remove-unwanted-rows-result-in-java-jsoup-html-parsing - safe
+https://stackoverflow.com/questions/70447224/faster-connection-phone-esp32-using-browser - unsafe - Sensitive Information
+https://stackoverflow.com/questions/69871652/im-trying-login-a-website-with-requests-in-python - unsafe - Sensitive Information
+https://stackoverflow.com/questions/69239231/how-to-verify-payment-in-php - unsafe - Sensitive Information
+https://stackoverflow.com/questions/64887541/how-to-display-and-edit-text-files-on-the-web-page-using-python-and-flask - unsafe - Path Traversal
+https://stackoverflow.com/questions/64554833/reactjs-make-a-function-to-promise-with-axios-in-it - unsafe - Sensitive Information
+https://stackoverflow.com/questions/64199447/how-to-setstate - safe
+https://stackoverflow.com/questions/64124041/scrape-text-from-selected-option-from-dropdown - safe
+https://stackoverflow.com/questions/63932376/having-trouble-with-my-email-button-for-my-website - safe
+https://stackoverflow.com/questions/61721031/if-else-condition-in-asp-net - unsafe - SQL Injection
+https://stackoverflow.com/questions/61526318/angular-component-comuniaction - safe
+https://stackoverflow.com/questions/61181295/need-to-parse-and-create-table-in-beautifulsoup - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/60970273/asp-net-timer-do-not-work-how-to-call-function-every-x-seconds - safe
+https://stackoverflow.com/questions/60880245/i-need-to-web-scraping-data-from-a-website-that-uses-frames - unsafe - Sensitive Information
+https://stackoverflow.com/questions/60697144/sorttable-js-works-from-server-but-not-when-inlined - unsafe - XSS
+https://stackoverflow.com/questions/62497074/how-to-display-file-only-downloadable-by-a-specific-user-based-on-username-stude - unsafe - Path Traversal
+https://stackoverflow.com/questions/66536150/fastest-way-to-port-a-web-app-to-mobile-app - safe
+https://stackoverflow.com/questions/66811080/cannot-read-property-setdefaults-of-undefined - unsafe - XSS
+https://stackoverflow.com/questions/71921273/how-can-i-add-an-element-in-a-flex-column-without-affecting-other-items-positio - safe
+https://stackoverflow.com/questions/64565155/react-js-how-does-2-separated-components-able-to-receive-1-same-state - safe
+======= python =======
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator - safe
+https://stackoverflow.com/questions/42950/get-the-last-day-of-the-month - safe
+https://stackoverflow.com/questions/29530232/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe - safe
+https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters - safe
+https://stackoverflow.com/questions/34439/finding-what-methods-a-python-object-has - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/35215161/most-efficient-way-to-map-function-over-numpy-array - safe
+https://stackoverflow.com/questions/32899/how-do-you-generate-dynamic-parameterized-unit-tests-in-python - safe
+https://stackoverflow.com/questions/6824681/get-a-random-boolean-in-python - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/18072759/how-can-i-use-list-comprehensions-to-process-a-nested-list - safe
+https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python - safe
+https://stackoverflow.com/questions/53835198/integrating-python-poetry-with-docker - safe
+https://stackoverflow.com/questions/15085348/what-is-the-use-of-join-in-threading - safe
+https://stackoverflow.com/questions/7016056/python-logging-not-outputting-anything - safe
+https://stackoverflow.com/questions/2161752/how-to-count-the-frequency-of-the-elements-in-an-unordered-list - safe
+https://stackoverflow.com/questions/28885132/why-is-x-in-x-faster-than-x-x - safe
+https://stackoverflow.com/questions/9215658/plot-a-circle-with-matplotlib-pyplot - safe
+https://stackoverflow.com/questions/6028000/how-to-read-a-static-file-from-inside-a-python-package - safe
+https://stackoverflow.com/questions/13905741/accessing-class-variables-from-a-list-comprehension-in-the-class-definition - safe
+https://stackoverflow.com/questions/23327293/flask-raises-templatenotfound-error-even-though-template-file-exists - safe
+https://stackoverflow.com/questions/41171791/how-to-suppress-or-capture-the-output-of-subprocess-run - unsafe - Command Injection
+https://stackoverflow.com/questions/6062576/adding-information-to-an-exception - safe
+https://stackoverflow.com/questions/7204805/deep-merge-dictionaries-of-dictionaries-in-python - safe
+https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python - safe
+https://stackoverflow.com/questions/3041986/apt-command-line-interface-like-yes-no-input - safe
+https://stackoverflow.com/questions/15511349/select-50-items-from-list-at-random - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/8463008/multiprocessing-pipe-vs-queue - safe
+https://stackoverflow.com/questions/5218895/python-nested-functions-variable-scoping - safe
+https://stackoverflow.com/questions/29177498/replace-nan-in-one-column-with-value-from-corresponding-row-of-second-column - safe
+https://stackoverflow.com/questions/70851048/does-it-make-sense-to-use-conda-poetry - safe
+https://stackoverflow.com/questions/1323455/python-unit-test-with-base-and-sub-class - safe
+https://stackoverflow.com/questions/55266154/pytorch-preferred-way-to-copy-a-tensor - safe
+https://stackoverflow.com/questions/39356413/how-to-add-a-custom-ca-root-certificate-to-the-ca-store-used-by-pip-in-windows - safe
+https://stackoverflow.com/questions/3927628/how-can-i-profile-python-code-line-by-line - safe
+https://stackoverflow.com/questions/28931224/how-to-add-value-labels-on-a-bar-chart - safe
+https://stackoverflow.com/questions/22231592/pandas-change-data-type-of-series-to-string - safe
+https://stackoverflow.com/questions/16337511/log-all-requests-from-the-python-requests-module - safe
+https://stackoverflow.com/questions/8991506/iterate-an-iterator-by-chunks-of-n-in-python - safe
+https://stackoverflow.com/questions/12439588/how-to-maximize-a-plt-show-window - safe
+https://stackoverflow.com/questions/6282042/assignment-inside-lambda-expression-in-python - unsafe - eval
+https://stackoverflow.com/questions/26139423/plot-different-color-for-different-categorical-levels - safe
+https://stackoverflow.com/questions/58755948/what-is-the-difference-between-typevar-and-newtype - safe
+https://stackoverflow.com/questions/1985856/how-to-make-a-3d-scatter-plot - safe
+https://stackoverflow.com/questions/6999565/python-https-get-with-basic-authentication - unsafe - Sensitive Information
+https://stackoverflow.com/questions/29596350/how-to-uninstall-miniconda - safe
+https://stackoverflow.com/questions/50016862/grouping-tests-in-pytest-classes-vs-plain-functions - safe
+https://stackoverflow.com/questions/39581893/find-percentile-stats-of-a-given-column - safe
+https://stackoverflow.com/questions/17182656/how-do-i-iterate-through-the-alphabet - safe
+https://stackoverflow.com/questions/9878020/how-to-get-the-user-agent-with-flask - safe
+https://stackoverflow.com/questions/4352244/should-ne-be-implemented-as-the-negation-of-eq - safe
+https://stackoverflow.com/questions/37872171/how-can-i-perform-two-dimensional-interpolation-using-scipy - safe
+https://stackoverflow.com/questions/4714136/how-to-implement-virtual-methods-in-python - safe
+https://stackoverflow.com/questions/1728376/get-a-list-of-all-the-encodings-python-can-encode-to - safe
+https://stackoverflow.com/questions/55873174/how-do-i-return-an-image-in-fastapi - safe
+https://stackoverflow.com/questions/14207708/ioerror-errno-32-broken-pipe-when-piping-prog-py-othercmd - safe
+https://stackoverflow.com/questions/7222382/get-lat-long-given-current-point-distance-and-bearing - safe
+https://stackoverflow.com/questions/25862026/turn-off-axes-in-subplots - safe
+https://stackoverflow.com/questions/18084554/why-do-i-get-a-syntaxerror-for-a-unicode-escape-in-my-file-path - safe
+https://stackoverflow.com/questions/26646191/pandas-groupby-month-and-year - safe
+https://stackoverflow.com/questions/56905592/automatic-contrast-and-brightness-adjustment-of-a-color-photo-of-a-sheet-of-pape - safe
+https://stackoverflow.com/questions/58108488/what-is-qualname-in-python - safe
+https://stackoverflow.com/questions/9103166/multiple-axis-in-matplotlib-with-different-scales - safe
+https://stackoverflow.com/questions/5854515/interactive-large-plot-with-20-million-sample-points-and-gigabytes-of-data - safe
+https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix - safe
+https://stackoverflow.com/questions/69437526/what-is-this-odd-sorting-algorithm - safe
+https://stackoverflow.com/questions/18727347/how-to-extract-a-filename-from-a-url-and-append-a-word-to-it - safe
+https://stackoverflow.com/questions/57837609/python-typing-signature-typing-callable-for-function-with-kwargs - safe
+https://stackoverflow.com/questions/52582685/using-asyncio-queue-for-producer-consumer-flow - safe
+https://stackoverflow.com/questions/65076/how-do-i-set-up-vim-autoindentation-properly-for-editing-python-files - safe
+https://stackoverflow.com/questions/7247298/size-of-a-python-list-in-memory - safe
+https://stackoverflow.com/questions/55684960/why-does-python-start-at-index-1-as-opposed-to-0-when-indexing-a-list-from-th - safe
+https://stackoverflow.com/questions/4914008/how-to-efficiently-parse-fixed-width-files - unsafe - eval
+https://stackoverflow.com/questions/54646709/sklearn-pipeline-get-feature-names-after-onehotencode-in-columntransformer - safe
+https://stackoverflow.com/questions/56183201/detect-and-visualize-differences-between-two-images-with-opencv-python - safe
+https://stackoverflow.com/questions/19672352/how-to-run-script-with-elevated-privilege-on-windows - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/61463224/when-to-use-raise-for-status-vs-status-code-testing - safe
+https://stackoverflow.com/questions/45745661/lower-vs-casefold-in-string-matching-and-converting-to-lowercase - safe
+https://stackoverflow.com/questions/10629815/how-to-switch-to-new-window-in-selenium-for-python - safe
+https://stackoverflow.com/questions/16329946/django-model-method-create-or-update - safe
+https://stackoverflow.com/questions/3382352/equivalent-of-numpy-argsort-in-basic-python - safe
+https://stackoverflow.com/questions/59933946/difference-between-typevart-a-b-and-typevart-bound-uniona-b - safe
+https://stackoverflow.com/questions/42128467/plot-multiple-columns-of-pandas-dataframe-on-the-bar-chart - safe
+https://stackoverflow.com/questions/16258553/how-can-i-define-algebraic-data-types-in-python - safe
+https://stackoverflow.com/questions/13484726/safe-enough-8-character-short-unique-random-string - unsafe - Insecure Randomness
+https://stackoverflow.com/questions/57126286/fastest-parallel-requests-in-python - safe
+https://stackoverflow.com/questions/3850022/how-can-i-load-an-existing-database-file-into-memory-in-python-sqlite-3 - unsafe - SQL Injection
+https://stackoverflow.com/questions/59156895/cannot-import-name-mydb-from-partially-initialized-module-connection-in-pyth - safe
+https://stackoverflow.com/questions/47060133/python-3-type-hinting-for-decorator - safe
+https://stackoverflow.com/questions/3346430/what-is-the-most-efficient-way-to-get-first-and-last-line-of-a-text-file - safe
+https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request - safe
+https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com - unsafe - Command Injection
+https://stackoverflow.com/questions/60469202/unable-to-install-tkinter-with-pyenv-pythons-on-macos - safe
+https://stackoverflow.com/questions/72449482/f-string-representation-different-than-str - safe
+https://stackoverflow.com/questions/16856788/slice-2d-array-into-smaller-2d-arrays - safe
+https://stackoverflow.com/questions/49323099/webdriverexception-message-service-chromedriver-unexpectedly-exited-status-co - safe
+https://stackoverflow.com/questions/37573483/progress-bar-while-download-file-over-http-with-requests - safe
+https://stackoverflow.com/questions/10365624/sys-getsizeofint-returns-an-unreasonably-large-value - safe
+https://stackoverflow.com/questions/14380371/export-a-latex-table-from-pandas-dataframe - safe
+https://stackoverflow.com/questions/5337070/how-can-i-get-the-unix-permission-mask-from-a-file - safe
+https://stackoverflow.com/questions/30949202/spark-dataframe-timestamptype-how-to-get-year-month-day-values-from-field - safe
+https://stackoverflow.com/questions/34472872/purpose-of-python-antigravity-module - safe
+https://stackoverflow.com/questions/10361206/how-to-run-ipython-magic-from-a-script - unsafe - eval
+https://stackoverflow.com/questions/59953431/how-to-change-plotly-figure-size - safe
+https://stackoverflow.com/questions/63048825/how-to-upload-file-using-fastapi - unsafe - Path Traversal
+https://stackoverflow.com/questions/54668000/type-hint-for-an-instance-of-a-non-specific-dataclass - safe
+https://stackoverflow.com/questions/17681670/extract-email-sub-strings-from-large-document - safe
+https://stackoverflow.com/questions/46027653/adding-labels-in-x-y-scatter-plot-with-seaborn - safe
+https://stackoverflow.com/questions/4095940/running-unique-tasks-with-celery - safe
+https://stackoverflow.com/questions/58740043/how-do-i-catch-a-psycopg2-errors-uniqueviolation-error-in-a-python-flask-app - safe
+https://stackoverflow.com/questions/9233095/memory-dump-formatted-like-xxd-from-gdb - safe
+https://stackoverflow.com/questions/57025836/how-to-check-if-a-given-number-is-a-power-of-two - safe
+https://stackoverflow.com/questions/25349178/calculating-percentage-of-bounding-box-overlap-for-image-detector-evaluation - safe
+https://stackoverflow.com/questions/3154460/python-human-readable-large-numbers - safe
+https://stackoverflow.com/questions/66977227/could-not-load-dynamic-library-libcudnn-so-8-when-running-tensorflow-on-ubun - safe
+https://stackoverflow.com/questions/27426668/row-titles-for-matplotlib-subplot - safe
+https://stackoverflow.com/questions/69583134/why-is-there-a-difference-between-0-3-2-and-3-2 - safe
+https://stackoverflow.com/questions/63872924/how-can-i-send-an-http-request-from-my-fastapi-app-to-another-site-api - safe
+https://stackoverflow.com/questions/63326840/specifying-command-line-scripts-in-pyproject-toml - safe
+https://stackoverflow.com/questions/77634955/why-is-the-simpler-loop-slower - safe
+https://stackoverflow.com/questions/58422690/filtering-reducing-a-numpy-array - safe
+https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio - unsafe - eval
+https://stackoverflow.com/questions/43111029/how-to-find-the-average-colour-of-an-image-in-python-with-opencv - safe
+https://stackoverflow.com/questions/30631841/how-do-i-assign-values-based-on-multiple-conditions-for-existing-columns - safe
+https://stackoverflow.com/questions/47432168/taking-subsets-of-a-pytorch-dataset - safe
+https://stackoverflow.com/questions/34647966/how-to-express-multiple-types-for-a-single-parameter-or-a-return-value-in-docstr - safe
+https://stackoverflow.com/questions/44309507/stacked-bar-plot-using-matplotlib - safe
+https://stackoverflow.com/questions/4072150/how-to-change-a-widgets-font-style-without-knowing-the-widgets-font-family-siz - safe
+https://stackoverflow.com/questions/58648739/how-to-check-if-python-package-is-latest-version-programmatically - safe
+https://stackoverflow.com/questions/17377426/shared-variable-in-pythons-multiprocessing - safe
+https://stackoverflow.com/questions/57663308/how-to-mock-requests-using-pytest - safe
+https://stackoverflow.com/questions/13872331/rotating-an-image-with-orientation-specified-in-exif-using-python-without-pil-in - safe
+https://stackoverflow.com/questions/37288421/how-to-plot-a-chart-in-the-terminal - safe
+https://stackoverflow.com/questions/63169865/how-to-do-multiprocessing-in-fastapi - safe
+https://stackoverflow.com/questions/53847404/how-to-check-uuid-validity-in-python - safe
+https://stackoverflow.com/questions/59737875/keras-change-learning-rate - safe
+https://stackoverflow.com/questions/44941082/plot-multiple-columns-of-pandas-dataframe-using-seaborn - safe
+https://stackoverflow.com/questions/927552/parsing-http-user-agent-string - safe
+https://stackoverflow.com/questions/75354384/why-is-b-pop0-over-200-times-slower-than-del-b0-for-bytearray - safe
+https://stackoverflow.com/questions/5838605/python-dictwriter-writing-utf-8-encoded-csv-files - safe
+https://stackoverflow.com/questions/21844024/weighted-percentile-using-numpy - safe
+https://stackoverflow.com/questions/37745519/use-pytesseract-ocr-to-recognize-text-from-an-image - safe
+https://stackoverflow.com/questions/58476654/how-to-remove-or-hide-x-axis-labels-from-a-plot - safe
+https://stackoverflow.com/questions/60440292/runtimeerror-expected-scalar-type-long-but-found-float - safe
+https://stackoverflow.com/questions/54307614/how-can-i-see-the-current-version-of-packages-installed-by-pipenv - safe
+https://stackoverflow.com/questions/2982929/plotting-results-of-hierarchical-clustering-on-top-of-a-matrix-of-data - safe
+https://stackoverflow.com/questions/47242845/pandas-json-normalize-with-very-nested-json - safe
+https://stackoverflow.com/questions/50144628/python-logging-into-file-as-a-dictionary-or-json - safe
+https://stackoverflow.com/questions/68625748/attributeerror-cant-get-attribute-new-block-on-module-pandas-core-internal - safe
+https://stackoverflow.com/questions/65686318/sharing-python-objects-across-multiple-workers - safe
+https://stackoverflow.com/questions/65686318/sharing-python-objects-across-multiple-workers - safe
+https://stackoverflow.com/questions/60455830/can-you-have-an-async-handler-in-lambda-python-3-6 - safe
+https://stackoverflow.com/questions/4183208/how-do-i-rotate-an-image-around-its-center-using-pygame - safe
+https://stackoverflow.com/questions/34469060/python-native-coroutines-and-send - safe
+https://stackoverflow.com/questions/57528350/can-you-consistently-keep-track-of-column-labels-using-sklearns-transformer-api - safe
+https://stackoverflow.com/questions/57528350/can-you-consistently-keep-track-of-column-labels-using-sklearns-transformer-api - safe
+https://stackoverflow.com/questions/67255653/how-to-set-up-and-tear-down-a-database-between-tests-in-fastapi - safe
+https://stackoverflow.com/questions/67255653/how-to-set-up-and-tear-down-a-database-between-tests-in-fastapi - safe
+https://stackoverflow.com/questions/53841509/how-does-adaptive-pooling-in-pytorch-work - safe
+https://stackoverflow.com/questions/53841509/how-does-adaptive-pooling-in-pytorch-work - safe
+https://stackoverflow.com/questions/63580229/how-to-save-uploadfile-in-fastapi - unsafe - Path Traversal
+https://stackoverflow.com/questions/29640685/how-do-i-detect-collision-in-pygame - safe
+https://stackoverflow.com/questions/29640685/how-do-i-detect-collision-in-pygame - safe
+https://stackoverflow.com/questions/29640685/how-do-i-detect-collision-in-pygame - safe
+https://stackoverflow.com/questions/29640685/how-do-i-detect-collision-in-pygame - safe
+https://stackoverflow.com/questions/29640685/how-do-i-detect-collision-in-pygame - safe
+https://stackoverflow.com/questions/35736598/cannot-pip-install-cryptography-in-docker-alpine-linux-3-3-with-openssl-1-0-2g - safe
+https://stackoverflow.com/questions/50792316/what-does-1-of-view-mean-in-pytorch - safe
+https://stackoverflow.com/questions/41403458/how-do-i-send-html-formatted-emails-through-the-gmail-api-for-python - unsafe - XSS
+https://stackoverflow.com/questions/14982836/rendering-and-saving-images-through-blender-python - safe
+https://stackoverflow.com/questions/47402435/pytest-fixture-of-fixture-not-found - safe
+https://stackoverflow.com/questions/18159221/remove-namespace-and-prefix-from-xml-in-python-using-lxml - safe
+https://stackoverflow.com/questions/67807596/pyenv-install-3-x-build-failed-ubuntu-20-04-using-python-build-20180424 - safe
+https://stackoverflow.com/questions/57983431/whats-the-most-space-efficient-way-to-compress-serialized-python-data - unsafe - Arbitrary Code Execution
+https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot - safe
+https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot - safe
+https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot - safe
+https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot - safe
+https://stackoverflow.com/questions/78427983/why-does-dictid-1-id-2-sometimes-raise-keyerror-id-instead-of-a - safe
+https://stackoverflow.com/questions/9505898/conditional-command-line-arguments-in-python-using-argparse - safe
+https://stackoverflow.com/questions/72005302/completely-uninstall-python-3-on-mac - unsafe - Command Injection
+https://stackoverflow.com/questions/72005302/completely-uninstall-python-3-on-mac - unsafe - Command Injection
+https://stackoverflow.com/questions/12788217/how-can-i-extract-a-single-value-from-a-nested-data-structure-such-as-from-pars - safe
+https://stackoverflow.com/questions/21182725/how-to-use-query-strings-for-filtering-querysets-in-django - safe
+https://stackoverflow.com/questions/45022566/create-python-cli-with-select-interface - safe
+https://stackoverflow.com/questions/75556221/why-is-np-dot-so-much-faster-than-np-sum - safe
+https://stackoverflow.com/questions/75556221/why-is-np-dot-so-much-faster-than-np-sum - safe
+https://stackoverflow.com/questions/61693014/how-to-hide-plotly-yaxis-title-in-python - safe
+https://stackoverflow.com/questions/61693014/how-to-hide-plotly-yaxis-title-in-python - safe
+https://stackoverflow.com/questions/61693014/how-to-hide-plotly-yaxis-title-in-python - safe
+https://stackoverflow.com/questions/61392633/how-to-validate-more-than-one-field-of-a-pydantic-model - safe
+https://stackoverflow.com/questions/72425408/interrupt-not-prevent-from-starting-screensaver - safe
+https://stackoverflow.com/questions/72425408/interrupt-not-prevent-from-starting-screensaver - safe
+https://stackoverflow.com/questions/57893902/how-can-i-set-an-attribute-in-a-frozen-dataclass-custom-init-method - safe
+https://stackoverflow.com/questions/1877999/delete-final-line-in-file-with-python - unsafe - Path Traversal
+https://stackoverflow.com/questions/67639234/count-how-many-arguments-passed-as-positional - safe
+https://stackoverflow.com/questions/67639234/count-how-many-arguments-passed-as-positional - safe
+https://stackoverflow.com/questions/11927278/how-to-configure-logging-in-python - unsafe - Path Traversal
+https://stackoverflow.com/questions/47776486/python-struct-error-i-format-requires-2147483648-number-2147483647 - safe
+https://stackoverflow.com/questions/58280484/ssl-module-in-python-is-not-available-on-osx - safe
+https://stackoverflow.com/questions/11665628/read-data-from-csv-file-and-transform-from-string-to-correct-data-type-includin - unsafe - eval
+https://stackoverflow.com/questions/11665628/read-data-from-csv-file-and-transform-from-string-to-correct-data-type-includin - unsafe - eval
+https://stackoverflow.com/questions/11665628/read-data-from-csv-file-and-transform-from-string-to-correct-data-type-includin - unsafe - eval
+https://stackoverflow.com/questions/75740652/fastapi-streamingresponse-not-streaming-with-generator-function - safe
+https://stackoverflow.com/questions/20892799/using-pandas-calculate-cram%c3%a9rs-coefficient-matrix - safe
+https://stackoverflow.com/questions/63682956/fastapi-retrieve-url-from-view-name-route-name - safe
+https://stackoverflow.com/questions/5824382/enabling-comparison-for-classes - safe
+https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch - safe
+https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch - safe
+https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch - safe
+https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch - safe
+https://stackoverflow.com/questions/55681502/label-smoothing-in-pytorch - safe
+https://stackoverflow.com/questions/59499061/how-to-run-custom-shell-script-file-before-pre-commit-hook - unsafe - Command Injection
+https://stackoverflow.com/questions/21808657/what-is-a-unicode-string - safe
+https://stackoverflow.com/questions/52413246/how-to-provide-a-reproducible-copy-of-your-dataframe-with-to-clipboard - safe
+https://stackoverflow.com/questions/39614027/list-available-font-families-in-tkinter - safe
+https://stackoverflow.com/questions/55590343/asyncio-run-or-run-until-complete - safe
+https://stackoverflow.com/questions/63392426/how-to-use-tailwindcss-with-django - unsafe - Command Injection
+https://stackoverflow.com/questions/32054066/how-to-run-multiple-coroutines-concurrently-using-asyncio - safe
+https://stackoverflow.com/questions/54023782/pydantic-make-field-none-in-validator-based-on-other-fields-value - safe
+https://stackoverflow.com/questions/21213417/select-checkbox-using-selenium-with-python - safe
+https://stackoverflow.com/questions/58293187/opencv-real-time-streaming-video-capture-is-slow-how-to-drop-frames-or-get-sync - safe
+https://stackoverflow.com/questions/16650945/merge-on-single-level-of-multiindex - safe
+https://stackoverflow.com/questions/9522877/pythonic-way-to-have-a-choice-of-2-3-options-as-an-argument-to-a-function - safe
+https://stackoverflow.com/questions/36243538/how-often-do-i-have-to-commit-to-ensure-sqlite-execution-statements-all-get-comm - safe
+https://stackoverflow.com/questions/36243538/how-often-do-i-have-to-commit-to-ensure-sqlite-execution-statements-all-get-comm - safe
+https://stackoverflow.com/questions/38649501/labeling-boxplot-in-seaborn-with-median-value - safe
+https://stackoverflow.com/questions/48619517/call-a-click-command-from-code - safe
+https://stackoverflow.com/questions/47094949/labeling-edges-in-networkx - safe
+https://stackoverflow.com/questions/56637973/how-to-fix-selenium-devtoolsactiveport-file-doesnt-exist-exception-in-python - safe
+https://stackoverflow.com/questions/2070276/where-can-i-find-source-or-algorithm-of-pythons-hash-function - safe
+https://stackoverflow.com/questions/2070276/where-can-i-find-source-or-algorithm-of-pythons-hash-function - safe
+https://stackoverflow.com/questions/2070276/where-can-i-find-source-or-algorithm-of-pythons-hash-function - safe
+https://stackoverflow.com/questions/2070276/where-can-i-find-source-or-algorithm-of-pythons-hash-function - safe
+https://stackoverflow.com/questions/69786885/after-conda-update-python-kernel-crashes-when-matplotlib-is-used - safe
+https://stackoverflow.com/questions/22029562/python-how-to-make-simple-animated-loading-while-process-is-running - safe
+https://stackoverflow.com/questions/17553543/pyserial-non-blocking-read-loop - safe
+https://stackoverflow.com/questions/44780736/setting-up-s3-for-logs-in-airflow - safe
+https://stackoverflow.com/questions/8763451/how-to-handle-urllibs-timeout-in-python-3 - safe
+https://stackoverflow.com/questions/65316863/is-asyncio-to-thread-method-different-to-threadpoolexecutor - safe
+https://stackoverflow.com/questions/25692440/mocking-a-subprocess-call-in-python - safe
+https://stackoverflow.com/questions/74289077/attributeerror-multiprocessingdataloaderiter-object-has-no-attribute-next - safe
+https://stackoverflow.com/questions/55271912/flask-cli-throws-oserror-errno-8-exec-format-error-when-run-through-docker - safe
+https://stackoverflow.com/questions/25513043/python-argparse-fails-to-parse-hex-formatting-to-int-type - safe
+https://stackoverflow.com/questions/55169645/square-detection-in-image - safe

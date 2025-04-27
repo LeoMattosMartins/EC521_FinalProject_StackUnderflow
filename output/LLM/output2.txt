@@ -1,0 +1,449 @@
+C++ Code Vulnerability Assessment
+URL-Label Pairs
+https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean - safe
+
+https://stackoverflow.com/questions/375913/how-do-i-profile-c-code-running-on-linux - safe
+
+https://stackoverflow.com/questions/1433204/how-to-use-extern-to-share-variables-between-source-files - safe
+
+https://stackoverflow.com/questions/40354978/why-does-c-code-for-testing-the-collatz-conjecture-run-faster-than-hand-writte - safe
+
+https://stackoverflow.com/questions/402283/stdwstring-vs-stdstring - safe
+
+https://stackoverflow.com/questions/1711990/what-is-this-weird-colon-member-syntax-in-the-constructor - safe
+
+https://stackoverflow.com/questions/2808398/easily-measure-elapsed-time - safe
+
+https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c - safe
+
+https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called - safe
+
+https://stackoverflow.com/questions/15752659/thread-pooling-in-c11 - safe
+
+https://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs - safe
+
+https://stackoverflow.com/questions/2351148/explicit-template-instantiation-when-is-it-used - safe
+
+https://stackoverflow.com/questions/2940367/what-is-more-efficient-using-pow-to-square-or-just-multiply-it-with-itself - safe
+
+https://stackoverflow.com/questions/62910867/how-to-run-tests-and-debug-google-test-project-in-vs-code - safe
+
+https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20 - safe
+
+https://stackoverflow.com/questions/675039/how-can-i-create-a-directory-tree-in-c-on-linux - unsafe
+Vulnerability: Path Traversal
+Code section:
+
+c
+int mkpath(const char *path, mode_t mode)
+{
+    char           *pp;
+    char           *sp;
+    int             status;
+    char           *copypath = STRDUP(path);
+    status = 0;
+    pp = copypath;
+    while (status == 0 && (sp = strchr(pp, '/')) != 0)
+    {
+        if (sp != pp)
+        {
+            /* Neither root nor double slash in path */
+            *sp = '\0';
+            status = do_mkdir(copypath, mode);
+            *sp = '/';
+        }
+        pp = sp + 1;
+    }
+    if (status == 0)
+        status = do_mkdir(path, mode);
+    FREE(copypath);
+    return (status);
+}
+No validation is performed on the path parameter, allowing potential path traversal attacks.
+
+https://stackoverflow.com/questions/5815675/what-is-sock-dgram-and-sock-stream - safe
+
+https://stackoverflow.com/questions/59637731/subtracting-packed-8-bit-integers-in-an-64-bit-integer-by-1-in-parallel-swar-wi - safe
+
+https://stackoverflow.com/questions/9456728/how-to-deal-with-bad-alloc-in-c - safe
+
+https://stackoverflow.com/questions/5878775/how-to-find-and-replace-string - safe
+
+https://stackoverflow.com/questions/35518611/difference-between-queues-emplace-and-push - safe
+
+https://stackoverflow.com/questions/16533156/how-to-create-a-custom-clock-for-use-in-stdchrono-functions - safe
+
+https://stackoverflow.com/questions/6497374/emacs-cc-mode-indentation-problem-with-c0x-enum-class - safe
+
+https://stackoverflow.com/questions/47203255/convert-stdvariant-to-another-stdvariant-with-super-set-of-types - safe
+
+https://stackoverflow.com/questions/79524869/whats-the-point-of-deleted-virtual-functions - safe
+
+https://stackoverflow.com/questions/66335672/make-integer-sequence-unique-at-compile-time - safe
+
+https://stackoverflow.com/questions/276102/catching-all-unhandled-c-exceptions - safe
+
+https://stackoverflow.com/questions/58808030/range-view-to-stdvector - safe
+
+https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is - safe
+
+https://stackoverflow.com/questions/72405122/creating-an-iterator-with-c20-concepts-for-custom-container - safe
+
+https://stackoverflow.com/questions/16077299/how-to-print-current-time-with-milliseconds-using-c-c11 - safe
+
+https://stackoverflow.com/questions/54831971/range-based-for-loop-with-special-case-for-the-first-item - safe
+
+https://stackoverflow.com/questions/64211652/stdfmod-abysmal-double-precision - safe
+
+https://stackoverflow.com/questions/12160765/if-else-at-compile-time-in-c - safe
+
+https://stackoverflow.com/questions/65120716/integer-literal-for-fixed-width-integer-types - safe
+
+https://stackoverflow.com/questions/72505009/why-cant-i-initialize-this-stdvector-with-an-l-value - safe
+
+https://stackoverflow.com/questions/75741488/why-is-my-struct-destructed-twice-with-stdvariant-and-stdmonostate - safe
+
+https://stackoverflow.com/questions/73557662/how-can-i-achieve-multiple-conditional-inheritance - safe
+
+https://stackoverflow.com/questions/77813605/transparent-search-for-a-stdmap-with-a-stdpair-as-a-key - safe
+
+https://stackoverflow.com/questions/68675303/how-to-create-a-function-that-forwards-its-arguments-to-fmtformat-keeping-the - safe
+
+https://stackoverflow.com/questions/71112750/create-a-vector-of-pairs-from-a-single-vector-in-c - safe
+
+https://stackoverflow.com/questions/49710006/fast-color-quantization-in-opencv - safe
+
+https://stackoverflow.com/questions/24559909/sending-string-over-udp-in-c - unsafe
+Vulnerability: Buffer Overflow
+Code section:
+
+c
+const char* msg = "Jane Doe";
+size_t msg_length = strlen(msg);
+result = sendto(sock, msg, msg_length, 0, (sockaddr*)&addrDest, sizeof(addrDest));
+While this specific example may be safe, the sendto call doesn't validate buffer boundaries, and in a larger application could be vulnerable to buffer overflow if message length isn't properly managed.
+
+https://stackoverflow.com/questions/60646412/what-is-the-usecase-for-explicit-bool - safe
+
+https://stackoverflow.com/questions/55920103/why-is-the-alignment-the-same-on-32-bit-and-64-bit-systems - safe
+
+https://stackoverflow.com/questions/60169819/modern-approach-to-making-stdvector-allocate-aligned-memory - safe
+
+https://stackoverflow.com/questions/63411054/how-can-you-quickly-compute-the-integer-logarithm-for-any-base - safe
+
+https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x - safe
+
+https://stackoverflow.com/questions/57082124/how-to-integrate-clang-tidy-to-cmake-and-gcc - safe
+
+https://stackoverflow.com/questions/8841422/glreadpixels-data-argument-usage - unsafe
+Vulnerability: Buffer Overflow
+Code section:
+
+c
+// 4 bytes per pixel (RGBA), 1x1 bitmap
+unsigned char pixels[ 1 * 1 * 4 ] = { 0 };
+glReadPixels( mx, my, 1, 1, GL_RGBA, GL_UNSIGNED_BYTE, pixels );
+If the window coordinates (mx, my) are outside the valid range, it could potentially lead to a buffer overflow. The code doesn't validate that mx and my are within the valid window bounds.
+
+https://stackoverflow.com/questions/3772664/intersection-of-two-stdmaps - safe
+
+https://stackoverflow.com/questions/79369634/what-does-the-to1-mean-in-the-concept-is-convertible-without-narrowing - safe
+
+https://stackoverflow.com/questions/79539857/why-does-stdviewstake-while-do-so-many-function-invocations-even-with-c - safe
+
+https://stackoverflow.com/questions/63034484/why-does-the-buffering-of-stdifstream-break-stdgetline-when-using-llvm - unsafe
+Vulnerability: Memory Leak
+Code section:
+
+c
+const char* recv_msg(pipe_reader* preader) {
+    if (!check_reader(preader)) {
+        return NULL;
+    }
+    ssize_t read = getline(&preader->line_buf, &preader->buf_size, preader->stream);
+    if (read > 0) {
+        preader->line_buf[read - 1] = '\0';
+        return preader->line_buf;
+    }
+    return NULL;
+}
+This function allocates memory with getline() but doesn't free it if read <= 0, potentially leading to memory leaks.
+
+https://stackoverflow.com/questions/76843246/why-does-the-address-of-an-out-of-scope-variable-equal-zero-with-constexpr - unsafe
+Vulnerability: Use After Free / Memory Corruption
+Code section:
+
+c
+int x = 5;
+// The address of a local variable is never null.
+// GCC and clang compile this.
+// You can even perform this comparison outside foo(), like in your assertion, when
+// x has died.
+static_assert(&x != nullptr);
+Using the address of a variable after it has gone out of scope is undefined behavior and could lead to memory corruption.
+
+https://stackoverflow.com/questions/69447778/fastest-way-to-draw-filled-quad-triangle-with-the-sdl2-renderer - safe
+
+https://stackoverflow.com/questions/5895792/why-is-using-a-stdmultiset-as-a-priority-queue-faster-than-using-a-stdpriori - safe
+
+https://stackoverflow.com/questions/58581500/how-to-fix-debugger-in-vscode-if-you-have-makefile-project-on-c - safe
+
+https://stackoverflow.com/questions/3484260/opengl-line-width - safe
+
+https://stackoverflow.com/questions/66877095/using-a-c-dll-in-flutter-windows-desktop-app - safe
+
+https://stackoverflow.com/questions/8552364/opencv-detect-contours-intersection - safe
+
+https://stackoverflow.com/questions/72908947/writing-a-small-file-blocks-for-20-ms - safe
+
+https://stackoverflow.com/questions/78471094/nrvo-vs-early-return-for-types-not-benefitting-from-move-semantics-gcc-14-wnrv - safe
+
+https://stackoverflow.com/questions/29989512/where-can-i-find-the-list-of-boost-component-that-i-can-use-in-cmake - safe
+
+https://stackoverflow.com/questions/69660148/c20-how-to-wait-on-an-atomic-object-with-timeout - safe
+
+https://stackoverflow.com/questions/55495932/why-does-the-buffering-of-stdifstream-break-stdgetline-when-using-llvm - unsafe
+Vulnerability: Memory Leak
+Code section:
+
+c
+void close_reader(pipe_reader* preader) {
+    if (!check_reader(preader)) {
+        return;
+    }
+    fclose(preader->stream);
+    preader->stream = NULL;
+    if (preader->line_buf) {
+        free(preader->line_buf);
+        preader->line_buf = NULL;
+    }
+}
+If check_reader() returns false, the function exits early without freeing preader->line_buf, potentially causing a memory leak.
+
+https://stackoverflow.com/questions/79558046/c-sorting-of-parallel-vectors-with-zip-range-how-efficient-is-it-really-and-c - safe
+
+https://stackoverflow.com/questions/66966548/how-to-create-a-modern-makefile-for-c - safe
+
+https://stackoverflow.com/questions/61518284/error-non-const-static-data-member-must-be-initialized-out-of-line - safe
+
+https://stackoverflow.com/questions/61708267/jump-bypasses-variable-initialization-in-switch-statement - safe
+
+https://stackoverflow.com/questions/21946447/how-much-performance-difference-when-using-string-vs-char-array - safe
+
+https://stackoverflow.com/questions/70606173/what-are-monadic-bind-and-monadic-return-for-c23-optional - safe
+
+https://stackoverflow.com/questions/64488186/why-does-strcmp-in-a-template-function-return-a-different-value - safe
+
+https://stackoverflow.com/questions/56707123/how-to-suppress-clang-warnings-in-third-party-library-header-file-in-cmakelists - safe
+
+https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base - safe
+
+https://stackoverflow.com/questions/39821367/very-fast-approximate-logarithm-natural-log-function-in-c - safe
+
+https://stackoverflow.com/questions/39490345/interleave-bits-efficiently - safe
+
+https://stackoverflow.com/questions/67549023/why-is-the-gnu-scientific-library-matrix-multiplication-slower-than-numpy-matmul - safe
+
+https://stackoverflow.com/questions/73613280/how-can-i-implement-polymorphism-in-c-for-a-wrapper-class-that-will-hold-one-o - safe
+
+https://stackoverflow.com/questions/57671273/cmake-cannot-specify-include-directories-when-use-target-include-directories - safe
+
+https://stackoverflow.com/questions/72126606/should-the-cache-padding-size-of-x86-64-be-128-bytes - safe
+
+https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist - safe
+
+https://stackoverflow.com/questions/51431425/how-to-recursively-copy-files-and-directories - unsafe
+Vulnerability: Path Traversal
+Code section:
+
+cpp
+void CopyRecursive(const fs::path& src, const fs::path& target,
+                    const std::function<bool(fs::path)>& predicate) noexcept
+{
+    try
+    {
+        for (const auto& dirEntry : fs::recursive_directory_iterator(src))
+        {
+            const auto& p = dirEntry.path();
+            if (predicate(p))
+            {
+                // Create path in target, if not existing.
+                const auto relativeSrc = fs::relative(p, src);
+                const auto targetParentPath = target / relativeSrc.parent_path();
+                fs::create_directories(targetParentPath);
+                // Copy to the targetParentPath which we just created.
+                fs::copy(p, targetParentPath, fs::copy_options::overwrite_existing);
+            }
+        }
+    }
+    catch (std::exception& e)
+    {
+        std::cout << e.what();
+    }
+}
+The function doesn't validate paths, which could allow copying files to unintended locations with maliciously crafted paths (directory traversal).
+
+https://stackoverflow.com/questions/69290986/gdb-keeps-downloading-debug-info - safe
+
+https://stackoverflow.com/questions/21872229/how-to-edit-and-re-build-the-gcc-libstdc-c-standard-library-source - safe
+
+https://stackoverflow.com/questions/8511598/large-negative-integer-literals - safe
+
+https://stackoverflow.com/questions/62159885/why-is-an-overloaded-function-with-two-arguments-of-type-double-called-when-pass - safe
+
+https://stackoverflow.com/questions/15869066/inserting-into-an-unordered-set-with-custom-hash-function - unsafe
+Vulnerability: Insecure Randomness / Weak Hash Function
+Code section:
+
+cpp
+struct Hash {
+   size_t operator()(const Interval &interval) const {
+     string temp = to_string(interval.b) + to_string(interval.e) + to_string(interval.proteinIndex);
+     return (temp.length());
+   }
+};
+This hash function only returns the length of a string, which will cause many collisions and is extremely predictable, potentially leading to denial-of-service attacks through hash table performance degradation.
+
+https://stackoverflow.com/questions/35969730/how-to-read-output-from-cmd-exe-using-createprocess-and-createpipe - unsafe
+Vulnerability: Buffer Overflow
+Code section:
+
+c
+//CreateProcess demands that we close these two populated handles when we're done with them. We're done with them.
+CloseHandle(pi.hProcess);
+CloseHandle(pi.hThread);
+The process handles are closed immediately after creation but before reading the process output. Depending on how the rest of the function is implemented, this could lead to a race condition where the buffer is accessed improperly.
+
+https://stackoverflow.com/questions/4283731/plotting-package-for-c - safe
+
+https://stackoverflow.com/questions/30573481/how-to-write-a-makefile-with-separate-source-and-header-directories - safe
+
+https://stackoverflow.com/questions/67270447/visual-studio-code-lldb-on-macos-error-when-starting-debugging-session - safe
+
+https://stackoverflow.com/questions/70117922/passing-a-c-style-array-to-spant - safe
+
+https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value - safe
+
+https://stackoverflow.com/questions/72877471/c-confusing-closure-captures-v-vs-v-v - safe
+
+https://stackoverflow.com/questions/64378721/what-is-the-difference-between-the-copy-constructor-and-move-constructor-in-c - safe
+
+https://stackoverflow.com/questions/51433937/how-to-compile-debug-a-c-application-in-docker-with-visual-studio-code-on-wind - safe
+
+https://stackoverflow.com/questions/75442605/c20-concepts-constraint-normalization - safe
+
+https://stackoverflow.com/questions/18515275/can-cython-code-be-compiled-to-a-dll-so-c-application-can-call-it - unsafe
+Vulnerability: Arbitrary Code Execution
+Code section:
+
+c
+case DLL_PROCESS_ATTACH:
+    return cyfun_init()==0;
+Initializing Python interpreter in a DLL_PROCESS_ATTACH can lead to security issues as it can execute arbitrary Python code with the privileges of the process loading the DLL.
+
+https://stackoverflow.com/questions/66261968/how-can-we-calculate-for-every-element-in-an-array-the-number-of-elements-to-t - safe
+
+https://stackoverflow.com/questions/32007188/detect-if-struct-has-padding - safe
+
+https://stackoverflow.com/questions/64378721/what-is-the-difference-between-the-copy-constructor-and-move-constructor-in-c - safe (duplicate)
+
+https://stackoverflow.com/questions/79518752/efficient-algorithm-for-minimum-euclidean-distance-between-points-in-non-overlap - safe
+
+https://stackoverflow.com/questions/24564539/is-there-a-way-to-declare-an-array-inline - safe
+
+https://stackoverflow.com/questions/733056/is-there-a-way-to-get-function-name-inside-a-c-function - safe
+
+https://stackoverflow.com/questions/76552816/why-is-initializing-a-string-to-more-efficient-than-the-default-constructor - safe
+
+https://stackoverflow.com/questions/657155/how-to-enable-shared-from-this-of-both-parent-and-derived - safe
+
+https://stackoverflow.com/questions/11813271/embed-resources-eg-shader-code-images-into-executable-library-with-cmake - safe
+
+https://stackoverflow.com/questions/34596768/stdunordered-mapfind-using-a-type-different-than-the-key-type - safe
+
+https://stackoverflow.com/questions/66816741/why-does-this-c-style-cast-not-consider-static-cast-followed-by-const-cast - safe
+
+https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software - unsafe
+Vulnerability: Buffer Overflow
+Code section:
+
+c
+int main(int argc, char **argv) {
+    // ...
+    char *buf = malloc(SIZE);
+    if (buf == NULL) {
+        fputs("out of memory", stderr);
+        return 1;
+    }
+    ssize_t got;
+    while ((got = read(0, buf, SIZE)) > 0) {
+        size_t off = 0;
+        do {
+            size_t n = (size_t)got - off;
+            if (n > CHUNK)
+                n = CHUNK;
+            crc = argc > 1 ? crc32c_sw(crc, buf + off, n) :
+                             crc32c(crc, buf + off, n);
+            off += n;
+        } while (off < (size_t)got);
+    }
+    // ...
+}
+The code reads from standard input (file descriptor 0) without proper validation of the SIZE constant relative to available memory, which could lead to a buffer overflow.
+
+https://stackoverflow.com/questions/12560291/set-back-default-floating-point-print-precision-in-c - safe
+
+https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value - safe
+
+https://stackoverflow.com/questions/79119461/an-empty-program-that-does-nothing-in-c-needs-a-heap-of-204kb-but-not-in-c - safe
+
+https://stackoverflow.com/questions/2027991/list-of-standard-header-files-in-c-and-c - safe
+
+https://stackoverflow.com/questions/54524947/jump-bypasses-variable-initialization-in-switch-statement - safe (duplicate)
+
+https://stackoverflow.com/questions/7556096/what-is-the-point-of-custom-unary-function-classes-in-c - safe
+
+https://stackoverflow.com/questions/24765054/use-of-malloc-in-c-and-c - safe
+
+https://stackoverflow.com/questions/25270275/get-functions-names-in-a-shared-library-programmatically - safe
+
+https://stackoverflow.com/questions/4387288/convert-stdwstring-to-const-char-in-c - unsafe
+Vulnerability: Memory Leak
+Code section:
+
+cpp
+// Count required buffer size (plus one for null-terminator).
+size_t size = (wcslen(input) + 1) * sizeof(wchar_t);
+char *buffer = new char[size];
+#ifdef __STDC_LIB_EXT1__
+    // wcstombs_s is only guaranteed to be available if __STDC_LIB_EXT1__ is defined
+    size_t convertedSize;
+    std::wcstombs_s(&convertedSize, buffer, size, input, size);
+#else
+    std::wcstombs(buffer, input, size);
+#endif
+/* Use the string stored in "buffer" variable */
+// Free allocated memory:
+delete buffer;
+The code allocates memory with new char[size] but attempts to free it with delete instead of delete[], which is incorrect and can lead to undefined behavior or memory leaks.
+
+https://stackoverflow.com/questions/78282705/efficient-way-to-find-sum-of-largest-x-elements-in-a-subarray - safe
+
+https://stackoverflow.com/questions/64083104/making-python-generator-via-c20-coroutines - safe
+
+https://stackoverflow.com/questions/66877095/using-a-c-dll-in-flutter-windows-desktop-app - safe (duplicate)
+
+https://stackoverflow.com/questions/72405122/creating-an-iterator-with-c20-concepts-for-custom-container - safe (duplicate)
+
+https://stackoverflow.com/questions/24865499/c-constructing-an-enum-from-an-int - safe
+
+https://stackoverflow.com/questions/75778573/what-is-an-mdspan-and-what-is-it-used-for - safe
+
+https://stackoverflow.com/questions/30867712/add-llvm-to-project-using-cmake - safe
+
+https://stackoverflow.com/questions/66922779/how-to-flatten-the-nested-stdoptional - safe
+
+https://stackoverflow.com/questions/60169819/modern-approach-to-making-stdvector-allocate-aligned-memory - safe (duplicate)
+
+https://stackoverflow.com/questions/983999/simple-3x3-matrix-inverse-code-c - safe
+
