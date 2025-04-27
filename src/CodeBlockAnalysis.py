@@ -6,6 +6,7 @@ from interpreters.web import detect_vulnerabilities
 from interpreters.c import find_c_vulnerabilities
 from interpreters.sql import find_sql_vulnerabilities
 from interpreters.php import find_php_vulnerabilities
+from interpreters.interpreted_languages import find_interpreted_vulnerabilities
 from collections import Counter
 
 # Check for CUDA availability
@@ -19,7 +20,7 @@ classifier = pipeline(
 )
 
 directory = "../scrapper/ParsedData"
-output_file = "vulnerabilities_report.txt"
+output_file = "vulnerabilities_reportV2.txt"
 
 def is_code(body):
     return any(k in body for k in ["#", "include", "struct", "class", "def", "function", "{", "}"])
@@ -90,6 +91,11 @@ def run():
 
             elif lang == "php":
                 for ln, desc in find_php_vulnerabilities(body):
+                    findings.append(desc)
+                    vuln_counter[desc] += 1
+            
+            elif lang in ["python", "ruby", "php", "go", "javascript"]:
+                for ln, desc in find_interpreted_vulnerabilities(body):
                     findings.append(desc)
                     vuln_counter[desc] += 1
 
