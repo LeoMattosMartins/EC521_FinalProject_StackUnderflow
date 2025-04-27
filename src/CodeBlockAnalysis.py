@@ -2,12 +2,13 @@ import json
 import os
 import torch
 from transformers import pipeline
-from interpreters.web import detect_vulnerabilities
+from interpreters.web import find_web_vulnerabilities
 from interpreters.c import find_c_vulnerabilities
 from interpreters.sql import find_sql_vulnerabilities
 from interpreters.php import find_php_vulnerabilities
 from interpreters.interpreted_languages import find_interpreted_vulnerabilities
 from collections import Counter
+from tqdm import tqdm
 
 # Check for CUDA availability
 device = 0 if torch.cuda.is_available() else -1
@@ -27,7 +28,7 @@ def is_code(body):
 
 def run():
     # 1) Collect all snippets
-    records = []  # each: (body, url, filename, answer_id)
+    records = []
     for filename in os.listdir(directory):
         if not filename.endswith(".json"):
             continue
@@ -48,60 +49,64 @@ def run():
 
     print(f"Collected {len(records)} code snippets.")
 
-    # 2) Batched classification
+    # 2) Batched classification with progress bar
     labels = ["c", "c++", "javascript", "php", "sql", "html"]
     batch_size = 32
-    for i in range(0, len(records), batch_size):
+    num_batches = (len(records) + batch_size - 1) // batch_size
+
+    for i in tqdm(range(0, len(records), batch_size), desc="Classifying batches", total=num_batches):
         batch = records[i : i + batch_size]
         bodies = [r["body"] for r in batch]
         results = classifier(bodies, labels, multi_label=False)
-        # ensure `results` is a list
         if isinstance(results, dict):
             results = [results]
-
         for rec, res in zip(batch, results):
             rec["predicted_language"] = res["labels"][0].lower()
 
-    # 3) Vulnerability scanning & report writing
+    # 3) Vulnerability scanning & report writing with progress bar
     vuln_counter = Counter()
     with open(output_file, 'w', encoding='utf-8') as out:
-        for rec in records:
-            lang = rec["predicted_language"]
+        for rec in tqdm(records, desc="Scanning snippets"):
+            lang = rec.get("predicted_language", "")
             url = rec["url"]
             body = rec["body"]
-
             findings = []
-            if lang in ["html", "javascript"]:
-                vulns = detect_vulnerabilities(body)
-                for cat in vulns.values():
-                    for t, lines in cat.items():
-                        for _ in lines:
-                            findings.append(t)
-                            vuln_counter[t] += 1
 
-            elif lang in ["c", "c++"]:
-                for ln, desc in find_c_vulnerabilities(body):
-                    findings.append(desc)
+            # HTML/JS path
+            if lang in ("html", "javascript"):
+                for ln, desc in find_web_vulnerabilities(body):
+                    findings.append(f"{desc} (line {ln})")
                     vuln_counter[desc] += 1
 
+            # C/C++ path
+            elif lang in ("c", "c++"):
+                for ln, desc in find_c_vulnerabilities(body):
+                    findings.append(f"{desc} (line {ln})")
+                    vuln_counter[desc] += 1
+
+            # SQL path
             elif lang == "sql":
                 for ln, desc in find_sql_vulnerabilities(body):
-                    findings.append(desc)
+                    findings.append(f"{desc} (line {ln})")
                     vuln_counter[desc] += 1
 
+            # PHP path
             elif lang == "php":
                 for ln, desc in find_php_vulnerabilities(body):
-                    findings.append(desc)
-                    vuln_counter[desc] += 1
-            
-            elif lang in ["python", "ruby", "php", "go", "javascript"]:
-                for ln, desc in find_interpreted_vulnerabilities(body):
-                    findings.append(desc)
+                    findings.append(f"{desc} (line {ln})")
                     vuln_counter[desc] += 1
 
+            # Other interpreted languages
+            elif lang in ("python", "ruby", "go"):
+                for ln, desc in find_interpreted_vulnerabilities(body):
+                    findings.append(f"{desc} (line {ln})")
+                    vuln_counter[desc] += 1
+
+            # Write findings if any
             if findings:
                 out.write(f"Stack Overflow URL: {url}\n")
-                out.write("\n".join(f"Line _: {f}" for f in findings))
+                for f in findings:
+                    out.write(f"  - {f}\n")
                 out.write("\n" + "="*80 + "\n\n")
                 out.flush()
 

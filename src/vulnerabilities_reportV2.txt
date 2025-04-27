@@ -1,0 +1,1212 @@
+Stack Overflow URL: https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean
+  - Use of uninitialized variable 'main' (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/402283/stdwstring-vs-stdstring
+  - Use of uninitialized variable 'main' (line 3)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/1711990/what-is-this-weird-colon-member-syntax-in-the-constructor
+  - Use of uninitialized variable 'b' (line 6)
+  - Use of uninitialized variable 'b' (line 9)
+  - Use of uninitialized variable 'b' (line 10)
+  - Use of uninitialized variable 'b' (line 11)
+  - Use of uninitialized variable 'b' (line 13)
+  - Use of uninitialized variable 'p' (line 18)
+  - Use of uninitialized variable 'q' (line 19)
+  - Use of uninitialized variable 'p' (line 20)
+  - Use of uninitialized variable 'main' (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/22387586/measuring-execution-time-of-a-function-in-c
+  - Use of uninitialized variable 'main' (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called
+  - Use of uninitialized variable 'buf' (line 13)
+  - Possible NULL pointer dereference (line 20)
+  - Use of uninitialized variable 'status' (line 21)
+  - Use of uninitialized variable 'status' (line 22)
+  - Use of uninitialized variable 'buf' (line 24)
+  - Use of uninitialized variable 'buf' (line 25)
+  - Use of uninitialized variable 'buf' (line 35)
+  - Use of uninitialized variable 'buf' (line 38)
+  - Use of uninitialized variable 'buf' (line 39)
+  - Use of uninitialized variable 'buf' (line 40)
+  - Use of uninitialized variable 'main' (line 58)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/3899870/how-to-print-a-stack-trace-whenever-a-certain-function-is-called
+  - Use of uninitialized variable 'sym' (line 21)
+  - Use of uninitialized variable 'sym' (line 22)
+  - Use of uninitialized variable 'sym' (line 23)
+  - Use of uninitialized variable 'status' (line 24)
+  - Use of uninitialized variable 'sym' (line 25)
+  - Use of uninitialized variable 'status' (line 26)
+  - Use of uninitialized variable 'main' (line 48)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2940367/what-is-more-efficient-using-pow-to-square-or-just-multiply-it-with-itself
+  - Use of uninitialized variable 'test' (line 13)
+  - Use of uninitialized variable 'testCppPow' (line 33)
+  - Use of uninitialized variable 'testCPow' (line 47)
+  - Use of uninitialized variable 'main' (line 61)
+  - Use of uninitialized variable 'testCppPow' (line 72)
+  - Use of uninitialized variable 'testCPow' (line 73)
+  - Use of uninitialized variable 'testCppPow' (line 77)
+  - Use of uninitialized variable 'testCPow' (line 78)
+  - Use of uninitialized variable 'testCppPow' (line 82)
+  - Use of uninitialized variable 'testCPow' (line 83)
+  - Use of uninitialized variable 'testCppPow' (line 87)
+  - Use of uninitialized variable 'testCPow' (line 88)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62928396/what-is-a-niebloid
+  - Use of uninitialized variable 'main' (line 26)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/675039/how-can-i-create-a-directory-tree-in-c-on-linux
+  - Use of uninitialized variable 'mkpath' (line 40)
+  - Use of uninitialized variable 'mkpath' (line 68)
+  - Use of uninitialized variable 'mkpath' (line 73)
+  - Use of uninitialized variable 'mkpath' (line 75)
+  - Use of uninitialized variable 'main' (line 82)
+  - Use of uninitialized variable 'i' (line 84)
+  - Use of uninitialized variable 'i' (line 85)
+  - Use of uninitialized variable 'mkpath' (line 91)
+  - Use of uninitialized variable 'i' (line 94)
+  - Use of uninitialized variable 'i' (line 106)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/9456728/how-to-deal-with-bad-alloc-in-c
+  - Use of uninitialized variable 'perform_operation' (line 2)
+  - Use of uninitialized variable 'perform_operation' (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68221024/why-must-i-provide-operator-when-operator-is-enough
+  - Use of uninitialized variable 'n' (line 20)
+  - Use of uninitialized variable 'main' (line 22)
+  - Use of uninitialized variable 'n' (line 25)
+  - Use of uninitialized variable 'n' (line 26)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67595789/what-is-destroying-operator-delete-in-c20
+  - Use of uninitialized variable 'main' (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/11279715/nullptr-and-checking-if-a-pointer-points-to-a-valid-object
+  - Use of uninitialized variable 'main' (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/6121623/catching-exception-divide-by-zero
+  - Use of uninitialized variable 'main' (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/58509147/why-does-same-as-concept-check-type-equality-twice
+  - Use of uninitialized variable 'main' (line 17)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66937947/why-is-unique-ptr-not-equality-comparable-with-nullptr-t-in-c20
+  - Dangerous function 'gets' may cause buffer overflow (line 3)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/733056/is-there-a-way-to-get-function-name-inside-a-c-function
+  - Use of uninitialized variable 'f' (line 13)
+  - Use of uninitialized variable 'f' (line 17)
+  - Use of uninitialized variable 'main' (line 21)
+  - Use of uninitialized variable 'f' (line 22)
+  - Use of uninitialized variable 'f' (line 23)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/34596768/stdunordered-mapfind-using-a-type-different-than-the-key-type
+  - Use of uninitialized variable 'main' (line 20)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59490698/how-can-i-get-the-depth-of-a-multidimensional-stdvector-at-compile-time
+  - Use of uninitialized variable 'main' (line 31)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/51031060/are-c17-parallel-algorithms-implemented-already
+  - Use of uninitialized variable 'main' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value
+  - Use of uninitialized variable 'main' (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77681881/why-are-all-of-my-this-pointers-the-same-value
+  - Use of uninitialized variable 'main' (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68673443/is-there-a-way-to-avoid-implicit-conversion-to-void
+  - Use of uninitialized variable 'main' (line 19)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76969417/why-is-char-int-promotion-but-char-short-is-conversion-but-not-promo
+  - Use of uninitialized variable 'main' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/24645880/set-cpu-affinity-when-create-a-thread
+  - Use of uninitialized variable 'main' (line 9)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2212776/overload-handling-of-stdendl
+  - Use of uninitialized variable 'main' (line 44)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software
+  - Use of uninitialized variable 'sse42' (line 175)
+  - Use of uninitialized variable 'sse42' (line 176)
+  - Use of uninitialized variable 'sse42' (line 177)
+  - Use of uninitialized variable 'main' (line 185)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/17645167/implementing-sse-4-2s-crc32c-in-software
+  - Use of uninitialized variable 'main' (line 92)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12560291/set-back-default-floating-point-print-precision-in-c
+  - Use of uninitialized variable 'main' (line 5)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20
+  - Use of uninitialized variable 'val' (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57621168/what-are-the-mechanics-of-coroutines-in-c20
+  - Dangerous function 'gets' may cause buffer overflow (line 17)
+  - Dangerous function 'gets' may cause buffer overflow (line 19)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/15869066/inserting-into-an-unordered-set-with-custom-hash-function
+  - Use of uninitialized variable 'patternIndex' (line 9)
+  - Use of uninitialized variable 'proteinIndex' (line 10)
+  - Use of uninitialized variable 'proteinIndex' (line 14)
+  - Use of uninitialized variable 'proteinIndex' (line 18)
+  - Use of uninitialized variable 'main' (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/35518611/difference-between-queues-emplace-and-push
+  - Use of uninitialized variable 'x' (line 6)
+  - Use of uninitialized variable 'x' (line 7)
+  - Use of uninitialized variable 'x' (line 9)
+  - Use of uninitialized variable 'main' (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79524869/whats-the-point-of-deleted-virtual-functions
+  - Use of uninitialized variable 'main' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/276102/catching-all-unhandled-c-exceptions
+  - Use of uninitialized variable 'main' (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is
+  - Use of uninitialized variable 'loop_vc_nested_noselect' (line 1)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77712908/why-performance-for-this-index-of-max-function-over-many-arrays-of-256-bytes-is
+  - Use of uninitialized variable 'loop_vc_nested' (line 1)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/16077299/how-to-print-current-time-with-milliseconds-using-c-c11
+  - Use of uninitialized variable 'buffer' (line 6)
+  - Use of uninitialized variable 'buffer' (line 15)
+  - Dangerous function 'sprintf' may cause buffer overflow (line 16)
+  - Use of uninitialized variable 'buffer' (line 16)
+  - Use of uninitialized variable 'buffer' (line 18)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54831971/range-based-for-loop-with-special-case-for-the-first-item
+  - Use of uninitialized variable 'main' (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64211652/stdfmod-abysmal-double-precision
+  - Use of uninitialized variable 'main' (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12160765/if-else-at-compile-time-in-c
+  - Use of uninitialized variable 'main' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72505009/why-cant-i-initialize-this-stdvector-with-an-l-value
+  - Use of uninitialized variable 'main' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75741488/why-is-my-struct-destructed-twice-with-stdvariant-and-stdmonostate
+  - Use of uninitialized variable 'main' (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77813605/transparent-search-for-a-stdmap-with-a-stdpair-as-a-key
+  - Use of uninitialized variable 'main' (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71112750/create-a-vector-of-pairs-from-a-single-vector-in-c
+  - Use of uninitialized variable 'main' (line 6)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/49710006/fast-color-quantization-in-opencv
+  - Use of uninitialized variable 'main' (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/24559909/sending-string-over-udp-in-c
+  - Use of uninitialized variable 'resolvehelper' (line 13)
+  - Use of uninitialized variable 'result' (line 15)
+  - Possible NULL pointer dereference (line 16)
+  - Use of uninitialized variable 'main' (line 29)
+  - Use of uninitialized variable 'szIP' (line 33)
+  - Use of uninitialized variable 'resolvehelper' (line 44)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/33304351/sdl2-fast-pixel-manipulation
+  - Use of uninitialized variable 'main' (line 27)
+  - Use of uninitialized variable 'main' (line 49)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67908591/how-to-convert-boostasioawaitable-to-stdfuture
+  - Use of uninitialized variable 'main' (line 18)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/2821012/how-to-write-curiously-recurring-templates-with-more-than-2-layers-of-inheritanc
+  - Use of uninitialized variable 'main' (line 26)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4283731/plotting-package-for-c
+  - Use of uninitialized variable 'main' (line 5)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4283731/plotting-package-for-c
+  - Use of uninitialized variable 'main' (line 7)
+  - Possible NULL pointer dereference (line 11)
+  - Use of uninitialized variable 'buffer' (line 12)
+  - Use of uninitialized variable 'buffer' (line 34)
+  - Use of uninitialized variable 'buffer' (line 35)
+  - Use of uninitialized variable 'str' (line 37)
+  - Use of uninitialized variable 'str' (line 44)
+  - Use of uninitialized variable 'str' (line 45)
+  - Use of uninitialized variable 'buffer' (line 46)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+  - Use of uninitialized variable 'main' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+  - Use of uninitialized variable 'main' (line 17)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62409409/how-to-make-stdfilesystemdirectory-iterator-to-list-filenames-in-order
+  - Use of uninitialized variable 'i' (line 12)
+  - Use of uninitialized variable 'i' (line 14)
+  - Use of uninitialized variable 'i' (line 18)
+  - Use of uninitialized variable 'i' (line 19)
+  - Use of uninitialized variable 'main' (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value
+  - Use of uninitialized variable 'main' (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59764049/set-operation-in-cupdate-existing-value
+  - Use of uninitialized variable 'main' (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39821367/very-fast-approximate-logarithm-natural-log-function-in-c
+  - Use of uninitialized variable '__int_as_float' (line 4)
+  - Use of uninitialized variable 'my_logf' (line 7)
+  - Use of uninitialized variable 'i' (line 9)
+  - Use of uninitialized variable 'e' (line 10)
+  - Use of uninitialized variable 'e' (line 12)
+  - Use of uninitialized variable '__int_as_float' (line 25)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57672568/sdl2-on-raspberry-pi-without-x
+  - Use of uninitialized variable 'main' (line 6)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78282705/efficient-way-to-find-sum-of-largest-x-elements-in-a-subarray
+  - Use of uninitialized variable 'count' (line 8)
+  - Use of uninitialized variable 'left' (line 10)
+  - Use of uninitialized variable 'update' (line 15)
+  - Use of uninitialized variable 'count' (line 17)
+  - Use of uninitialized variable 'left' (line 19)
+  - Use of uninitialized variable 'update' (line 20)
+  - Use of uninitialized variable 'update' (line 21)
+  - Use of uninitialized variable 'count' (line 22)
+  - Use of uninitialized variable 'count' (line 28)
+  - Use of uninitialized variable 'left' (line 29)
+  - Use of uninitialized variable 'main' (line 36)
+  - Use of uninitialized variable 'n' (line 39)
+  - Use of uninitialized variable 'n' (line 40)
+  - Use of uninitialized variable 'n' (line 42)
+  - Use of uninitialized variable 'n' (line 43)
+  - Use of uninitialized variable 'update' (line 50)
+  - Use of uninitialized variable 'q' (line 51)
+  - Use of uninitialized variable 'q' (line 52)
+  - Use of uninitialized variable 'q' (line 53)
+  - Use of uninitialized variable 'n' (line 55)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64083104/making-python-generator-via-c20-coroutines
+  - Use of uninitialized variable 'main' (line 64)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/66261968/how-can-we-calculate-for-every-element-in-an-array-the-number-of-elements-to-t
+  - Use of uninitialized variable 'main' (line 10)
+  - Use of uninitialized variable 'A_size' (line 12)
+  - Use of uninitialized variable 'A_size' (line 13)
+  - Use of uninitialized variable 'A_size' (line 14)
+  - Use of uninitialized variable 'A_size' (line 15)
+  - Use of uninitialized variable 'A_size' (line 20)
+  - Use of uninitialized variable 'A_size' (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61518284/error-non-const-static-data-member-must-be-initialized-out-of-line
+  - Use of uninitialized variable 'main' (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61708267/jump-bypasses-variable-initialization-in-switch-statement
+  - Use of uninitialized variable 'main' (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75778573/what-is-an-mdspan-and-what-is-it-used-for
+  - Use of uninitialized variable 'main' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base
+  - Use of uninitialized variable 'main' (line 2)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70308865/cannot-use-pointer-to-public-member-function-that-comes-from-a-private-base
+  - Use of uninitialized variable 'foo' (line 4)
+  - Use of uninitialized variable 'foo' (line 9)
+  - Use of uninitialized variable 'main' (line 27)
+  - Use of uninitialized variable 'foo' (line 29)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/39490345/interleave-bits-efficiently
+  - Dangerous function 'gets' may cause buffer overflow (line 5)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/8841422/glreadpixels-data-argument-usage
+  - Use of uninitialized variable 'main' (line 38)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/44558568/how-to-iterate-through-a-qstringlist
+  - Use of uninitialized variable 'main' (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/8511598/large-negative-integer-literals
+  - Use of uninitialized variable 'main' (line 9)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79518752/efficient-algorithm-for-minimum-euclidean-distance-between-points-in-non-overlap
+  - Use of uninitialized variable 'x' (line 13)
+  - Use of uninitialized variable 'y' (line 14)
+  - Use of uninitialized variable 'x' (line 15)
+  - Use of uninitialized variable 'x' (line 17)
+  - Use of uninitialized variable 'm_width' (line 28)
+  - Use of uninitialized variable 'm_height' (line 29)
+  - Use of uninitialized variable 'y' (line 36)
+  - Use of uninitialized variable 'y' (line 39)
+  - Use of uninitialized variable 'get_free_label' (line 44)
+  - Use of uninitialized variable 'width' (line 47)
+  - Use of uninitialized variable 'height' (line 50)
+  - Use of uninitialized variable 'x' (line 54)
+  - Use of uninitialized variable 'x' (line 57)
+  - Use of uninitialized variable 'y' (line 60)
+  - Use of uninitialized variable 'x' (line 61)
+  - Use of uninitialized variable 'y' (line 66)
+  - Use of uninitialized variable 'rand_int' (line 75)
+  - Use of uninitialized variable 'get_free_label' (line 82)
+  - Use of uninitialized variable 'rand_int' (line 83)
+  - Use of uninitialized variable 'x' (line 88)
+  - Use of uninitialized variable 'y' (line 89)
+  - Use of uninitialized variable 'x' (line 90)
+  - Use of uninitialized variable 'x' (line 91)
+  - Use of uninitialized variable 'rand_int' (line 105)
+  - Use of uninitialized variable 'x' (line 108)
+  - Use of uninitialized variable 'x' (line 131)
+  - Use of uninitialized variable 'y' (line 132)
+  - Use of uninitialized variable 'y' (line 152)
+  - Use of uninitialized variable 'x' (line 153)
+  - Use of uninitialized variable 'x' (line 154)
+  - Use of uninitialized variable 'x' (line 155)
+  - Use of uninitialized variable 'x' (line 156)
+  - Use of uninitialized variable 'y' (line 163)
+  - Use of uninitialized variable 'x' (line 164)
+  - Use of uninitialized variable 'x' (line 165)
+  - Use of uninitialized variable 'x' (line 168)
+  - Use of uninitialized variable 'x' (line 169)
+  - Use of uninitialized variable 'x' (line 190)
+  - Use of uninitialized variable 'main' (line 198)
+  - Use of uninitialized variable 'width' (line 202)
+  - Use of uninitialized variable 'width' (line 205)
+  - Use of uninitialized variable 'height' (line 206)
+  - Use of uninitialized variable 'width' (line 207)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69447778/fastest-way-to-draw-filled-quad-triangle-with-the-sdl2-renderer
+  - Use of uninitialized variable 'main' (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/21317290/reading-catalog-file-information
+  - Use of uninitialized variable 'wmain' (line 26)
+  - Possible NULL pointer dereference (line 39)
+  - Possible NULL pointer dereference (line 44)
+  - Possible NULL pointer dereference (line 55)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76624585/on-z-os-how-do-i-determine-which-security-product-is-active-racf-acf2-or-top
+  - Use of uninitialized variable 'id' (line 5)
+  - Use of uninitialized variable 'unk' (line 8)
+  - Use of uninitialized variable 'unk' (line 12)
+  - Use of uninitialized variable 'id' (line 24)
+  - Use of uninitialized variable 'id' (line 25)
+  - Use of uninitialized variable 'id' (line 27)
+  - Use of uninitialized variable 'id' (line 29)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67664505/is-there-any-gcc-compiler-option-or-something-similar-to-bypass-the-obsolesence
+  - Use of uninitialized variable 'my_fast_gets' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/732107/manually-validate-server-certificate-in-wininet
+  - Possible NULL pointer dereference (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74411675/what-input-can-i-give-to-cause-a-buffer-overflow-that-results-in-exact-changes-i
+  - Dangerous function 'gets' may cause buffer overflow (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64382459/vulnerability-of-malloc-and-memcpy
+  - Possible NULL pointer dereference (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70802534/example-of-spectre-v1-on-new-cpu
+  - Use of uninitialized variable 'tries' (line 22)
+  - Use of uninitialized variable 'tries' (line 26)
+  - Use of uninitialized variable 'tries' (line 30)
+  - Use of uninitialized variable 'tries' (line 39)
+  - Use of uninitialized variable 'main' (line 64)
+  - Possible NULL pointer dereference (line 69)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69545920/how-to-add-unauthorized-www-authenticate-field-to-response-header-using-micronau
+  - Use of uninitialized variable 'getOrder' (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76315430/unable-to-setup-tde-via-azure-sdk-for-python
+  - Use of f-string to build SQL query – risk of SQL injection (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62628423/how-can-i-get-the-a-certificates-validity-period-using-apples-security-framewo
+  - Use of uninitialized variable 'main' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57245026/how-to-upload-file-directly-to-aws-s3-with-aws-sdk
+  - Potential XSS vulnerability via direct output (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/78693856/my-kernel-module-dont-hook-systems-calls-how-fix-that
+  - Use of uninitialized variable 'err' (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/54933039/how-to-encrypt-decrypt-a-text-by-using-rsa-method
+  - Use of uninitialized variable 'encrypt' (line 40)
+  - Use of uninitialized variable 'encrypt' (line 44)
+  - Use of uninitialized variable 'encrypt' (line 52)
+  - Use of uninitialized variable 'encrypt' (line 76)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69648232/cannot-modify-process-dacl-that-i-own-with-my-code-but-process-hacker-can
+  - Use of uninitialized variable 'main' (line 64)
+  - Use of uninitialized variable 'username' (line 68)
+  - Use of uninitialized variable 'username' (line 70)
+  - Use of uninitialized variable 'username' (line 74)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/53630860/golang-gorm-query-locations-around-a-position-with-lat-and-lng
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 77)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59410139/run-command-in-golang-and-detach-it-from-process
+  - Dangerous function 'sprintf' may cause buffer overflow (line 23)
+  - Dangerous function 'sprintf' may cause buffer overflow (line 27)
+  - Dangerous function 'sprintf' may cause buffer overflow (line 29)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63605243/how-to-get-the-ip-of-the-user-based-on-interaction-with-pod-in-k8s
+  - Dangerous function 'gets' may cause buffer overflow (line 19)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63621097/grpc-python-quickstart-helloworld-greeter-client-py-is-hanging-before-printing
+  - Dangerous function 'gets' may cause buffer overflow (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68719530/check-named-return-error-using-defer-function
+  - Dangerous function 'gets' may cause buffer overflow (line 6)
+  - Dangerous function 'gets' may cause buffer overflow (line 9)
+  - Dangerous function 'gets' may cause buffer overflow (line 21)
+  - Dangerous function 'gets' may cause buffer overflow (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/77434444/how-to-query-aws-dynamodb-using-keyconditionexpression-with-the-v2-go-sdk
+  - Dangerous function 'gets' may cause buffer overflow (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74962479/how-to-build-catboost-c-evaluation-library-api
+  - Use of uninitialized variable 'main' (line 3)
+  - Use of uninitialized variable 'resultRaw' (line 9)
+  - Use of uninitialized variable 'resultRaw' (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/72031093/using-go-generics-to-implement-a-chain-of-processors
+  - Possible integer overflow from unchecked input (line 11)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74383816/how-to-get-goroutine-id-with-ebpf
+  - Use of uninitialized variable 'uprobe_runtime_newproc1' (line 2)
+  - Use of uninitialized variable 'uprobe_runtime_newproc1' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70234885/pass-a-pointer-instead-of-return-new-variable-in-c-and-go
+  - Use of uninitialized variable 'age' (line 3)
+  - Use of uninitialized variable 'age' (line 13)
+  - Use of uninitialized variable 'main' (line 18)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/56032492/get-output-string-after-access-a-link
+  - Dangerous function 'gets' may cause buffer overflow (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73627615/how-to-make-conditional-aggregation-using-gorm
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61885554/constructor-in-shared-object-not-called-in-when-ld-preload-ing-a-go-executable
+  - Use of uninitialized variable 'pthread_create' (line 3)
+  - Use of uninitialized variable 'pthread_create' (line 5)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/42988417/crud-operations-on-redshift-databases-using-golang
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 16)
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 19)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/57201540/access-gos-array-of-arrays-from-c
+  - Use of uninitialized variable 'i' (line 6)
+  - Use of uninitialized variable 'i' (line 7)
+  - Use of uninitialized variable 'i' (line 8)
+  - Use of uninitialized variable 'i' (line 21)
+  - Use of uninitialized variable 'i' (line 25)
+  - Use of uninitialized variable 'i' (line 26)
+  - Use of uninitialized variable 'i' (line 29)
+  - Use of uninitialized variable 'i' (line 30)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76437217/golang-post-400-bad-request
+  - CSRF: Form Without CSRF vulnerability (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71535674/golang-reads-html-tags-from-json-string-data-as-lt-and-gt-which-causes-re
+  - CSRF: Form Without CSRF vulnerability (line 25)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/79507946/cross-compiling-a-go-native-binary-for-java-code-using-docker
+  - Use of uninitialized variable 'add_integers' (line 11)
+  - Use of uninitialized variable 'add_integers' (line 15)
+  - Use of uninitialized variable 'add_integers' (line 16)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75516157/golang-gorm-implement-archived-at-similar-to-soft-delete
+  - Possible NULL pointer dereference (line 11)
+  - Possible NULL pointer dereference (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/70913226/how-to-execute-multiple-variables-in-html-go-template
+  - CSRF: Form Without CSRF vulnerability (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75825167/synchronizing-requests-between-two-separate-rate-limited-endpoints
+  - Dangerous function 'gets' may cause buffer overflow (line 125)
+  - Dangerous function 'gets' may cause buffer overflow (line 134)
+  - Dangerous function 'gets' may cause buffer overflow (line 155)
+  - Dangerous function 'gets' may cause buffer overflow (line 156)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/76338574/how-to-remove-extern-functions-in-c-and-be-able-to-use-them-from-golang
+  - Use of uninitialized variable 'delta_callback' (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74299267/create-zip-with-java-program-and-while-unzip-using-golang-getting-issue-as-zli
+  - Possible command injection via system/popen() (line 23)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/74024866/how-to-deal-with-back-pressure-in-go-grpc
+  - Dangerous function 'gets' may cause buffer overflow (line 11)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69953328/golang-render-new-template-on-button-press
+  - CSRF: Form Without CSRF vulnerability (line 17)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64769540/how-can-i-open-a-sound-file-loaded-in-memory-with-libsndfile
+  - Use-after-free of variable 'membuf' (line 68)
+  - Double free of variable 'membuf' (line 69)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64769540/how-can-i-open-a-sound-file-loaded-in-memory-with-libsndfile
+  - Possible NULL pointer dereference (line 6)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60260248/how-can-i-get-a-c-variable-from-cgo
+  - Use of uninitialized variable 'count' (line 9)
+  - Use of uninitialized variable 'i' (line 11)
+  - Use of uninitialized variable 'i' (line 12)
+  - Use of uninitialized variable 'i' (line 13)
+  - Use of uninitialized variable 'i' (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68792621/segmentation-violation-error-when-calling-fts-open-via-cgo
+  - Possible NULL pointer dereference (line 11)
+  - Possible NULL pointer dereference (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68792621/segmentation-violation-error-when-calling-fts-open-via-cgo
+  - Possible NULL pointer dereference (line 11)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65819321/pass-file-pointer-to-c-function
+  - Possible NULL pointer dereference (line 6)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63664419/unexpected-type-expecting-name
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71189898/converting-parsing-c-byte-struct-to-go
+  - Use of uninitialized variable 'm_tyresPressure' (line 22)
+  - Use of uninitialized variable 'm_tyresPressure' (line 39)
+  - Use of uninitialized variable 'm_tyresPressure' (line 55)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71189898/converting-parsing-c-byte-struct-to-go
+  - Use of uninitialized variable 'm_tyresPressure' (line 24)
+  - Use of uninitialized variable 'main' (line 26)
+  - Use of uninitialized variable 'm_tyresPressure' (line 41)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69282258/how-to-add-a-golang-string-to-a-c-struct-in-cgo
+  - Use of uninitialized variable 'x' (line 8)
+  - Use of uninitialized variable 'x' (line 34)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67046820/how-to-get-uuid-of-last-inserted-row-using-sqlx-in-postgres
+  - Use of %-formatting to build SQL query – risk of SQL injection (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61554805/channel-communication-behaviour-with-select-statement-in-goroutines
+  - Dangerous function 'gets' may cause buffer overflow (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/16505333/get-the-data-of-uploaded-file-in-javascript
+  - CSRF: Form Without CSRF vulnerability (line 1)
+  - XSS: InnerHTML vulnerability (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60276510/how-to-make-react-hook-form-work-with-multiple-forms-in-one-page
+  - CSRF: Form Without CSRF vulnerability (line 28)
+  - CSRF: Form Without CSRF vulnerability (line 49)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/12006417/node-js-server-that-accepts-post-requests
+  - CSRF: Form Without CSRF vulnerability (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59924585/im-getting-an-error-using-react-invalid-dom-property-for-did-you-mean-htm
+  - CSRF: Form Without CSRF vulnerability (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/19235345/javascript-typeerror-cannot-read-property-style-of-null
+  - XSS: Document Write vulnerability (line 6)
+  - XSS: Document Write vulnerability (line 10)
+  - XSS: Document Write vulnerability (line 12)
+  - XSS: Document Write vulnerability (line 14)
+  - XSS: Document Write vulnerability (line 16)
+  - XSS: Document Write vulnerability (line 18)
+  - XSS: Document Write vulnerability (line 20)
+  - XSS: Document Write vulnerability (line 22)
+  - XSS: Document Write vulnerability (line 25)
+  - XSS: Document Write vulnerability (line 28)
+  - XSS: Document Write vulnerability (line 30)
+  - XSS: Document Write vulnerability (line 32)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/55080103/how-to-separate-web-components-to-individual-files-and-load-them
+  - XSS: InnerHTML vulnerability (line 17)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/32433594/how-to-trigger-input-file-event-reactjs-by-another-dom
+  - CSRF: Form Without CSRF vulnerability (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/28885132/why-is-x-in-x-faster-than-x-x
+  - Use of uninitialized variable 'result' (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/6999565/python-https-get-with-basic-authentication
+  - Dangerous function 'gets' may cause buffer overflow (line 18)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+  - CSRF: Form Without CSRF vulnerability (line 4)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+  - CSRF: Form Without CSRF vulnerability (line 4)
+  - XSS: InnerHTML vulnerability (line 16)
+  - XSS: InnerHTML vulnerability (line 35)
+  - XSS: InnerHTML vulnerability (line 41)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65504438/how-to-add-both-file-and-json-body-in-a-fastapi-post-request
+  - XSS: InnerHTML vulnerability (line 14)
+  - XSS: InnerHTML vulnerability (line 34)
+  - XSS: InnerHTML vulnerability (line 40)
+  - XSS: InnerHTML vulnerability (line 61)
+  - XSS: InnerHTML vulnerability (line 67)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/36243538/how-often-do-i-have-to-commit-to-ensure-sqlite-execution-statements-all-get-comm
+  - Dynamic exec() invocation – possible execution of unsanitized SQL (line 18)
+  - Dynamic exec() invocation – possible execution of unsanitized SQL (line 22)
+  - Dynamic exec() invocation – possible execution of unsanitized SQL (line 36)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/59586879/does-await-in-python-yield-to-the-event-loop
+  - Dangerous function 'gets' may cause buffer overflow (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+  - execute() called with a single string literal – missing parameterization (line 9)
+  - execute() called with a single string literal – missing parameterization (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+  - execute() called with a single string literal – missing parameterization (line 8)
+  - execute() called with a single string literal – missing parameterization (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+  - execute() called with a single string literal – missing parameterization (line 9)
+  - execute() called with a single string literal – missing parameterization (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/4699605/why-doesn-t-sqlite-require-a-commit-call-to-save-data
+  - execute() called with a single string literal – missing parameterization (line 9)
+  - execute() called with a single string literal – missing parameterization (line 15)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/10625865/how-does-pyarg-parsetupleandkeywords-work
+  - Possible NULL pointer dereference (line 5)
+  - Possible NULL pointer dereference (line 6)
+  - Possible NULL pointer dereference (line 7)
+  - Possible NULL pointer dereference (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/20208562/homepage-login-form-django
+  - CSRF: Form Without CSRF vulnerability (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/26824019/are-sessions-needed-for-python-social-auth
+  - Dangerous function 'gets' may cause buffer overflow (line 2)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64083104/making-python-generator-via-c20-coroutines
+  - Use of uninitialized variable 'main' (line 64)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69046990/how-to-pass-dependency-files-to-sagemaker-sklearnprocessor-and-use-it-in-pipelin
+  - Dangerous function 'gets' may cause buffer overflow (line 10)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/75363733/sqlalchemy-2-0-orm-model-datetime-insertion
+  - Use of f-string to build SQL query – risk of SQL injection (line 19)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+  - XSS: InnerHTML vulnerability (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73442335/how-to-upload-a-large-file-%e2%89%a53gb-to-fastapi-backend
+  - XSS: InnerHTML vulnerability (line 11)
+  - XSS: InnerHTML vulnerability (line 36)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73547776/how-to-redirect-from-one-domain-to-another-and-set-cookies-or-headers-for-the-ot
+  - CSRF: Form Without CSRF vulnerability (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging
+  - Dangerous function 'gets' may cause buffer overflow (line 38)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/64963861/python-socket-io-ack-function
+  - XSS: InnerHTML vulnerability (line 29)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62986605/why-do-i-get-that-point-in-my-flutter-animatedchecked-custompaint
+  - Use of uninitialized variable 'value' (line 83)
+  - Use of uninitialized variable 'strokeWidth' (line 85)
+  - Use of uninitialized variable '_length' (line 86)
+  - Use of uninitialized variable '_offset' (line 87)
+  - Use of uninitialized variable '_secondOffset' (line 88)
+  - Use of uninitialized variable '_startingAngle' (line 89)
+  - Use of uninitialized variable 'value' (line 91)
+  - Use of uninitialized variable 'strokeWidth' (line 93)
+  - Use of uninitialized variable 'strokeWidth' (line 97)
+  - Use of uninitialized variable 'value' (line 100)
+  - Use of uninitialized variable 'circleValue' (line 125)
+  - Use of uninitialized variable 'value' (line 126)
+  - Use of uninitialized variable 'value' (line 128)
+  - Use of uninitialized variable 'value' (line 130)
+  - Use of uninitialized variable 'getMax' (line 200)
+  - Use of uninitialized variable 'getMin' (line 203)
+  - Use of uninitialized variable 'value' (line 217)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63616028/how-to-integrate-plotly-express-chart-to-flask-app
+  - CSRF: Form Without CSRF vulnerability (line 2)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68541313/what-is-causing-this-endforeach-error-when-i-try-to-upgrade-the-site-to-php-7-4
+  - Potential XSS vulnerability via direct output (line 1)
+  - Potential XSS vulnerability via direct output (line 12)
+  - Potential XSS vulnerability via direct output (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/63314770/this-setstate-not-updating
+  - CSRF: Form Without CSRF vulnerability (line 33)
+  - CSRF: Form Without CSRF vulnerability (line 34)
+  - CSRF: Form Without CSRF vulnerability (line 37)
+  - CSRF: Form Without CSRF vulnerability (line 67)
+  - CSRF: Form Without CSRF vulnerability (line 76)
+  - CSRF: Form Without CSRF vulnerability (line 85)
+  - CSRF: Form Without CSRF vulnerability (line 86)
+  - CSRF: Form Without CSRF vulnerability (line 87)
+  - CSRF: Form Without CSRF vulnerability (line 88)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71275041/create-a-timer-which-resets-itself-after-24-hours-but-doesnt-get-restarted-afte
+  - XSS: InnerHTML vulnerability (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/62692382/javascript-code-doesnt-work-inside-foreach
+  - XSS: InnerHTML vulnerability (line 9)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68470210/how-can-i-send-a-session-value-into-sql-query-in-php
+  - Direct use of user input without sanitization (line 10)
+  - Direct use of user input without sanitization (line 11)
+  - Direct use of user input without sanitization (line 12)
+  - Direct use of user input without sanitization (line 13)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/61105775/java-servlet-form-post-issue-getparameters-return-null-values
+  - CSRF: Form Without CSRF vulnerability (line 21)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/60893894/how-to-access-the-member-of-the-class-after-initialization
+  - Dangerous function 'gets' may cause buffer overflow (line 6)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/73923797/is-there-a-way-i-can-make-a-react-drop-down-rendered-alone
+  - CSRF: Form Without CSRF vulnerability (line 45)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68958007/how-to-print-a-data-from-input-fields-to-hard-copy
+  - CSRF: Form Without CSRF vulnerability (line 6)
+  - XSS: Document Write vulnerability (line 22)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/68186394/each-card-does-not-open-and-close-as-expected-when-dynamically-created-with-java
+  - XSS: InnerHTML vulnerability (line 7)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/67564690/im-trying-to-use-the-logic-to-calculate-periods-between-dates-using-javascript-a
+  - XSS: InnerHTML vulnerability (line 12)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/65747234/javascript-filters-how-to-make-each-of-them-function-independently
+  - XSS: InnerHTML vulnerability (line 8)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71422395/i-have-a-problem-with-my-div-when-i-write-in-the-text-area-and-hit-save-nothing
+  - XSS: InnerHTML vulnerability (line 13)
+  - CSRF: Form Without CSRF vulnerability (line 30)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/71732173/how-do-you-output-the-encryption-and-decryption-time-in-php
+  - Dangerous function 'sprintf' may cause buffer overflow (line 14)
+
+================================================================================
+
+Stack Overflow URL: https://stackoverflow.com/questions/69239231/how-to-verify-payment-in-php
+  - CSRF: Form Without CSRF vulnerability (line 2)
+
+================================================================================
+
+GLOBAL VULNERABILITY SUMMARY
+==============================
+Use of uninitialized variable 'main': 72
+CSRF: Form Without CSRF vulnerability: 29
+Dangerous function 'gets' may cause buffer overflow: 25
+Use of uninitialized variable 'x': 25
+Use of uninitialized variable 'i': 21
+Possible NULL pointer dereference: 20
+XSS: InnerHTML vulnerability: 20
+XSS: Document Write vulnerability: 13
+Use of uninitialized variable 'y': 9
+Use of uninitialized variable 'n': 8
+Use of uninitialized variable 'buffer': 8
+execute() called with a single string literal – missing parameterization: 8
+Use of uninitialized variable 'buf': 7
+Use of uninitialized variable 'value': 7
+Use of uninitialized variable 'A_size': 6
+Use of %-formatting to build SQL query – risk of SQL injection: 6
+Use of uninitialized variable 'b': 5
+Use of uninitialized variable 'testCppPow': 5
+Use of uninitialized variable 'testCPow': 5
+Use of uninitialized variable 'mkpath': 5
+Dangerous function 'sprintf' may cause buffer overflow: 5
+Use of uninitialized variable 'count': 5
+Use of uninitialized variable 'id': 5
+Use of uninitialized variable 'm_tyresPressure': 5
+Use of uninitialized variable 'q': 4
+Use of uninitialized variable 'status': 4
+Use of uninitialized variable 'sym': 4
+Use of uninitialized variable 'f': 4
+Use of uninitialized variable 'update': 4
+Use of uninitialized variable 'width': 4
+Use of uninitialized variable 'tries': 4
+Potential XSS vulnerability via direct output: 4
+Use of uninitialized variable 'encrypt': 4
+Direct use of user input without sanitization: 4
+Use of uninitialized variable 'sse42': 3
+Use of uninitialized variable 'proteinIndex': 3
+Use of uninitialized variable 'str': 3
+Use of uninitialized variable 'left': 3
+Use of uninitialized variable 'foo': 3
+Use of uninitialized variable 'rand_int': 3
+Use of uninitialized variable 'username': 3
+Use of uninitialized variable 'add_integers': 3
+Dynamic exec() invocation – possible execution of unsanitized SQL: 3
+Use of uninitialized variable 'strokeWidth': 3
+Use of uninitialized variable 'p': 2
+Use of uninitialized variable 'perform_operation': 2
+Use of uninitialized variable 'resolvehelper': 2
+Use of uninitialized variable 'result': 2
+Use of uninitialized variable '__int_as_float': 2
+Use of uninitialized variable 'e': 2
+Use of uninitialized variable 'get_free_label': 2
+Use of uninitialized variable 'height': 2
+Use of uninitialized variable 'unk': 2
+Use of f-string to build SQL query – risk of SQL injection: 2
+Use of uninitialized variable 'resultRaw': 2
+Use of uninitialized variable 'uprobe_runtime_newproc1': 2
+Use of uninitialized variable 'age': 2
+Use of uninitialized variable 'pthread_create': 2
+Use of uninitialized variable 'test': 1
+Use of uninitialized variable 'val': 1
+Use of uninitialized variable 'patternIndex': 1
+Use of uninitialized variable 'loop_vc_nested_noselect': 1
+Use of uninitialized variable 'loop_vc_nested': 1
+Use of uninitialized variable 'szIP': 1
+Use of uninitialized variable 'my_logf': 1
+Use of uninitialized variable 'm_width': 1
+Use of uninitialized variable 'm_height': 1
+Use of uninitialized variable 'wmain': 1
+Use of uninitialized variable 'my_fast_gets': 1
+Use of uninitialized variable 'getOrder': 1
+Use of uninitialized variable 'err': 1
+Possible integer overflow from unchecked input: 1
+Use of uninitialized variable 'delta_callback': 1
+Possible command injection via system/popen(): 1
+Use-after-free of variable 'membuf': 1
+Double free of variable 'membuf': 1
+Use of uninitialized variable '_length': 1
+Use of uninitialized variable '_offset': 1
+Use of uninitialized variable '_secondOffset': 1
+Use of uninitialized variable '_startingAngle': 1
+Use of uninitialized variable 'circleValue': 1
+Use of uninitialized variable 'getMax': 1
+Use of uninitialized variable 'getMin': 1
