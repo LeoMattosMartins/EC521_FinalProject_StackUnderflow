@@ -50,7 +50,7 @@ def run():
     print(f"Collected {len(records)} code snippets.")
 
     # 2) Batched classification with progress bar
-    labels = ["c", "c++", "javascript", "php", "sql", "html"]
+    labels = ["c", "c++", "javascript", "php", "sql", "html", "python", "ruby", "go"]
     batch_size = 32
     num_batches = (len(records) + batch_size - 1) // batch_size
 
